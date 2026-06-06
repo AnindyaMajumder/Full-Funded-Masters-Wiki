@@ -1,0 +1,76 @@
+# ─────────────────────────────────────────────
+# Keep .claude/ tracked — do NOT ignore it.
+# (Agents, skills, and settings live here and should be committed.)
+# ─────────────────────────────────────────────
+
+# ===== Node / Astro =====
+node_modules/
+dist/
+.astro/
+.output/
+build/
+
+# Package manager logs & caches
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.pnpm-store/
+.npm/
+.eslintcache
+.stylelintcache
+
+# Test / coverage output
+coverage/
+.nyc_output/
+
+# Deploy provider caches
+.vercel/
+.netlify/
+.wrangler/
+
+# ===== Environment / secrets =====
+.env
+.env.*
+!.env.example
+*.local
+
+# ===== Python (crawl4ai scripts) =====
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+build/
+develop-eggs/
+.installed.cfg
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Tooling caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.pyre/
+.ipynb_checkpoints/
+.python-version
+
+# ===== OS / editor cruft =====
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+
+# ===== Project-specific (optional) =====
+# Saved official scholarship pages used as scraping input can be large and are
+# reproducible. Uncomment to keep them out of git:
+# sources/
