@@ -171,11 +171,32 @@ to the **Coverage** section below.
 
 ## Coverage
 
-Flagship programs to prioritize per country: **Europe** Erasmus Mundus, DAAD, Swedish
-Institute, Eiffel · **UK** Chevening, Commonwealth, Gates Cambridge, Clarendon · **USA**
-Fulbright, Knight-Hennessy, departmental assistantships · **Japan** MEXT, ADB-JSP ·
-**China** CSC, Schwarzman, Yenching · **Australia** Australia Awards, RTP. Expand this
-list into a running checklist as you add programs.
+Running checklist (as of 2026-06-11). **70 scholarships live across 4 countries**;
+every record is ground-truth-extracted from its official page with verbatim evidence,
+official links resolution-checked, and acceptance rates left "Not officially published"
+unless a real funder figure exists.
+
+- [x] **UK — 19** Chevening · Commonwealth Master's · Commonwealth Shared · Gates Cambridge ·
+  Clarendon · Rhodes · Felix · Oxford-Weidenfeld & Hoffmann · Cambridge Trust · GREAT
+  (#TuitionOnly) · Marshall · Ertegun (only numeric AR: 1.5%, funder-published) ·
+  Oxford-Pershing Square · OCIS · Skoll · Mastercard@Edinburgh · Saïd · Inlaks · A.S. Hornby.
+- [x] **Europe — 19** Erasmus Mundus · DAAD Study Scholarships · DAAD Helmut-Schmidt (PPGG) ·
+  Swedish Institute (SISGP) · Eiffel · ETH Zürich ESOP · EPFL · Stipendium Hungaricum ·
+  Italian Govt (MAECI) · Invest Your Talent · Türkiye Bursları · Stefan Banach (NAWA, PL) ·
+  Czech Govt · Fundación Carolina (ES) · Eric Bleumink (NL) · VLIR-UOS (BE) · ARES (BE) ·
+  KAS · Heinrich Böll.
+- [x] **China — 19** CSC/CGS (+ Type A/B channels at Zhejiang, Fudan, Tsinghua, SJTU) ·
+  Schwarzman · Yenching · Confucius/Intl Chinese Language Teachers · Belt-and-Road/Silk Road
+  (PKU, BNU, Fudan) · Beijing & Shanghai Government Scholarships · PKU/Tsinghua/USTC/CAS-ANSO.
+- [x] **Japan — 13** MEXT (Research Students + University Recommendation at UTokyo, Kyoto,
+  Inst. of Science Tokyo, APU) · MEXT YLP · ADB-JSP · JJ/WBGSP · JISPA · ABE Initiative ·
+  JDS · GRIPS. (Japan-WCO/GRIPS Customs course excluded by request.)
+- [ ] **Australia** — deferred by request (Australia Awards, RTP not yet added).
+- [ ] **USA** — deferred by request (Fulbright, Knight-Hennessy, Humphrey, Rotary Peace;
+  note most fully-funded US master's funding is departmental assistantships, not named awards).
+
+Re-run research for a country with: `Workflow .research.workflow.mjs` args `{only:["australia"]}`,
+then `node scripts/build-data.mjs <country> <source>`.
 
 ## Roadmap — features an aspirant wants
 

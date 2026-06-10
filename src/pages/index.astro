@@ -1,0 +1,36 @@
+---
+import Base from '../layouts/Base.astro';
+import ScholarshipGrid from '../components/ScholarshipGrid.astro';
+import { allWithCountry, DATA } from '../data/all';
+import { COUNTRY_ORDER } from '../lib/scholarship';
+
+const all = allWithCountry();
+const total = all.length;
+const countriesCovered = COUNTRY_ORDER.filter((k) => DATA[k].length > 0).length;
+const fullyFunded = all.filter((s) => !(s.tags ?? []).includes('#TuitionOnly')).length;
+---
+
+<Base>
+  <section class="hero container">
+    <p class="eyebrow">Fully funded · tuition + living stipend · cited to source</p>
+    <h1>Find a master’s the world will pay for.</h1>
+    <p class="lede">
+      A hand-verified directory of fully funded master’s scholarships across the UK, Europe,
+      Australia, the USA, China and Japan. Every benefit, deadline and acceptance rate is
+      traced to its official source — so you can decide where to apply, not just dream about it.
+    </p>
+    <div class="hero__stats">
+      <div class="stat"><div class="n">{total}</div><div class="l">scholarships</div></div>
+      <div class="stat"><div class="n">{countriesCovered}</div><div class="l">destinations</div></div>
+      <div class="stat"><div class="n">{fullyFunded}</div><div class="l">with a living stipend</div></div>
+    </div>
+  </section>
+
+  <div class="container">
+    <div class="section-head">
+      <h2>All scholarships</h2>
+      <p class="faint">Search, filter by tag &amp; deadline, or sort by what’s closing next.</p>
+    </div>
+    <ScholarshipGrid items={all} gridId="all" showCountry={true} />
+  </div>
+</Base>
