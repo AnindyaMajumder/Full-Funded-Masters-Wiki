@@ -1,5 +1,16 @@
 import type { Scholarship, CountryKey, ScholarshipWithCountry } from '../types/scholarship';
 
+// Re-export the data-contract types so components/routes can import everything
+// scholarship-related from `$lib/scholarship` (keeps `src/types` the source of truth).
+export type {
+  Scholarship,
+  Timeline,
+  AcceptanceRate,
+  Source,
+  CountryKey,
+  ScholarshipWithCountry,
+} from '../types/scholarship';
+
 // Deterministic "now" — anchored to the project date so builds are reproducible
 // and consistent with the data's lastVerified / timeline anchor (2026-06).
 export const SITE_NOW = new Date('2026-06-06T00:00:00Z');

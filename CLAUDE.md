@@ -6,37 +6,46 @@ verifiable resource for an aspirant deciding where to apply.
 
 ## Tech stack
 
-- **Astro** static site, with **React `.tsx` islands** for interactivity only.
+- **SvelteKit** static site (`@sveltejs/adapter-static`, every route prerendered).
+  Built **from scratch in Svelte 5** (runes) — the earlier Astro/React frontend was
+  removed; only the framework-agnostic data/types/lib and the `sources/` research were kept.
 - **TypeScript** everywhere. Scholarship data lives in typed `.ts` data files — one per
   country — validated against a single shared `Scholarship` type. Components only render
   data; they never hold scholarship facts inline.
-- Render scholarship cards as **static HTML**. Hydrate a React island **only** where the
-  UI is genuinely interactive (search, filter, comparison). Do not make a card a client
-  component just to display it.
+- Cards prerender to **static HTML** (readable with no JS). Interactivity (search, filter,
+  sort) is a single reactive Svelte component that filters the data client-side — no DOM
+  hacking, no per-card client component just to display it.
 
-> The repo is greenfield (only `LICENSE` exists). Scaffold with
-> `npm create astro@latest` (add the React integration), then create the layout below.
+> Scaffolded by hand (not `npm create`): see `svelte.config.js`, `vite.config.ts`,
+> `src/app.html`, `src/app.css`. Run `npm install`, then `npm run dev` / `npm run build`.
 
 ## Directory layout
 
 ```
 src/
+  app.html                 # document shell (fonts, favicon)
+  app.css                  # global design system (tokens, base, buttons)
   types/scholarship.ts     # the Scholarship data contract (source of truth)
+  lib/
+    scholarship.ts         # framework-agnostic helpers (status, tags, ics, sort) + type re-exports
+    components/
+      ScholarshipCard.svelte   # static render of one scholarship (glance + progressive disclosure)
+      Directory.svelte         # reactive island — search / filter / sort + the card grid
   data/
     europe.ts  uk.ts  usa.ts  japan.ts  china.ts  australia.ts
                            # export const <country>: Scholarship[] = [...]
-  components/
-    ScholarshipCard.tsx    # static render of one scholarship
-    ScholarshipFilter.tsx  # React island — interactive search/filter
-  layouts/Base.astro
-  pages/
-    index.astro            # landing + cross-country search
-    europe.astro uk.astro usa.astro japan.astro china.astro australia.astro
-sources/<country>/<program>.html   # optional: saved official pages used as research input
+    all.ts                 # aggregates the six arrays + country helpers
+  routes/
+    +layout.svelte +layout.ts  # app shell (header nav, footer) + prerender=true
+    +page.svelte               # landing hero + cross-country directory
+    [country]/+page.svelte +page.ts   # one prerendered page per country (entries())
+sources/<country>/<program>.{html,md}   # saved official pages used as research input
 ```
 
-Each `pages/<country>.astro` imports its `data/<country>.ts` array and maps it to
-`<ScholarshipCard>`. `index.astro` may aggregate all six arrays.
+`$data` aliases `src/data`; `$lib` is `src/lib`. `routes/[country]/+page.ts` enumerates
+the country buckets via `entries()` so each is prerendered; `+page.svelte` imports
+`countryData(key)` and renders it through `<Directory>`. The landing page aggregates all
+six arrays via `allWithCountry()`.
 
 ## The data contract
 
@@ -123,10 +132,12 @@ User experience is a primary goal, not a finishing touch. Every page must:
   eligibility at a glance on each card, then drill in for detail. Prioritize scannability:
   the six required fields are the headline, everything else is progressive disclosure.
 - **Stay accessible & fast** — semantic HTML, sufficient color contrast (WCAG AA), keyboard
-  navigability, and Astro's static output kept lean so pages load quickly on mobile data.
+  navigability, and SvelteKit's prerendered static output kept lean so pages load quickly on mobile data.
 
-Implement animation with CSS transitions/keyframes or a lightweight library inside React
-islands; do not pull in a heavy animation dependency for effects CSS can do.
+Implement animation with CSS transitions/keyframes (or Svelte's built-in `transition:`/
+`animate:` inside components); do not pull in a heavy animation dependency for effects CSS can do.
+Respect `prefers-reduced-motion` for JS-driven motion too (the directory's filter/reorder
+animations already gate on it).
 
 ## Data-integrity rules (most important — read first)
 
@@ -166,8 +177,9 @@ funded" actually includes a living stipend vs. tuition-only.
 4. Append the object to the matching `data/<country>.ts` array.
 5. Tick it off in the **Coverage** section below.
 
-To add a **country**, create `data/<country>.ts` and `pages/<country>.astro`, then add it
-to the **Coverage** section below.
+To add a **country**, create `data/<country>.ts`, wire it into `data/all.ts` and
+`COUNTRY_ORDER`/`COUNTRY_LABELS` in `lib/scholarship.ts` (the `[country]` route prerenders
+it automatically via `entries()`), then add it to the **Coverage** section below.
 
 ## Coverage
 
@@ -201,8 +213,8 @@ then `node scripts/build-data.mjs <country> <source>`.
 ## Roadmap — features an aspirant wants
 
 The six required fields cover *what each scholarship is*. These features turn the wiki into
-a *decision tool*. Ordered roughly by value-to-effort. All interactive pieces are React
-islands (see Design & UX above); everything else is static.
+a *decision tool*. Ordered roughly by value-to-effort. All interactive pieces are Svelte
+components (see Design & UX above); everything else is prerendered static HTML.
 
 **High value**
 
@@ -247,7 +259,8 @@ islands (see Design & UX above); everything else is static.
 Vendored into `.claude/` (see `.claude/agents/ATTRIBUTION.md` for sources/licenses):
 
 - **Frontend subagents** (`.claude/agents/`): `astro-expert`, `react-expert`, `css-expert`,
-  `html-expert`. Delegate framework/styling/accessibility work to these.
+  `html-expert`. The frontend is now **Svelte**, so `astro-expert`/`react-expert` are
+  legacy; delegate styling/accessibility/markup work to `css-expert`/`html-expert`.
 - **`crawl4ai` skill** (`.claude/skills/crawl4ai/`): scrape official scholarship pages and
   extract fields. **Use its CSS/schema (LLM-free) extraction, not LLM extraction** — facts
   must come from the page, not the model (see Data-integrity rules). One-time runtime setup:
@@ -257,11 +270,10 @@ Research/finding scholarships is already covered by the installed `deep-research
 
 ## Commands
 
-After scaffolding (`package.json` does not exist yet):
-
 ```
 npm install
-npm run dev       # local dev server
-npm run build     # static build -> dist/
-npm run preview   # preview the build
+npm run dev       # local dev server (Vite)
+npm run build     # prerendered static build -> build/
+npm run preview   # preview the production build
+npm run check     # svelte-check (type-check .svelte + .ts)
 ```

@@ -3,10 +3,11 @@
 # (Agents, skills, and settings live here and should be committed.)
 # ─────────────────────────────────────────────
 
-# ===== Node / Astro =====
+# ===== Node / SvelteKit =====
 node_modules/
 dist/
 .astro/
+.svelte-kit/
 .output/
 build/
 
