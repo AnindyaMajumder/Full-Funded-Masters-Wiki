@@ -29,6 +29,7 @@ coverage/
 .vercel/
 .netlify/
 .wrangler/
+worker-configuration.d.ts
 
 # ===== Environment / secrets =====
 .env

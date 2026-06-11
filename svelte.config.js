@@ -1,17 +1,13 @@
-import adapter from '@sveltejs/adapter-static';
+import adapter from '@sveltejs/adapter-cloudflare';
 import { vitePreprocess } from '@sveltejs/vite-plugin-svelte';
 
 /** @type {import('@sveltejs/kit').Config} */
 const config = {
   preprocess: vitePreprocess(),
   kit: {
-    adapter: adapter({
-      pages: 'build',
-      assets: 'build',
-      fallback: undefined,
-      precompress: false,
-      strict: true
-    }),
+    // Every route is prerendered (see src/routes/+layout.ts); the generated worker
+    // just serves those static assets on Cloudflare. Output -> .svelte-kit/cloudflare.
+    adapter: adapter(),
     alias: {
       $data: 'src/data'
     }
