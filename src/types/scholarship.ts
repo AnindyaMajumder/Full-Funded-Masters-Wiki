@@ -69,7 +69,11 @@ export type CountryKey =
   | 'usa'
   | 'japan'
   | 'china'
-  | 'australia';
+  | 'australia'
+  | 'southkorea'
+  | 'taiwan'
+  | 'singapore'
+  | 'malaysia';
 
 /** A Scholarship plus the country bucket it belongs to (used by the aggregated index/filter). */
 export interface ScholarshipWithCountry extends Scholarship {

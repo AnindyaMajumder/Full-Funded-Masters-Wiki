@@ -183,10 +183,16 @@ it automatically via `entries()`), then add it to the **Coverage** section below
 
 ## Coverage
 
-Running checklist (as of 2026-06-11). **70 scholarships live across 4 countries**;
+Running checklist (as of 2026-06-17). **93 scholarships live across 8 countries**;
 every record is ground-truth-extracted from its official page with verbatim evidence,
 official links resolution-checked, and acceptance rates left "Not officially published"
-unless a real funder figure exists.
+unless a real funder figure exists. All 70 UK/EU/CN/JP deadlines were re-verified against
+source on 2026-06-17 (one correction: ZJU CGS Type A opens 15 — not 5 — November 2025).
+The four Asian additions below were researched specifically for a **Bangladeshi national** —
+every entry's eligibility for Bangladeshis is confirmed on the official page.
+
+> UI note: the acceptance-rate column was removed from the ledger by request. `acceptanceRate`
+> is still part of the data contract and is captured per record; it is just not displayed.
 
 - [x] **UK — 19** Chevening · Commonwealth Master's · Commonwealth Shared · Gates Cambridge ·
   Clarendon · Rhodes · Felix · Oxford-Weidenfeld & Hoffmann · Cambridge Trust · GREAT
@@ -203,6 +209,18 @@ unless a real funder figure exists.
 - [x] **Japan — 13** MEXT (Research Students + University Recommendation at UTokyo, Kyoto,
   Inst. of Science Tokyo, APU) · MEXT YLP · ADB-JSP · JJ/WBGSP · JISPA · ABE Initiative ·
   JDS · GRIPS. (Japan-WCO/GRIPS Customs course excluded by request.)
+- [x] **South Korea — 8** Global Korea Scholarship (GKS-G, embassy + university tracks) ·
+  KAIST · GIST · DGIST · UNIST · POSTECH · SNU (GSFS) · KOICA-CIAT. (POSCO excluded —
+  Bangladesh not on its official eligible-country list.)
+- [x] **Taiwan — 8** MOE Taiwan Scholarship (via TECC New Delhi for Bangladesh) ·
+  NTU Taiwan Elite · NTU Int'l Outstanding Graduate · NTHU · NYCU · NCKU · NTUST · NCCU New
+  Inbound. (Taiwan ICDF excluded — Bangladesh not an ICDF partner country.)
+- [x] **Singapore — 4** NUS Research Scholarship · NTU Research Scholarship · LKYSPP Endowed/
+  School-Funded · LKYSPP-Hinrich (#TuitionOnly). (Full funding is mostly research-master's;
+  SINGA is PhD-only, ASEAN/Citizen-only awards excluded.)
+- [x] **Malaysia — 3** MTCP Scholarship (Bangladesh explicitly eligible) · Malaysia
+  International Scholarship (via Commonwealth/CPA-Asia route) · University of Malaya UMSS
+  (GRA). (Most other MY university awards are PhD-only, local-only, or partial tuition.)
 - [ ] **Australia** — deferred by request (Australia Awards, RTP not yet added).
 - [ ] **USA** — deferred by request (Fulbright, Knight-Hennessy, Humphrey, Rotary Peace;
   note most fully-funded US master's funding is departmental assistantships, not named awards).

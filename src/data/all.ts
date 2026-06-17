@@ -6,8 +6,15 @@ import { usa } from './usa';
 import { japan } from './japan';
 import { china } from './china';
 import { australia } from './australia';
+import { southkorea } from './southkorea';
+import { taiwan } from './taiwan';
+import { singapore } from './singapore';
+import { malaysia } from './malaysia';
 
-export const DATA = { uk, europe, usa, japan, china, australia } as const;
+export const DATA = {
+  uk, europe, usa, japan, china, australia,
+  southkorea, taiwan, singapore, malaysia,
+} as const;
 
 export function countryData(key: CountryKey): ScholarshipWithCountry[] {
   return withCountry(DATA[key], key);

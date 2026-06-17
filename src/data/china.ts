@@ -720,9 +720,9 @@ export const china: Scholarship[] = [
     ],
     "timeline": {
       "cycle": "2025-2026",
-      "opens": "2025-11-05",
+      "opens": "2025-11-15",
       "deadline": "2026-02-28",
-      "notes": "Dates are for the ZJU Pre-admission Notice for the CSC Bilateral (Type A) Program, 2026 intake: application duration November 5, 2025 to February 28, 2026 (Beijing time, inclusive). The actual CGS application is submitted separately to the dispatching authority in the home country, generally January to early April; consult that authority for its specific deadline. This is the most recent cycle documented on the official page as of 2026-06."
+      "notes": "Dates are for the ZJU Pre-admission Notice for the CSC Bilateral (Type A) Program, 2026 intake: application duration November 15, 2025 to February 28, 2026 (Beijing time, the deadline includes the day itself). The actual CGS application is submitted separately to the dispatching authority in the home country, generally January to early April; consult that authority for its specific deadline. This is the most recent cycle documented on the official page; re-verified against the official ZJU page on 2026-06-17 (the opening date is November 15, not November 5)."
     },
     "benefits": [
       "Chinese Government Scholarship (CGS) Bilateral Program — described by ZJU as 'a full or partial scholarship established by the Ministry of Education of China'",
@@ -785,7 +785,7 @@ export const china: Scholarship[] = [
         "accessed": "2026-06-06"
       }
     ],
-    "lastVerified": "2026-06-06",
+    "lastVerified": "2026-06-17",
     "tags": [
       "#FullyFunded",
       "#NoApplicationFee",
