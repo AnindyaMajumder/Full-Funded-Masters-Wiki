@@ -15,7 +15,10 @@ export type {
 // and consistent with the data's lastVerified / timeline anchor (2026-06).
 export const SITE_NOW = new Date('2026-06-06T00:00:00Z');
 
-export const COUNTRY_ORDER: CountryKey[] = ['uk', 'europe', 'australia', 'usa', 'china', 'japan'];
+export const COUNTRY_ORDER: CountryKey[] = [
+  'uk', 'europe', 'australia', 'usa', 'china', 'japan',
+  'southkorea', 'taiwan', 'singapore', 'malaysia',
+];
 
 export const COUNTRY_LABELS: Record<CountryKey, string> = {
   uk: 'United Kingdom',
@@ -24,6 +27,24 @@ export const COUNTRY_LABELS: Record<CountryKey, string> = {
   japan: 'Japan',
   china: 'China',
   australia: 'Australia',
+  southkorea: 'South Korea',
+  taiwan: 'Taiwan',
+  singapore: 'Singapore',
+  malaysia: 'Malaysia',
+};
+
+/** Emoji flag per country bucket — a quick visual anchor in the aggregated ledger. */
+export const COUNTRY_FLAG: Record<CountryKey, string> = {
+  uk: '🇬🇧',
+  europe: '🇪🇺',
+  usa: '🇺🇸',
+  japan: '🇯🇵',
+  china: '🇨🇳',
+  australia: '🇦🇺',
+  southkorea: '🇰🇷',
+  taiwan: '🇹🇼',
+  singapore: '🇸🇬',
+  malaysia: '🇲🇾',
 };
 
 /** Attach the country bucket to a list of scholarships (for the aggregated index/filter). */
