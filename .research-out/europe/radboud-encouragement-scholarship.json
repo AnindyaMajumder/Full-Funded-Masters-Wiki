@@ -1,0 +1,83 @@
+{
+  "name": "Radboud Encouragement Scholarship",
+  "officialLink": "https://www.ru.nl/en/education/scholarships/radboud-encouragement-scholarship",
+  "requiredDocuments": [
+    "Online application for admission to an English-taught Master's programme in the OSIRIS Application system, indicating that you wish to apply for the Radboud Encouragement Scholarship",
+    "Two reference letters (the same letters used for the Master's application may be reused)",
+    "Curriculum vitae (the same CV used for the Master's application may be reused)",
+    "A scholarship motivation letter — must be a DIFFERENT letter than the Master's programme motivation letter, explaining why you need this scholarship in order to be able to attend Radboud University"
+  ],
+  "timeline": {
+    "cycle": "2025-2026",
+    "deadline": "Submit in OSIRIS by 31 January 2025 23:59 CEST; application must be COMPLETE by 14 February 2025 23:59 CEST",
+    "notes": "Anchored to 2026-06: documenting the fully-documented 2025-2026 cycle. As of 2026-06 the 2026-2027 cycle has CLOSED and the live Encouragement page sits behind a Surfconext login wall (returns HTTP 403/login stub). The sibling Radboud Scholarship Programme page shows the equivalent 2026-2027 dates (submit by 31 January 2026 23:59 CET, complete by 14 February 2026 23:59 CET, decision before mid-April 2026). Studies start 1 September. Verify the next cycle's exact dates on the official page when it reopens."
+  },
+  "benefits": [
+    "Full tuition fee waiver for the nominal duration of the Master's programme",
+    "Living-costs allowance of €13,200 (the IND-set amount, January 2025, for 2025-2026)",
+    "Costs of visa and residence permit",
+    "Health insurance and liability insurance for the stay in the Netherlands (Aon Student Insurance)"
+  ],
+  "acceptanceRate": {
+    "value": "Not officially published",
+    "isOfficial": false
+  },
+  "mustKnow": [
+    "Two-step process: scholarship selection and Master's admission are SEPARATE processes — admission to the programme does NOT imply selection for the scholarship. You must already be (or be in the process of being) fully admitted to an English-taught Master's starting 1 September.",
+    "Need-based + merit: you must declare you do NOT have sufficient funds or access to grants/loans to finance your studies at Radboud University, AND the faculty selection committee makes a selection based on academic qualities after the scholarship motivation letter has been judged.",
+    "The scholarship motivation letter must be a SEPARATE, distinct letter from your Master's-programme motivation letter, explaining specifically why you need the scholarship.",
+    "Eligibility requires a Bachelor's degree obtained OUTSIDE the Netherlands and no prior Dutch degrees/education (exchange programmes that were part of your foreign Bachelor's are excluded from this restriction); you must hold a non-EU/non-EEA passport and not be eligible for the lower EU/EEA tuition fee.",
+    "Erasmus Mundus Master's programmes and joint-degree Master's programmes are NOT eligible — only standard English-taught Radboud Master's.",
+    "Genuinely fully funded (tuition + €13,200 living allowance + insurance) — do NOT confuse it with the separate Radboud Scholarship Programme, which is PARTIAL (reduces tuition to about €2,694 and does NOT cover living costs).",
+    "Very limited slots: for 2025-2026 only 11 Encouragement Scholarships were available across faculties (Medical Sciences 6; Arts, Management, Philosophy/Theology, Science, Social Sciences 1 each).",
+    "For a two-year Master's, second-year funding is conditional: you must pass all first-year courses to qualify for the grant again in the second year."
+  ],
+  "host": {
+    "country": "Netherlands",
+    "city": "Nijmegen",
+    "universities": [
+      "Radboud University"
+    ]
+  },
+  "degreeType": "taught",
+  "duration": "Nominal duration of the Master's programme (typically 1-2 years)",
+  "intake": [
+    "Fall (1 September) 2025"
+  ],
+  "eligibleNationalities": "Applicants from all non-EU/non-EEA countries (no closed bilateral list). Must hold a non-EU/non-EEA passport and not be eligible for the lower EU/EEA tuition fee. Bangladesh is eligible. Erasmus Mundus and joint-degree programmes are excluded.",
+  "languageRequirements": "Must meet the English language proficiency requirement of the chosen Master's programme (typically IELTS/TOEFL; exact band set per programme).",
+  "fundingCovers": [
+    "Full tuition",
+    "Living-costs allowance (€13,200, IND rate)",
+    "Visa",
+    "Residence permit",
+    "Health insurance",
+    "Liability insurance"
+  ],
+  "monthlyStipend": "Living-costs allowance of €13,200 for 2025-2026 (annual, IND-set; not paid as a separate monthly stipend amount in the official text)",
+  "supervisorRequired": false,
+  "twoStepProcess": true,
+  "renewalConditions": "For a two-year Master's, you must pass all first-year courses to qualify for the grant again in the second year.",
+  "sources": [
+    {
+      "label": "Radboud University — Radboud Encouragement Scholarship (official page; now behind a Surfconext login wall as the 2026-2027 cycle has closed — returns HTTP 403/login stub)",
+      "url": "https://www.ru.nl/en/education/scholarships/radboud-encouragement-scholarship",
+      "accessed": "2026-06-18"
+    },
+    {
+      "label": "Radboud University — Scholarships overview / index (official)",
+      "url": "https://www.ru.nl/en/education/scholarships",
+      "accessed": "2026-06-18"
+    },
+    {
+      "label": "Radboud University — Radboud Scholarship Programme (official sibling page, crawled live HTTP 200; confirms non-EU/EEA eligibility, OSIRIS process, deadline structure, two-year second-year condition, and the partial-vs-full distinction)",
+      "url": "https://www.ru.nl/en/education/scholarships/radboud-scholarship-programme",
+      "accessed": "2026-06-18"
+    }
+  ],
+  "lastVerified": "2026-06-18",
+  "tags": [
+    "#FullyFunded",
+    "#TwoStepProcess"
+  ]
+}

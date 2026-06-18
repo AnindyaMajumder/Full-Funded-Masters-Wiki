@@ -11,31 +11,48 @@ export const meta = {
 // ---------------------------------------------------------------------------
 // Config
 // ---------------------------------------------------------------------------
-const REPO = '/home/riseup-labs/Pictures/Full-Funded-Masters-Wiki'
+const REPO = '/home/xiang-yu/Documents/Full-Funded-Masters-Wiki'
 const ANCHOR = '2026-06'
 const TODAY = '2026-06-18'
 
-// The 19 programs ALREADY in src/data/europe.ts — discovery MUST NOT re-propose these.
+// The 34 programs ALREADY in src/data/europe.ts (as of 2026-06-18) — discovery MUST NOT
+// re-propose these (regenerate from data with:
+//   node -e "const t=require('fs').readFileSync('src/data/europe.ts','utf8');const m='export const europe: Scholarship[] = ';let b=t.slice(t.indexOf(m)+m.length).trim().replace(/;$/,'');JSON.parse(b).forEach(s=>console.log('  '+JSON.stringify(s.name)+','))").
 const ALREADY_LISTED = [
-  'ARES International Training Scholarships (Bourses de formations internationales) — Wallonia-Brussels Federation, Belgium',
-  'Czech Government Scholarships for Developing Countries',
+  "Ampère Excellence Scholarship (ENS de Lyon)",
+  "Amsterdam Merit Scholarship (AMS) — University of Amsterdam",
+  "Anne van den Ban Fund (ABF) — Wageningen University & Research",
+  "ARES International Training Scholarships (Bourses de formations internationales) — Wallonia-Brussels Federation, Belgium",
+  "Czech Government Scholarships for Developing Countries",
+  "DAAD EPOS - Development-Related Postgraduate Courses",
   "DAAD Helmut-Schmidt-Programme (Master's Scholarships for Public Policy and Good Governance - PPGG)",
-  'DAAD Study Scholarships - Master Studies for Graduates of All Disciplines',
-  'EPFL Master Excellence Fellowships',
-  'Erasmus Mundus Joint Masters (EMJM) Scholarships',
-  'Eric Bleumink Fellowship (Talent Grant) — University of Groningen',
-  'ETH Zurich Excellence Scholarship & Opportunity Programme (ESOP)',
-  'France Excellence Eiffel Scholarship Programme',
-  'Fundación Carolina Postgraduate Scholarships (Becas de Postgrado)',
-  'Heinrich Böll Foundation Scholarships (Studienwerk)',
-  'Invest Your Talent in Italy Scholarship',
-  'Italian Government Scholarships (MAECI) for Foreign Students and Italian Citizens Living Abroad (IRE)',
-  'Konrad-Adenauer-Stiftung (KAS) Scholarship Programme for International Students',
-  'Stefan Banach NAWA Scholarship Programme (Banach NAWA)',
-  'Stipendium Hungaricum Scholarship',
-  'Swedish Institute Scholarship for Global Professionals (SISGP)',
-  'Türkiye Scholarships (Türkiye Burslari)',
-  'VLIR-UOS ICP Connect Scholarships',
+  "DAAD Hilde Domin Programme (Master's for At-Risk Students)",
+  "DAAD Study Scholarships - Master Studies for Graduates of All Disciplines",
+  "École Polytechnique Master's (MSc&T) Excellence Scholarship — Ecole Polytechnique Foundation",
+  "ENS-PSL International Selection (École Normale Supérieure - PSL)",
+  "EPFL Master Excellence Fellowships",
+  "Erasmus Mundus Joint Masters (EMJM) Scholarships",
+  "Eric Bleumink Fellowship (Talent Grant) — University of Groningen",
+  "ETH Zurich Excellence Scholarship & Opportunity Programme (ESOP)",
+  "France Excellence Eiffel Scholarship Programme",
+  "Friedrich-Ebert-Stiftung (FES) Scholarship for International Students",
+  "Fundación Carolina Postgraduate Scholarships (Becas de Postgrado)",
+  "Heinrich Böll Foundation Scholarships (Studienwerk)",
+  "International Scholarship Programme (ISP) — Avicenna-Studienwerk",
+  "Invest Your Talent in Italy Scholarship",
+  "Italian Government Scholarships (MAECI) for Foreign Students and Italian Citizens Living Abroad (IRE)",
+  "Justus & Louise van Effen Excellence Scholarship",
+  "KAAD Scholarship Programme 1 (Catholic Academic Exchange Service)",
+  "Konrad-Adenauer-Stiftung (KAS) Scholarship Programme for International Students",
+  "Maastricht University NL-High Potential Scholarship",
+  "Rosa-Luxemburg-Stiftung Scholarship (Studienwerk) — International Students (Master's)",
+  "Sciences Po Émile Boutmy Scholarship",
+  "Stefan Banach NAWA Scholarship Programme (Banach NAWA)",
+  "Stipendium Hungaricum Scholarship",
+  "Swedish Institute Scholarship for Global Professionals (SISGP)",
+  "Türkiye Scholarships (Türkiye Burslari)",
+  "Université Paris-Saclay International Master's Scholarship (IDEX)",
+  "VLIR-UOS ICP Connect Scholarships",
 ]
 
 // One bucket per European country (plus a pan-Europe bucket for cross-border programmes).
@@ -46,16 +63,16 @@ const ALL_COUNTRIES = [
     'DAAD EPOS — Development-Related Postgraduate Courses', 'KAAD (Catholic Academic Exchange Service) Scholarship',
     'Friedrich-Ebert-Stiftung (FES) Scholarship', 'Rosa-Luxemburg-Stiftung Scholarship', 'Hanns-Seidel-Stiftung Scholarship',
     'Friedrich-Naumann-Stiftung Scholarship', 'Bayer Foundation / Carl Duisberg fellowships', 'Mawista Scholarship' ],
-    note: 'EXCLUDE DAAD Study Scholarships, DAAD Helmut-Schmidt (PPGG), KAS, Heinrich Böll (already listed). DAAD EPOS is a strong fully-funded development course list. Deutschlandstipendium is only €300/mo partial — EXCLUDE. Political-foundation Studienstiftungen (FES, RLS, HSS, FNF) fund international master\'s — confirm Bangladeshis eligible.' },
+    note: 'EXCLUDE (already listed): DAAD Study Scholarships, DAAD Helmut-Schmidt (PPGG), DAAD EPOS, DAAD Hilde Domin, KAS, Heinrich Böll, Friedrich-Ebert (FES), Rosa-Luxemburg, KAAD, Avicenna ISP. Find OTHER German awards open to Bangladeshis: Hanns-Seidel (HSS) and Friedrich-Naumann (FNF) Studienwerke, Bayer Foundation / Carl Duisberg fellowships, DAAD STIBET, Deutschlandstipendium (only €300/mo partial — include only if tagged partial), Mawista (tuition contribution). Confirm Bangladeshis eligible; mark coverage honestly.' },
   { key: 'france', label: 'France', target: 5, flagships: [
     'Sciences Po Émile-Boutmy Scholarship', 'Ampère Excellence Scholarship (ENS de Lyon)', 'École Polytechnique Master\'s Scholarship (incl. Excellence)',
     'ENS International Selection (PSL)', 'France Excellence (French Embassy in Bangladesh / Campus France)', 'INSP / Sorbonne / IDEX excellence scholarships' ],
-    note: 'EXCLUDE Eiffel (already listed). Émile-Boutmy covers tuition (sometimes + living) for non-EU at Sciences Po. Confirm what is actually covered (tuition-only vs + stipend) and Bangladesh eligibility.' },
+    note: 'EXCLUDE (already listed): Eiffel, Ampère (ENS de Lyon), ENS-PSL International Selection, Paris-Saclay IDEX, École Polytechnique MSc&T Excellence, Sciences Po Émile-Boutmy. Find OTHER French awards open to Bangladeshis: INSP / IEP graduate scholarships, Sorbonne & PSL faculty scholarships, IMT, Université Grenoble Alpes IDEX, emlyon/HEC need-based, France Excellence Major. Mark tuition-only vs +stipend honestly.' },
   { key: 'netherlands', label: 'the Netherlands', target: 6, flagships: [
     'Holland Scholarship', 'Amsterdam Excellence Scholarship (AES, University of Amsterdam)', 'Radboud Scholarship Programme',
     'Leiden University Excellence Scholarship (LExS)', 'Utrecht Excellence Scholarship', 'Maastricht University NL-High Potential / UM Holland-High Potential',
     'Wageningen University Anniversary / Africa Scholarship', 'Delft Excellence (Justus & Louise van Effen)', 'Erasmus University Holland Scholarship' ],
-    note: 'EXCLUDE Eric Bleumink (Groningen, already listed). Orange Knowledge Programme (OKP) ended in 2024 — only list if a successor/active call exists. Holland Scholarship is a €5,000 one-off (tuition-only-ish) — include but mark tuitionOnly/partial honestly. Confirm Bangladesh eligibility.' },
+    note: 'EXCLUDE (already listed): Eric Bleumink (Groningen), Maastricht NL-High Potential, Justus & Louise van Effen (TU Delft), Anne van den Ban (WUR), Amsterdam Merit (AMS, UvA). NOTE: Amsterdam EXCELLENCE Scholarship (AES) is DISTINCT from AMS Merit (AES adds tuition+living) — it IS a candidate. Orange Knowledge Programme (OKP) ended 2024 — only list a successor/active call. Holland Scholarship is a €5,000 one-off — include but mark partial honestly. Also Radboud, Leiden LExS, Utrecht Excellence, Erasmus Holland, Tilburg, Twente, TU/e awards — confirm Bangladesh eligibility + exact coverage.' },
   { key: 'switzerland', label: 'Switzerland', target: 5, flagships: [
     'Swiss Government Excellence Scholarships (ESKAS/FCS)', 'Geneva Excellence Master Fellowships (University of Geneva)',
     'Graduate Institute Geneva (IHEID) Scholarships', 'University of Lausanne Master\'s Grant', 'ETH Zurich (other than ESOP)' ],
@@ -163,6 +180,9 @@ const ALL_COUNTRIES = [
     note: 'EXCLUDE Erasmus Mundus Joint Masters (already listed). Aga Khan ISP covers tuition + living for master\'s but is 50% grant / 50% loan — list it but make the loan component explicit in mustKnow. Only list programmes actually open to Bangladeshis and still active (OFID scholarship may be discontinued — verify).' },
 ]
 
+// ultracode full re-sweep: optionally scale every bucket's candidate target (args.targetBoost; default 1).
+const TARGET_BOOST = (args && args.targetBoost) || 1
+if (TARGET_BOOST !== 1) for (const c of ALL_COUNTRIES) c.target = Math.ceil(c.target * TARGET_BOOST)
 const TARGET_BY_KEY = Object.fromEntries(ALL_COUNTRIES.map(c => [c.key, c.target]))
 const CRAWL_CONCURRENCY = (args && args.crawlConcurrency) || 3
 

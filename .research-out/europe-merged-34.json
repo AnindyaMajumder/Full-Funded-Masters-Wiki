@@ -1,9 +1,4 @@
-import type { Scholarship } from '../types/scholarship';
-
-// Auto-compiled from verified research output. Do not hand-edit casually;
-// re-run: node scripts/build-data.mjs europe <source>
-
-export const europe: Scholarship[] = [
+[
   {
     "name": "Ampère Excellence Scholarship (ENS de Lyon)",
     "officialLink": "https://www.ens-lyon.fr/en/studies/admissions/application-masters-degrees-and-scholarships",
@@ -101,86 +96,6 @@ export const europe: Scholarship[] = [
     "tags": [
       "#NoGRE",
       "#NoApplicationFee"
-    ]
-  },
-  {
-    "name": "Amsterdam Merit Scholarship (AMS) — University of Amsterdam",
-    "officialLink": "https://www.uva.nl/en/education/fees-and-funding/masters-scholarships-and-loans/amsterdam-merit-scholarship/amsterdam-merit-scholarship.html",
-    "requiredDocuments": [
-      "Complete admission application to a UvA Master's (MSc/LLM/MA) programme submitted by the deadline (the scholarship application is part of/linked to it)",
-      "Tick the box on the application form indicating you want to be considered for a UvA scholarship",
-      "Academic records / transcripts of all years of your degree, including your GPA",
-      "Curriculum vitae (CV), including extracurricular activities (student commissions, international experience, sport/music at high level, volunteer work)",
-      "Letter of motivation (maximum 500 words) explaining choice of programme and the relevance of the scholarship for your future academic career (Faculty of Science requires the AMS rationale to be a paragraph inside this same 500-word letter)"
-    ],
-    "timeline": {
-      "cycle": "2026-2027",
-      "deadline": "15 January 2026 (Faculty of Science and Amsterdam Law School; Law deadline is 23:59 CET) — deadlines differ per Faculty/Graduate School",
-      "resultsBy": "Selection in March; applicants informed by end of March / April (varies by faculty)",
-      "notes": "AMS deadlines and award amounts vary per Faculty/Graduate School. Dates here are for the 2026-2027 / September 2026 intake as published on the Faculty of Science and Amsterdam Law School pages (deadline 15 January 2026), and were the published cycle at the 2026-06 anchor. Other faculties (Humanities, Social Sciences, Psychology, Economics & Business, etc.) set their own deadlines and amounts on their own pages — always check the specific faculty page."
-    },
-    "benefits": [
-      "Cash merit grant paid in monthly instalments — Faculty of Science: €24,875 (September 2026 start); Amsterdam Law School: €25,900 (2026-2027). Amount and number of awards vary per faculty.",
-      "Intended as a living/study allowance toward costs of studying at UvA"
-    ],
-    "acceptanceRate": {
-      "value": "Not officially published",
-      "isOfficial": false
-    },
-    "mustKnow": [
-      "NOT a tuition waiver and NOT fully funded: the AMS cannot be used as a (partial) tuition fee waiver — recipients must still pay the full tuition fee, and must have sufficient funds to cover all other costs. The grant is a separate cash allowance paid in monthly instalments.",
-      "Faculty-specific: award amount, number of scholarships, eligible programmes and deadlines all differ per Faculty/Graduate School — the Faculty of Science page states only ONE AMS is available there for September 2026.",
-      "Highly selective merit award: applicants must be in the top 10% of their class (roughly GPA 3.5-4.0 / UK first-class / Dutch 8.0+).",
-      "Two-step: you must submit a complete admission application to a UvA Master's AND a scholarship application (or tick the scholarship box) by the deadline; incomplete scholarship applications are not considered.",
-      "Eligibility excludes anyone with EU/EEA/Swiss nationality, anyone eligible for Dutch study grants/loans, anyone eligible for the reduced EEA tuition rate, and anyone receiving another full-coverage scholarship for the same period.",
-      "Recency rule (Faculty of Science): must have completed the previous academic programme no longer than 3 years ago; must be a first-time Master's applicant/admit at UvA.",
-      "Must be able to meet Dutch visa (IND) requirements; notify the international/scholarship team of any change in nationality, residence permit, or additional financial support."
-    ],
-    "host": {
-      "country": "the Netherlands",
-      "city": "Amsterdam",
-      "universities": [
-        "University of Amsterdam (UvA)"
-      ]
-    },
-    "degreeType": "both",
-    "duration": "1-2 years (length of the chosen Master's programme; renewed for year 2 in two-year programmes subject to progress)",
-    "eligibleNationalities": "Open to students holding a non-EU/EEA (and non-Swiss) passport who are not eligible for Dutch study grants/loans (Studiefinanciering). Bangladeshi nationals qualify as non-EU/EEA.",
-    "minGPA": "Top 10% of class. Faculty of Science: ~GPA 3.5 (US 4-pt), UK first-class/upper division, or 8+ (Dutch 10-pt). Amsterdam Law School: comparable to 4.0 (US), UK first-class honours, or 8.0 (Dutch 10-pt).",
-    "fundingCovers": [
-      "Monthly cash grant / living allowance (amount varies by faculty)"
-    ],
-    "monthlyStipend": "Paid in monthly instalments; total e.g. €24,875 (Science 2026) or €25,900 (Law 2026-2027) per year",
-    "supervisorRequired": false,
-    "twoStepProcess": true,
-    "bondObligation": "None",
-    "coversDependents": false,
-    "renewalConditions": "In two-year Master's programmes, the AMS is renewed for the second year only if the student completes the first year with good results (at least 40 ECTS) and meets faculty/programme requirements (e.g. attendance, good progress).",
-    "sources": [
-      {
-        "label": "UvA — Amsterdam Merit Scholarship (central/official AMS overview page)",
-        "url": "https://www.uva.nl/en/education/fees-and-funding/masters-scholarships-and-loans/amsterdam-merit-scholarship/amsterdam-merit-scholarship.html",
-        "accessed": "2026-06-18"
-      },
-      {
-        "label": "UvA Faculty of Science (GSS) — AMS requirements, amount (€24,875), deadline 15 January, selection criteria",
-        "url": "https://gss.uva.nl/scholarships/amsterdam-merit-scholarship/ams-faculty-of-science.html",
-        "accessed": "2026-06-18"
-      },
-      {
-        "label": "UvA Amsterdam Law School — AMS amount (€25,900, 2026-2027), deadline, eligible LLM programmes, required documents",
-        "url": "https://www.uva.nl/en/about-the-uva/organisation/faculties/amsterdam-law-school/education/scholarships/amsterdam-merit-scholarship.html",
-        "accessed": "2026-06-18"
-      },
-      {
-        "label": "UvA Faculty of Science — Scholarships overview (AMS listed, deadline 15 January 2026)",
-        "url": "https://www.uva.nl/en/education/fees-and-funding/masters-scholarships-and-loans/faculty-scholarships-science/science.html",
-        "accessed": "2026-06-18"
-      }
-    ],
-    "lastVerified": "2026-06-18",
-    "tags": [
-      "#TuitionNotCovered"
     ]
   },
   {
@@ -872,101 +787,6 @@ export const europe: Scholarship[] = [
     "tags": [
       "#FullyFunded",
       "#CoversFamily"
-    ]
-  },
-  {
-    "name": "École Polytechnique Master's (MSc&T) Excellence Scholarship — Ecole Polytechnique Foundation",
-    "officialLink": "https://programmes.polytechnique.edu/en/master/admissions-msct/scholarships-and-financial-aid",
-    "requiredDocuments": [
-      "Online application form (via candidatures.polytechnique.fr)",
-      "Academic transcripts",
-      "Cover / motivation letter (Personal Statement)",
-      "Contact details of 2 referees (recommendation letters required by the deadline)",
-      "English test results — IELTS / TOEFL iBT / Cambridge (uploaded; may be submitted later, offer conditional)",
-      "Degree certificate(s) / proof of academic qualifications",
-      "Passport or national ID (notably if claiming an English-test waiver)"
-    ],
-    "timeline": {
-      "cycle": "2025-2026 (for September 2026 intake)",
-      "opens": "17 September 2025 (applications open)",
-      "deadline": "12 January 2026, noon Paris time (Round 2 — last round that qualifies for a scholarship; only Round 1 & 2 applicants can apply for a scholarship). Round 1: 13 October 2025. Later non-scholarship rounds: Round 3 = 9 March 2026, Round 4 = 22 April 2026.",
-      "resultsBy": "Round 2 admission decisions mid-March 2026; scholarship results announced by email after admission and before the confirmation/payment deadline.",
-      "notes": "Dates are the official September 2026 intake cycle as published on the deadlines page (crawled 2026-06-18; verified 2026-06-18 against source, after the 2026-06 anchor). Scholarship eligibility is gated to Rounds 1 and 2 only — apply early."
-    },
-    "benefits": [
-      "8,000 EUR per year, deducted from tuition fees (partial tuition reduction)",
-      "Paid upon successfully validating the first year of the Master",
-      "Awarded on academic excellence + diversity, decided after the selection interview",
-      "No separate scholarship application or extra documents — all admitted candidates are automatically considered"
-    ],
-    "acceptanceRate": {
-      "value": "Not officially published",
-      "isOfficial": false
-    },
-    "mustKnow": [
-      "NOT fully funded: the Excellence Scholarship is a flat 8,000 EUR/year deducted from tuition (partial tuition reduction). No living stipend, airfare, insurance, or settlement allowance. MSc&T tuition is 15,400-28,950 EUR/year, so the student funds the tuition balance plus all living costs.",
-      "Scholarship-eligibility is gated to the application round: 'only students who apply in the first and second rounds of admissions can apply for a scholarship' — Round 2 deadline 12 Jan 2026. Applying in Rounds 3 or 4 forfeits scholarship consideration.",
-      "Two-step in effect: you must first be admitted to the MSc&T; admitted candidates are then automatically considered — there is no separate scholarship form and no extra documents.",
-      "Open to all nationalities (no exclusion of Bangladesh) — but the genuinely full-funding tracks on the same page (Lafayette/US, Singapore, Brazil, Colombia/COLFUTURO) ARE nationality-restricted and do NOT include Bangladesh.",
-      "An admission/selection interview is part of the process, and the scholarship decision follows that interview.",
-      "8,000 EUR is paid only after you successfully validate the first year of the Master.",
-      "Non-refundable costs regardless of scholarship: 90 EUR application fee and a 3,200 EUR deposit on admission (deposit later deducted from tuition).",
-      "English test required (IELTS 7.0 / TOEFL iBT 95 / Cambridge CAE C1); CROUS scholarships are not compatible with this degree and APL housing benefit is for French/European students only."
-    ],
-    "host": {
-      "country": "France",
-      "city": "Palaiseau (Paris region)",
-      "universities": [
-        "École Polytechnique (Institut Polytechnique de Paris)"
-      ]
-    },
-    "degreeType": "taught",
-    "duration": "2 years (M1 + M2); entry possible directly into M2",
-    "intake": [
-      "September 2026"
-    ],
-    "eligibleNationalities": "Open to all nationalities — the Excellence Scholarship eligibility is 'All candidates admitted to one of our master program' with no nationality restriction; a Bangladeshi admitted to MSc&T qualifies. (The full-funding tracks on the same page — Lafayette/US, Singapore, Brazil/Trajetorias, Colombia/COLFUTURO — are nationality-restricted and exclude Bangladesh.)",
-    "languageRequirements": "English required: IELTS Academic min 7.0 overall, or TOEFL iBT min 95 overall, or Cambridge CAE C1. Scores must be < 2 years old at the deadline. Test may be waived if English is your native language (passport/national ID required) or your last degree was entirely taught in English (with official attestation). May apply before sitting the test, but any offer is conditional on submitting scores. No level of French required for admission.",
-    "standardizedTests": "No GRE/GMAT required for MSc&T admission (English test required as above).",
-    "minGPA": "Not specified as a numeric threshold; 'high-level candidates' with a strong science/engineering background (M1: bachelor's of at least 3 years / 180 ECTS).",
-    "applicationFee": "90 EUR application processing fee (non-refundable). Separate 3,200 EUR non-refundable deposit on admission, later deducted from tuition.",
-    "fundingCovers": [
-      "Partial tuition reduction (8,000 EUR/year deducted from tuition)"
-    ],
-    "monthlyStipend": "None (no living stipend — partial tuition reduction only)",
-    "supervisorRequired": false,
-    "twoStepProcess": true,
-    "bondObligation": "None for the Excellence Scholarship (return-home / service bonds apply only to the separate Singapore track).",
-    "coversDependents": false,
-    "interviewStage": true,
-    "renewalConditions": "Paid out / continued upon successfully validating the first year of the Master.",
-    "postStudyWork": "Not specified on this program page.",
-    "sources": [
-      {
-        "label": "École Polytechnique MSc&T — Scholarships and Financial Aid (Excellence Scholarship eligibility, process, amount; nationality-restricted full-funding tracks)",
-        "url": "https://programmes.polytechnique.edu/en/master/admissions-msct/scholarships-and-financial-aid",
-        "accessed": "2026-06-18"
-      },
-      {
-        "label": "École Polytechnique MSc&T — Application Deadlines & Procedure (Sept 2026 intake rounds; scholarship gated to Rounds 1 & 2; 90 EUR fee; procedure)",
-        "url": "https://programmes.polytechnique.edu/en/master/admissions-msct/application-deadlines-procedure",
-        "accessed": "2026-06-18"
-      },
-      {
-        "label": "École Polytechnique MSc&T — Tuition Fees (2026-2027 tuition 15,400-28,950 EUR; 90 EUR application fee; 3,200 EUR deposit)",
-        "url": "https://programmes.polytechnique.edu/en/master/admissions-msct/tuition-fees",
-        "accessed": "2026-06-18"
-      },
-      {
-        "label": "École Polytechnique MSc&T — Language & Academic Requirements (English IELTS 7.0/TOEFL 95/CAE C1, waiver rules; no French required; documents incl. transcripts, cover letter, 2 referees)",
-        "url": "https://programmes.polytechnique.edu/en/master/admissions-msct/language-academic-requirements",
-        "accessed": "2026-06-18"
-      }
-    ],
-    "lastVerified": "2026-06-18",
-    "tags": [
-      "#TuitionOnly",
-      "#NoGRE"
     ]
   },
   {
@@ -2532,94 +2352,6 @@ export const europe: Scholarship[] = [
     ]
   },
   {
-    "name": "Sciences Po Émile Boutmy Scholarship",
-    "officialLink": "https://www.sciencespo.fr/students/en/fees-funding/bursaries-financial-aid/emile-boutmy-scholarship/",
-    "requiredDocuments": [
-      "Indicate the Émile Boutmy scholarship application in the \"Financial information\" section of the Sciences Po online application (the scholarship is part of the admissions application — there is no separate form)",
-      "Language test results, where applicable for the chosen programme (must be attached by the scholarship deadline)",
-      "ID: passport, national ID or residence permit",
-      "CV / Résumé",
-      "Academic transcript(s) for the entirety of higher education (with name and institution)",
-      "Copy of the diploma that qualifies you to apply, if already obtained",
-      "Two academic references (except one-year master's and Master in urban planning)",
-      "Motivation letter / personal statement, written in the language of the chosen programme",
-      "Grade-average certificate (one per degree/institution)",
-      "Programme-specific additional documents where required (e.g. GRE, GMAT, copy of law degree)"
-    ],
-    "timeline": {
-      "cycle": "2026-2027",
-      "deadline": "30 November 2025 (2nd / final Master's committee)",
-      "opens": "Autumn (admissions campaign opens in autumn each year)",
-      "resultsBy": "Before 30 December (1st committee) / before 2 March (2nd committee)",
-      "notes": "Master's scholarship deadlines: 19 October 2025 (1st committee, results before 30 December) or 30 November 2025 (2nd committee, results before 2 March) — these are the 2026-2027 intake dates documented on the official page as of 2026-06-18. As of June 2026, the official admissions page states \"Admissions for the 2026 intake are closed and reopen next autumn for the 2027 intake,\" so the next (2027-2028) cycle is expected to open autumn 2026 with comparable October/November scholarship committee deadlines. The scholarship deadline is the same as the admissions deadline; if applying for a scholarship you must meet the earliest deadline. All deadlines refer to Paris time (11:59pm)."
-    },
-    "benefits": [
-      "Master's: €18,500 exemption from tuition fees for EACH of the two years of the programme",
-      "Awarded on merit and the profile sought for the programme",
-      "May be combined with external scholarships (Eiffel, AEFE, French government scholarships)"
-    ],
-    "acceptanceRate": {
-      "value": "Not officially published",
-      "isOfficial": false
-    },
-    "mustKnow": [
-      "TUITION-ONLY and PARTIAL — there is no living stipend, travel or insurance. The Master's award (€18,500/year) does not even cover full tuition: non-EEA-resident Master's tuition is €20,640/year (2026-2027), leaving ~€2,140/year plus all Paris living costs for the student to fund.",
-      "TWO-STEP: you must first be admitted to an eligible Sciences Po Master's programme; the scholarship is then awarded by the Admissions Department only to admitted students. You cannot apply for the scholarship alone.",
-      "Apply WITH your admission application by ticking the Boutmy request in the \"Financial information\" section — it is NOT possible to apply for the scholarship after admission or during your studies.",
-      "First-time applicants only and the household must not file taxes in the EU; tax residence of the parents (not the student) is what counts.",
-      "NOT eligible: one-year Master's programmes, the Master's in Journalism and the Joint Master's in Journalism & International Affairs, and most master's-level dual degrees (a few China/Columbia dual degrees excepted).",
-      "Cannot be combined with other Sciences Po/partner scholarships (Mastercard, CARE, CSC, etc.), but CAN be combined with external scholarships such as Eiffel.",
-      "If you apply for a scholarship you must meet the EARLIEST applicable deadline; incomplete or late files are rejected, and a previous Boutmy refusal in the same admission cycle bars reapplication.",
-      "A €150 non-refundable application fee is mandatory; the usual fee-waiver routes (CROUS, disability, refugee, Mastercard) typically do not apply to a Bangladeshi applicant."
-    ],
-    "host": {
-      "country": "France",
-      "city": "Paris",
-      "universities": [
-        "Sciences Po (Institut d'études politiques de Paris)"
-      ]
-    },
-    "degreeType": "taught",
-    "duration": "2 years (two-year Master's programme)",
-    "eligibleNationalities": "Open to non-EU nationals whose household does not file taxes within the European Union. Excludes: Swiss and Norwegian applicants; candidates with dual citizenship where one is EU; Quebec candidates at master's level. Bangladeshi nationals are eligible.",
-    "languageRequirements": "A language test is required where applicable for the chosen programme; language requirements depend on the programme (some are taught in French, some in English), and the test must match the language of the programme. Test results must be attached directly in the online application by the scholarship application deadline.",
-    "applicationFee": "€150 application fee (mandatory; non-refundable for incomplete, withdrawn or unsuccessful applications). Fee waivers only for current-year CROUS scholarship holders, applicants with disabilities, applicants with proof of refugee status, or those declared eligible for the Mastercard Foundation Scholarship — these waiver routes do not generally apply to a Bangladeshi applicant.",
-    "fundingCovers": [
-      "Partial tuition-fee exemption (€18,500 per year for Master's, for each of the two years)"
-    ],
-    "supervisorRequired": false,
-    "twoStepProcess": true,
-    "coversDependents": false,
-    "interviewStage": false,
-    "renewalConditions": "Awarded for the first year of study; the amount is fixed at admission and may be recalculated yearly in line with tuition-fee increases. The scholarship is lost if the student does not validate the academic year or defers admission.",
-    "sources": [
-      {
-        "label": "Sciences Po — The Émile Boutmy scholarship (eligibility, amount, how to apply, deadlines)",
-        "url": "https://www.sciencespo.fr/students/en/fees-funding/bursaries-financial-aid/emile-boutmy-scholarship/",
-        "accessed": "2026-06-18"
-      },
-      {
-        "label": "Sciences Po — Two-Year Master's Programmes, International Graduate Procedure (two-stage process, €150 fee, application steps)",
-        "url": "https://www.sciencespo.fr/admissions/en/graduate-international-admissions",
-        "accessed": "2026-06-18"
-      },
-      {
-        "label": "Sciences Po — Graduate Admissions: Application File (required supporting documents)",
-        "url": "https://www.sciencespo.fr/admissions/en/graduate/application-file/",
-        "accessed": "2026-06-18"
-      },
-      {
-        "label": "Sciences Po — Tuition fees for Academic year 2026-2027 (non-EEA Master's tuition = €20,640/year, context for coverage)",
-        "url": "https://www.sciencespo.fr/students/en/fees-funding/tuition-fees/",
-        "accessed": "2026-06-18"
-      }
-    ],
-    "lastVerified": "2026-06-18",
-    "tags": [
-      "#TuitionOnly"
-    ]
-  },
-  {
     "name": "Stefan Banach NAWA Scholarship Programme (Banach NAWA)",
     "officialLink": "https://nawa.gov.pl/en/students/foreign-students/the-banach-scholarship-programme",
     "requiredDocuments": [
@@ -3210,5 +2942,268 @@ export const europe: Scholarship[] = [
       "#FullyFunded",
       "#NoApplicationFee"
     ]
+  },
+  {
+    "name": "École Polytechnique Master's (MSc&T) Excellence Scholarship — Ecole Polytechnique Foundation",
+    "officialLink": "https://programmes.polytechnique.edu/en/master/admissions-msct/scholarships-and-financial-aid",
+    "host": {
+      "country": "France",
+      "city": "Palaiseau (Paris region)",
+      "universities": [
+        "École Polytechnique (Institut Polytechnique de Paris)"
+      ]
+    },
+    "degreeType": "taught",
+    "duration": "2 years (M1 + M2); entry possible directly into M2",
+    "intake": [
+      "September 2026"
+    ],
+    "eligibleNationalities": "Open to all nationalities — the Excellence Scholarship eligibility is 'All candidates admitted to one of our master program' with no nationality restriction; a Bangladeshi admitted to MSc&T qualifies. (The full-funding tracks on the same page — Lafayette/US, Singapore, Brazil/Trajetorias, Colombia/COLFUTURO — are nationality-restricted and exclude Bangladesh.)",
+    "languageRequirements": "English required: IELTS Academic min 7.0 overall, or TOEFL iBT min 95 overall, or Cambridge CAE C1. Scores must be < 2 years old at the deadline. Test may be waived if English is your native language (passport/national ID required) or your last degree was entirely taught in English (with official attestation). May apply before sitting the test, but any offer is conditional on submitting scores. No level of French required for admission.",
+    "standardizedTests": "No GRE/GMAT required for MSc&T admission (English test required as above).",
+    "minGPA": "Not specified as a numeric threshold; 'high-level candidates' with a strong science/engineering background (M1: bachelor's of at least 3 years / 180 ECTS).",
+    "applicationFee": "90 EUR application processing fee (non-refundable). Separate 3,200 EUR non-refundable deposit on admission, later deducted from tuition.",
+    "fundingCovers": [
+      "Partial tuition reduction (8,000 EUR/year deducted from tuition)"
+    ],
+    "supervisorRequired": false,
+    "twoStepProcess": true,
+    "bondObligation": "None for the Excellence Scholarship (return-home / service bonds apply only to the separate Singapore track).",
+    "coversDependents": false,
+    "interviewStage": true,
+    "renewalConditions": "Paid out / continued upon successfully validating the first year of the Master.",
+    "benefits": [
+      "8,000 EUR per year, deducted from tuition fees (partial tuition reduction)",
+      "Paid upon successfully validating the first year of the Master",
+      "Awarded on academic excellence + diversity, decided after the selection interview",
+      "No separate scholarship application or extra documents — all admitted candidates are automatically considered"
+    ],
+    "acceptanceRate": {
+      "value": "Not officially published",
+      "isOfficial": false
+    },
+    "requiredDocuments": [
+      "Online application form (via candidatures.polytechnique.fr)",
+      "Academic transcripts",
+      "Cover / motivation letter (Personal Statement)",
+      "Contact details of 2 referees (recommendation letters required by the deadline)",
+      "English test results — IELTS / TOEFL iBT / Cambridge (uploaded; may be submitted later, offer conditional)",
+      "Degree certificate(s) / proof of academic qualifications",
+      "Passport or national ID (notably if claiming an English-test waiver)"
+    ],
+    "timeline": {
+      "cycle": "2025-2026 (for September 2026 intake)",
+      "opens": "17 September 2025 (applications open)",
+      "deadline": "12 January 2026, noon Paris time (Round 2 — last round that qualifies for a scholarship; only Round 1 & 2 applicants can apply for a scholarship). Round 1: 13 October 2025. Later non-scholarship rounds: Round 3 = 9 March 2026, Round 4 = 22 April 2026.",
+      "resultsBy": "Round 2 admission decisions mid-March 2026; scholarship results announced by email after admission and before the confirmation/payment deadline.",
+      "notes": "Dates are the official September 2026 intake cycle as published on the deadlines page (crawled 2026-06-18; verified 2026-06-18 against source, after the 2026-06 anchor). Scholarship eligibility is gated to Rounds 1 and 2 only — apply early."
+    },
+    "monthlyStipend": "None (no living stipend — partial tuition reduction only)",
+    "postStudyWork": "Not specified on this program page.",
+    "mustKnow": [
+      "NOT fully funded: the Excellence Scholarship is a flat 8,000 EUR/year deducted from tuition (partial tuition reduction). No living stipend, airfare, insurance, or settlement allowance. MSc&T tuition is 15,400-28,950 EUR/year, so the student funds the tuition balance plus all living costs.",
+      "Scholarship-eligibility is gated to the application round: 'only students who apply in the first and second rounds of admissions can apply for a scholarship' — Round 2 deadline 12 Jan 2026. Applying in Rounds 3 or 4 forfeits scholarship consideration.",
+      "Two-step in effect: you must first be admitted to the MSc&T; admitted candidates are then automatically considered — there is no separate scholarship form and no extra documents.",
+      "Open to all nationalities (no exclusion of Bangladesh) — but the genuinely full-funding tracks on the same page (Lafayette/US, Singapore, Brazil, Colombia/COLFUTURO) ARE nationality-restricted and do NOT include Bangladesh.",
+      "An admission/selection interview is part of the process, and the scholarship decision follows that interview.",
+      "8,000 EUR is paid only after you successfully validate the first year of the Master.",
+      "Non-refundable costs regardless of scholarship: 90 EUR application fee and a 3,200 EUR deposit on admission (deposit later deducted from tuition).",
+      "English test required (IELTS 7.0 / TOEFL iBT 95 / Cambridge CAE C1); CROUS scholarships are not compatible with this degree and APL housing benefit is for French/European students only."
+    ],
+    "sources": [
+      {
+        "label": "École Polytechnique MSc&T — Scholarships and Financial Aid (Excellence Scholarship eligibility, process, amount; nationality-restricted full-funding tracks)",
+        "url": "https://programmes.polytechnique.edu/en/master/admissions-msct/scholarships-and-financial-aid",
+        "accessed": "2026-06-18"
+      },
+      {
+        "label": "École Polytechnique MSc&T — Application Deadlines & Procedure (Sept 2026 intake rounds; scholarship gated to Rounds 1 & 2; 90 EUR fee; procedure)",
+        "url": "https://programmes.polytechnique.edu/en/master/admissions-msct/application-deadlines-procedure",
+        "accessed": "2026-06-18"
+      },
+      {
+        "label": "École Polytechnique MSc&T — Tuition Fees (2026-2027 tuition 15,400-28,950 EUR; 90 EUR application fee; 3,200 EUR deposit)",
+        "url": "https://programmes.polytechnique.edu/en/master/admissions-msct/tuition-fees",
+        "accessed": "2026-06-18"
+      },
+      {
+        "label": "École Polytechnique MSc&T — Language & Academic Requirements (English IELTS 7.0/TOEFL 95/CAE C1, waiver rules; no French required; documents incl. transcripts, cover letter, 2 referees)",
+        "url": "https://programmes.polytechnique.edu/en/master/admissions-msct/language-academic-requirements",
+        "accessed": "2026-06-18"
+      }
+    ],
+    "lastVerified": "2026-06-18",
+    "tags": [
+      "#TuitionOnly",
+      "#NoGRE"
+    ]
+  },
+  {
+    "name": "Sciences Po Émile Boutmy Scholarship",
+    "officialLink": "https://www.sciencespo.fr/students/en/fees-funding/bursaries-financial-aid/emile-boutmy-scholarship/",
+    "host": {
+      "country": "France",
+      "city": "Paris",
+      "universities": [
+        "Sciences Po (Institut d'études politiques de Paris)"
+      ]
+    },
+    "degreeType": "taught",
+    "duration": "2 years (two-year Master's programme)",
+    "eligibleNationalities": "Open to non-EU nationals whose household does not file taxes within the European Union. Excludes: Swiss and Norwegian applicants; candidates with dual citizenship where one is EU; Quebec candidates at master's level. Bangladeshi nationals are eligible.",
+    "languageRequirements": "A language test is required where applicable for the chosen programme; language requirements depend on the programme (some are taught in French, some in English), and the test must match the language of the programme. Test results must be attached directly in the online application by the scholarship application deadline.",
+    "applicationFee": "€150 application fee (mandatory; non-refundable for incomplete, withdrawn or unsuccessful applications). Fee waivers only for current-year CROUS scholarship holders, applicants with disabilities, applicants with proof of refugee status, or those declared eligible for the Mastercard Foundation Scholarship — these waiver routes do not generally apply to a Bangladeshi applicant.",
+    "fundingCovers": [
+      "Partial tuition-fee exemption (€18,500 per year for Master's, for each of the two years)"
+    ],
+    "supervisorRequired": false,
+    "twoStepProcess": true,
+    "coversDependents": false,
+    "interviewStage": false,
+    "renewalConditions": "Awarded for the first year of study; the amount is fixed at admission and may be recalculated yearly in line with tuition-fee increases. The scholarship is lost if the student does not validate the academic year or defers admission.",
+    "requiredDocuments": [
+      "Indicate the Émile Boutmy scholarship application in the \"Financial information\" section of the Sciences Po online application (the scholarship is part of the admissions application — there is no separate form)",
+      "Language test results, where applicable for the chosen programme (must be attached by the scholarship deadline)",
+      "ID: passport, national ID or residence permit",
+      "CV / Résumé",
+      "Academic transcript(s) for the entirety of higher education (with name and institution)",
+      "Copy of the diploma that qualifies you to apply, if already obtained",
+      "Two academic references (except one-year master's and Master in urban planning)",
+      "Motivation letter / personal statement, written in the language of the chosen programme",
+      "Grade-average certificate (one per degree/institution)",
+      "Programme-specific additional documents where required (e.g. GRE, GMAT, copy of law degree)"
+    ],
+    "timeline": {
+      "cycle": "2026-2027",
+      "deadline": "30 November 2025 (2nd / final Master's committee)",
+      "opens": "Autumn (admissions campaign opens in autumn each year)",
+      "resultsBy": "Before 30 December (1st committee) / before 2 March (2nd committee)",
+      "notes": "Master's scholarship deadlines: 19 October 2025 (1st committee, results before 30 December) or 30 November 2025 (2nd committee, results before 2 March) — these are the 2026-2027 intake dates documented on the official page as of 2026-06-18. As of June 2026, the official admissions page states \"Admissions for the 2026 intake are closed and reopen next autumn for the 2027 intake,\" so the next (2027-2028) cycle is expected to open autumn 2026 with comparable October/November scholarship committee deadlines. The scholarship deadline is the same as the admissions deadline; if applying for a scholarship you must meet the earliest deadline. All deadlines refer to Paris time (11:59pm)."
+    },
+    "benefits": [
+      "Master's: €18,500 exemption from tuition fees for EACH of the two years of the programme",
+      "Awarded on merit and the profile sought for the programme",
+      "May be combined with external scholarships (Eiffel, AEFE, French government scholarships)"
+    ],
+    "acceptanceRate": {
+      "value": "Not officially published",
+      "isOfficial": false
+    },
+    "mustKnow": [
+      "TUITION-ONLY and PARTIAL — there is no living stipend, travel or insurance. The Master's award (€18,500/year) does not even cover full tuition: non-EEA-resident Master's tuition is €20,640/year (2026-2027), leaving ~€2,140/year plus all Paris living costs for the student to fund.",
+      "TWO-STEP: you must first be admitted to an eligible Sciences Po Master's programme; the scholarship is then awarded by the Admissions Department only to admitted students. You cannot apply for the scholarship alone.",
+      "Apply WITH your admission application by ticking the Boutmy request in the \"Financial information\" section — it is NOT possible to apply for the scholarship after admission or during your studies.",
+      "First-time applicants only and the household must not file taxes in the EU; tax residence of the parents (not the student) is what counts.",
+      "NOT eligible: one-year Master's programmes, the Master's in Journalism and the Joint Master's in Journalism & International Affairs, and most master's-level dual degrees (a few China/Columbia dual degrees excepted).",
+      "Cannot be combined with other Sciences Po/partner scholarships (Mastercard, CARE, CSC, etc.), but CAN be combined with external scholarships such as Eiffel.",
+      "If you apply for a scholarship you must meet the EARLIEST applicable deadline; incomplete or late files are rejected, and a previous Boutmy refusal in the same admission cycle bars reapplication.",
+      "A €150 non-refundable application fee is mandatory; the usual fee-waiver routes (CROUS, disability, refugee, Mastercard) typically do not apply to a Bangladeshi applicant."
+    ],
+    "sources": [
+      {
+        "label": "Sciences Po — The Émile Boutmy scholarship (eligibility, amount, how to apply, deadlines)",
+        "url": "https://www.sciencespo.fr/students/en/fees-funding/bursaries-financial-aid/emile-boutmy-scholarship/",
+        "accessed": "2026-06-18"
+      },
+      {
+        "label": "Sciences Po — Two-Year Master's Programmes, International Graduate Procedure (two-stage process, €150 fee, application steps)",
+        "url": "https://www.sciencespo.fr/admissions/en/graduate-international-admissions",
+        "accessed": "2026-06-18"
+      },
+      {
+        "label": "Sciences Po — Graduate Admissions: Application File (required supporting documents)",
+        "url": "https://www.sciencespo.fr/admissions/en/graduate/application-file/",
+        "accessed": "2026-06-18"
+      },
+      {
+        "label": "Sciences Po — Tuition fees for Academic year 2026-2027 (non-EEA Master's tuition = €20,640/year, context for coverage)",
+        "url": "https://www.sciencespo.fr/students/en/fees-funding/tuition-fees/",
+        "accessed": "2026-06-18"
+      }
+    ],
+    "lastVerified": "2026-06-18",
+    "tags": [
+      "#TuitionOnly"
+    ]
+  },
+  {
+    "name": "Amsterdam Merit Scholarship (AMS) — University of Amsterdam",
+    "officialLink": "https://www.uva.nl/en/education/fees-and-funding/masters-scholarships-and-loans/amsterdam-merit-scholarship/amsterdam-merit-scholarship.html",
+    "host": {
+      "country": "the Netherlands",
+      "city": "Amsterdam",
+      "universities": [
+        "University of Amsterdam (UvA)"
+      ]
+    },
+    "degreeType": "both",
+    "duration": "1-2 years (length of the chosen Master's programme; renewed for year 2 in two-year programmes subject to progress)",
+    "eligibleNationalities": "Open to students holding a non-EU/EEA (and non-Swiss) passport who are not eligible for Dutch study grants/loans (Studiefinanciering). Bangladeshi nationals qualify as non-EU/EEA.",
+    "requiredDocuments": [
+      "Complete admission application to a UvA Master's (MSc/LLM/MA) programme submitted by the deadline (the scholarship application is part of/linked to it)",
+      "Tick the box on the application form indicating you want to be considered for a UvA scholarship",
+      "Academic records / transcripts of all years of your degree, including your GPA",
+      "Curriculum vitae (CV), including extracurricular activities (student commissions, international experience, sport/music at high level, volunteer work)",
+      "Letter of motivation (maximum 500 words) explaining choice of programme and the relevance of the scholarship for your future academic career (Faculty of Science requires the AMS rationale to be a paragraph inside this same 500-word letter)"
+    ],
+    "timeline": {
+      "cycle": "2026-2027",
+      "deadline": "15 January 2026 (Faculty of Science and Amsterdam Law School; Law deadline is 23:59 CET) — deadlines differ per Faculty/Graduate School",
+      "resultsBy": "Selection in March; applicants informed by end of March / April (varies by faculty)",
+      "notes": "AMS deadlines and award amounts vary per Faculty/Graduate School. Dates here are for the 2026-2027 / September 2026 intake as published on the Faculty of Science and Amsterdam Law School pages (deadline 15 January 2026), and were the published cycle at the 2026-06 anchor. Other faculties (Humanities, Social Sciences, Psychology, Economics & Business, etc.) set their own deadlines and amounts on their own pages — always check the specific faculty page."
+    },
+    "benefits": [
+      "Cash merit grant paid in monthly instalments — Faculty of Science: €24,875 (September 2026 start); Amsterdam Law School: €25,900 (2026-2027). Amount and number of awards vary per faculty.",
+      "Intended as a living/study allowance toward costs of studying at UvA"
+    ],
+    "fundingCovers": [
+      "Monthly cash grant / living allowance (amount varies by faculty)"
+    ],
+    "monthlyStipend": "Paid in monthly instalments; total e.g. €24,875 (Science 2026) or €25,900 (Law 2026-2027) per year",
+    "minGPA": "Top 10% of class. Faculty of Science: ~GPA 3.5 (US 4-pt), UK first-class/upper division, or 8+ (Dutch 10-pt). Amsterdam Law School: comparable to 4.0 (US), UK first-class honours, or 8.0 (Dutch 10-pt).",
+    "twoStepProcess": true,
+    "supervisorRequired": false,
+    "bondObligation": "None",
+    "coversDependents": false,
+    "renewalConditions": "In two-year Master's programmes, the AMS is renewed for the second year only if the student completes the first year with good results (at least 40 ECTS) and meets faculty/programme requirements (e.g. attendance, good progress).",
+    "acceptanceRate": {
+      "value": "Not officially published",
+      "isOfficial": false
+    },
+    "mustKnow": [
+      "NOT a tuition waiver and NOT fully funded: the AMS cannot be used as a (partial) tuition fee waiver — recipients must still pay the full tuition fee, and must have sufficient funds to cover all other costs. The grant is a separate cash allowance paid in monthly instalments.",
+      "Faculty-specific: award amount, number of scholarships, eligible programmes and deadlines all differ per Faculty/Graduate School — the Faculty of Science page states only ONE AMS is available there for September 2026.",
+      "Highly selective merit award: applicants must be in the top 10% of their class (roughly GPA 3.5-4.0 / UK first-class / Dutch 8.0+).",
+      "Two-step: you must submit a complete admission application to a UvA Master's AND a scholarship application (or tick the scholarship box) by the deadline; incomplete scholarship applications are not considered.",
+      "Eligibility excludes anyone with EU/EEA/Swiss nationality, anyone eligible for Dutch study grants/loans, anyone eligible for the reduced EEA tuition rate, and anyone receiving another full-coverage scholarship for the same period.",
+      "Recency rule (Faculty of Science): must have completed the previous academic programme no longer than 3 years ago; must be a first-time Master's applicant/admit at UvA.",
+      "Must be able to meet Dutch visa (IND) requirements; notify the international/scholarship team of any change in nationality, residence permit, or additional financial support."
+    ],
+    "sources": [
+      {
+        "label": "UvA — Amsterdam Merit Scholarship (central/official AMS overview page)",
+        "url": "https://www.uva.nl/en/education/fees-and-funding/masters-scholarships-and-loans/amsterdam-merit-scholarship/amsterdam-merit-scholarship.html",
+        "accessed": "2026-06-18"
+      },
+      {
+        "label": "UvA Faculty of Science (GSS) — AMS requirements, amount (€24,875), deadline 15 January, selection criteria",
+        "url": "https://gss.uva.nl/scholarships/amsterdam-merit-scholarship/ams-faculty-of-science.html",
+        "accessed": "2026-06-18"
+      },
+      {
+        "label": "UvA Amsterdam Law School — AMS amount (€25,900, 2026-2027), deadline, eligible LLM programmes, required documents",
+        "url": "https://www.uva.nl/en/about-the-uva/organisation/faculties/amsterdam-law-school/education/scholarships/amsterdam-merit-scholarship.html",
+        "accessed": "2026-06-18"
+      },
+      {
+        "label": "UvA Faculty of Science — Scholarships overview (AMS listed, deadline 15 January 2026)",
+        "url": "https://www.uva.nl/en/education/fees-and-funding/masters-scholarships-and-loans/faculty-scholarships-science/science.html",
+        "accessed": "2026-06-18"
+      }
+    ],
+    "lastVerified": "2026-06-18",
+    "tags": [
+      "#TuitionNotCovered"
+    ]
   }
-];
+]

@@ -1,0 +1,71 @@
+{
+  "name": "Leiden University Excellence Scholarship (LExS)",
+  "officialLink": "https://www.universiteitleiden.nl/en/scholarships/sea/leiden-university-excellence-scholarship-lexs",
+  "requiredDocuments": [
+    "A completed online application for admission to a full-time Leiden University Master's programme (the application fee, if applicable, must be paid)",
+    "LExS motivation letter — a PDF of max. 500 words explaining why you should be considered for the award, uploaded in the Scholarships section of the online admission application",
+    "Evidence of excellent prior academic results relevant to the chosen Master's (as part of the admission application; an indication is top ~10% of graduates of the previous programme, though proof of ranking is not required)"
+  ],
+  "timeline": {
+    "cycle": "2026-2027",
+    "deadline": "1 December 2026",
+    "resultsBy": "Before the end of April (after the 1 December deadline); faculty committees nominate within 6 weeks of the deadline",
+    "notes": "Dates are for the September 2027 intake (the cycle open as of June 2026). Deadline of 1 December 2026 confirmed on both the LExS page and the scholarships listing page on 2026-06-18. The LExS applies only to programmes starting in September; programmes starting in February are excluded."
+  },
+  "benefits": [
+    "A fixed contribution toward the tuition fee only, at one of five award levels: EUR 10,000, EUR 15,000, EUR 17,500, EUR 18,500, or EUR 19,000",
+    "Awarded for the full duration of the Master's study programme",
+    "The award level is final and non-negotiable once granted"
+  ],
+  "acceptanceRate": {
+    "value": "Not officially published",
+    "isOfficial": false,
+    "estimateNote": "No acceptance rate is published. The official page states there are 'around 25 LExS scholarships available each year, while over a thousand students apply' — implying very roughly ~2.5% of applicants, but the university does not publish a figure. Source: https://www.universiteitleiden.nl/en/scholarships/sea/leiden-university-excellence-scholarship-lexs (accessed 2026-06-18)."
+  },
+  "mustKnow": [
+    "NOT a full scholarship: the official page states verbatim 'The LExS is not a full scholarship and does not cover the full cost of your studies' — it is a partial contribution to tuition only (EUR 10,000-19,000), with no living stipend, travel, or insurance. 'A significant personal contribution will be required.'",
+    "Highly competitive: only around 25 awards per year against over a thousand applicants.",
+    "Two-step: you must FIRST submit a complete online application for admission to a Master's programme, then the LExS option appears in the Scholarships section of that application — you cannot apply for the scholarship independently.",
+    "Nationality gate: applicants must hold a non-EEA/non-EFTA passport and not be eligible for Dutch student finance (Studiefinanciering). Bangladesh qualifies. EXCEPTION: for all LLM Advanced Studies programmes and the MSc in International Relations and Diplomacy, no nationality restriction applies.",
+    "Programme exclusions: not available for Leiden Law School's LLM (non-advanced) and MSc programmes, for any programme starting in February, or to applicants who already hold a Leiden University Master's degree (with limited LLM Advanced Studies exceptions).",
+    "Cannot be combined with another FULL external scholarship; recipients must notify the Scholarships department if they receive other full funding. A partial external scholarship may be combinable in some cases.",
+    "Visa requirement remains: as a non-EEA recipient you must still submit 'proof of sufficient funds' for your student visa/residence permit application — the LExS alone does not satisfy this.",
+    "Late or incomplete applications are not considered; both the admission application and the scholarship application must be submitted before the 1 December deadline (allow up to 3 working days to create/submit the admission application)."
+  ],
+  "sources": [
+    {
+      "label": "Leiden University — Leiden University Excellence Scholarship (LExS) official page",
+      "url": "https://www.universiteitleiden.nl/en/scholarships/sea/leiden-university-excellence-scholarship-lexs",
+      "accessed": "2026-06-18"
+    },
+    {
+      "label": "Leiden University — Scholarships listing (confirms LExS deadline 1 December 2026)",
+      "url": "https://www.universiteitleiden.nl/en/scholarships",
+      "accessed": "2026-06-18"
+    }
+  ],
+  "lastVerified": "2026-06-18",
+  "host": {
+    "country": "the Netherlands",
+    "city": "Leiden / The Hague",
+    "universities": [
+      "Leiden University"
+    ]
+  },
+  "degreeType": "taught",
+  "duration": "Duration of the Master's programme (typically 1-2 years)",
+  "intake": [
+    "September 2027"
+  ],
+  "eligibleNationalities": "Non-EEA/non-EFTA passport holders who are not eligible for Dutch student finance (Studiefinanciering). Bangladesh is eligible. EEA = all EU countries plus Iceland, Liechtenstein, Norway, Switzerland (these are NOT eligible). Exception: no nationality restriction for all LLM Advanced Studies programmes and the MSc in International Relations and Diplomacy.",
+  "twoStepProcess": true,
+  "supervisorRequired": false,
+  "interviewStage": false,
+  "fundingCovers": [
+    "Partial tuition (EUR 10,000-19,000)"
+  ],
+  "bondObligation": "None stated",
+  "tags": [
+    "#TuitionOnly"
+  ]
+}

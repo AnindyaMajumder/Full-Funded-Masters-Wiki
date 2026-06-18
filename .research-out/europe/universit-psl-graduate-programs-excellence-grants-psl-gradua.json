@@ -1,0 +1,76 @@
+{
+  "name": "Université PSL Graduate Programs Excellence Grants (PSL Graduate Program Scholarship)",
+  "officialLink": "https://psl.eu/en/education/scholarships-and-grants-graduate-students",
+  "requiredDocuments": [
+    "Application to the relevant PSL Master's program via the appropriate platform (MyCandidature for Dauphine-based tracks; MonMaster for most EU/other international applicants without access to Études en France; Études en France for applicants from countries covered by it — Bangladeshi applicants normally apply via Études en France / Campus France)",
+    "For the grant: tick the corresponding scholarship checkbox during the Master's application (M2 IASD / M2 MODO / M1 I2D), OR apply to the dedicated 'Computer Science Graduate Program — scholarship of excellence' campaign on MyCandidature if you applied to the Master's through MonMaster (for M2 MPRI: email the motivation letter to the Graduate Programme director instead)",
+    "A short motivation letter explaining why you deserve this grant and how it will allow you to continue your studies in good conditions (added as supplementary material, or emailed to the Graduate Programme director for M2 MPRI)",
+    "Bachelor's degree / academic transcripts proving the degree (Bachelor's for M1 entry; validated Master 1 year for M2 entry) — submitted as part of the underlying Master's application"
+  ],
+  "timeline": {
+    "cycle": "2026-2027",
+    "deadline": "8 June 2026 (Computer Science Graduate Program excellence grant)",
+    "resultsBy": "Jury held in June 2026; selected applicants notified by email shortly after",
+    "notes": "Anchored to 2026-06: dates are for the PSL Graduate Program in Computer Science excellence grant (2026 entry / 2026-2027 academic year), the discipline whose terms are published in detail at pginfo.ens.psl.eu. Each PSL Graduate Program (Chemistry, Mathematics, Finance, Earth & Biodiversity, Life Sciences, Religious Studies, Management, etc.) runs its own calendar — the PSL hub page (still labelled 'open for the academic year 2024-2025' as of access on 2026-06-18) directs applicants to each program's own page for current deadlines. There is no single PSL-wide deadline; verify the deadline on the specific discipline's page before applying."
+  },
+  "benefits": [
+    "Monthly scholarship of €1,200 paid for 10 months, from September to June (Computer Science track)",
+    "Awarded on academic excellence (and in some cases motivation / financial situation) for enrolment in a PSL research-oriented Master's (M1 and/or M2 depending on track)"
+  ],
+  "acceptanceRate": {
+    "value": "Not officially published",
+    "isOfficial": false
+  },
+  "mustKnow": [
+    "Stipend-only, NOT classic 'fully funded': the Computer Science track pays €1,200/month for 10 months and states 'Registration fees remain to be paid by the applicant ... out of this scholarship' — tuition/registration is NOT separately covered (France public-university registration fees are low and state-subsidised, but they come out of your stipend).",
+    "This is an umbrella scheme of separate per-discipline 'Excellence Grants', each run by its own PSL Graduate Program with its own amount, eligible Master's tracks, deadline and contact — figures here (€1,200×10, 8 June 2026 deadline) are the Computer Science track's; other disciplines differ. Always read the specific program's page.",
+    "Two-step in practice: you must first apply to / be admitted to the underlying PSL Master's program, then apply for (or tick) the grant — winning the grant is tied to enrolment in an eligible research-oriented Master's track.",
+    "Not every track is open to all nationalities: Computer Science, Chemistry, Mathematics, Finance, Earth & Biodiversity, Life Sciences, Religious Studies and Management are listed 'All nationalities' (Bangladesh eligible), but Engineering (ISAI) and Physics (ICFP) are restricted to 'International students' — check the track before applying.",
+    "Cannot be combined with other funding, except joint programmes with French Embassies or French Institutes abroad (Computer Science track rule). Interruption of attendance results in immediate termination of payments.",
+    "Bangladeshi applicants normally apply for admission to French public institutions through Études en France / Campus France (not MonMaster); the grant application platform/route can differ from the Master's-admission platform — follow the discipline page's exact instructions.",
+    "Life Sciences track is narrow: only students enrolled in the IMaGHE (Integrative PhysioPathology) curriculum who carry out an internship in a PSL laboratory can apply; the Management excellence scholarship is for the 2nd year of specific Master's tracks only."
+  ],
+  "host": {
+    "country": "France",
+    "city": "Paris",
+    "universities": [
+      "Université PSL (Paris Sciences & Lettres)",
+      "Université Paris-Dauphine-PSL",
+      "École normale supérieure (ENS)-PSL",
+      "and other PSL member schools depending on the Graduate Program"
+    ]
+  },
+  "degreeType": "research",
+  "duration": "Master's (M1 and/or M2 depending on track); Computer Science grant paid for 10 months (Sep–Jun) per awarded year",
+  "intake": [
+    "Autumn 2026"
+  ],
+  "eligibleNationalities": "Varies by discipline. 'All nationalities' for Chemistry, Computer Science, Mathematics, Finance, Earth & Biodiversity Sciences, Life Sciences, Religious Studies and Management — Bangladeshi nationals are eligible for these. Engineering (ISAI) and Physics (ICFP) grants are limited to 'International students'. The Computer Science page states it is 'open to students of all nationalities who have obtained a Bachelor's degree'.",
+  "standardizedTests": "Not stated as required (no GRE/GMAT requirement mentioned on the official scholarship pages)",
+  "applicationFee": "Not stated on the official scholarship pages",
+  "fundingCovers": [
+    "Monthly living stipend (€1,200 × 10 months for the Computer Science track)"
+  ],
+  "monthlyStipend": "€1,200 per month for 10 months (Computer Science track; other PSL Graduate Programs may differ)",
+  "supervisorRequired": false,
+  "twoStepProcess": true,
+  "bondObligation": "None stated",
+  "coversDependents": false,
+  "renewalConditions": "Paid per awarded academic year; interruption of attendance results in immediate termination of scholarship payments (Computer Science track).",
+  "sources": [
+    {
+      "label": "Université PSL — Scholarships and grants for graduate students (official hub: lists the Graduate Programs Excellence Grants and per-discipline eligibility 'All nationalities' vs 'International students')",
+      "url": "https://psl.eu/en/education/scholarships-and-grants-graduate-students",
+      "accessed": "2026-06-18"
+    },
+    {
+      "label": "PSL Graduate Program in Computer Science — Scholarship grants for PSL Master's programs (official detail page: €1,200/month × 10 months, 'all nationalities ... obtained a Bachelor's degree', registration fees paid from the scholarship, 8 June 2026 deadline, how-to-apply, eligible tracks)",
+      "url": "https://pginfo.ens.psl.eu/last/scholarship_grants_en.html",
+      "accessed": "2026-06-18"
+    }
+  ],
+  "lastVerified": "2026-06-18",
+  "tags": [
+    "#NoGRE"
+  ]
+}

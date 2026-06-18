@@ -183,13 +183,14 @@ it automatically via `entries()`), then add it to the **Coverage** section below
 
 ## Coverage
 
-Running checklist (as of 2026-06-17). **93 scholarships live across 8 countries**;
+Running checklist (as of 2026-06-18). **105 scholarships live across 8 countries**;
 every record is ground-truth-extracted from its official page with verbatim evidence,
 official links resolution-checked, and acceptance rates left "Not officially published"
 unless a real funder figure exists. All 70 UK/EU/CN/JP deadlines were re-verified against
 source on 2026-06-17 (one correction: ZJU CGS Type A opens 15 — not 5 — November 2025).
-The four Asian additions below were researched specifically for a **Bangladeshi national** —
-every entry's eligibility for Bangladeshis is confirmed on the official page.
+The 12 new Europe additions (2026-06-18) and the four Asian additions below were researched
+specifically for a **Bangladeshi national** — every entry's eligibility for Bangladeshis is
+confirmed on the official page.
 
 > UI note: the acceptance-rate column was removed from the ledger by request. `acceptanceRate`
 > is still part of the data contract and is captured per record; it is just not displayed.
@@ -198,11 +199,14 @@ every entry's eligibility for Bangladeshis is confirmed on the official page.
   Clarendon · Rhodes · Felix · Oxford-Weidenfeld & Hoffmann · Cambridge Trust · GREAT
   (#TuitionOnly) · Marshall · Ertegun (only numeric AR: 1.5%, funder-published) ·
   Oxford-Pershing Square · OCIS · Skoll · Mastercard@Edinburgh · Saïd · Inlaks · A.S. Hornby.
-- [x] **Europe — 19** Erasmus Mundus · DAAD Study Scholarships · DAAD Helmut-Schmidt (PPGG) ·
+- [x] **Europe — 31** Erasmus Mundus · DAAD Study Scholarships · DAAD Helmut-Schmidt (PPGG) ·
   Swedish Institute (SISGP) · Eiffel · ETH Zürich ESOP · EPFL · Stipendium Hungaricum ·
   Italian Govt (MAECI) · Invest Your Talent · Türkiye Bursları · Stefan Banach (NAWA, PL) ·
   Czech Govt · Fundación Carolina (ES) · Eric Bleumink (NL) · VLIR-UOS (BE) · ARES (BE) ·
-  KAS · Heinrich Böll.
+  KAS · Heinrich Böll · **+12 (2026-06-18):** DAAD EPOS · DAAD Hilde Domin · Friedrich-Ebert-Stiftung (FES) ·
+  Avicenna ISP · KAAD · Maastricht NL-High Potential (NL) · Ampère Excellence (ENS de Lyon) ·
+  ENS-PSL International Selection · Rosa-Luxemburg-Stiftung · Paris-Saclay IDEX · Justus &
+  Louise van Effen (TU Delft) · Anne van den Ban Fund (WUR, #TuitionOnly — partial possible).
 - [x] **China — 19** CSC/CGS (+ Type A/B channels at Zhejiang, Fudan, Tsinghua, SJTU) ·
   Schwarzman · Yenching · Confucius/Intl Chinese Language Teachers · Belt-and-Road/Silk Road
   (PKU, BNU, Fudan) · Beijing & Shanghai Government Scholarships · PKU/Tsinghua/USTC/CAS-ANSO.
