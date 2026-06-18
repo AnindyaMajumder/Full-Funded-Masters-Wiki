@@ -1,0 +1,99 @@
+{
+  "name": "ENS-PSL International Selection (École Normale Supérieure - PSL)",
+  "officialLink": "https://www.ens.psl.eu/en/une-formation-d-exception/admissions/international/international-selection",
+  "requiredDocuments": [
+    "Detailed editable application form (downloaded from ENS, filled out)",
+    "High school diploma (in French or English; Spanish, Italian or Portuguese also accepted)",
+    "University transcript (in French or English; Spanish, Italian or Portuguese also accepted)",
+    "Curriculum vitae (CV)",
+    "Motivation/cover letter, 1 to 3 pages (Times New Roman, 12 pt, 1.5 spacing) — in French for Arts & Humanities (also in English for Economics, Linguistics, Cognitive studies); in French OR English for Sciences",
+    "Arts & Humanities only: a research/study project of max 3 pages (10,000 characters incl. spaces) with a bibliography of 10 books",
+    "2 to 4 letters of recommendation (any format accepted)",
+    "All documents merged into a single PDF named 'Family Name-Given Name.pdf' (do NOT include a passport or ID card)"
+  ],
+  "timeline": {
+    "cycle": "2025-2026",
+    "opens": "Arts & Humanities: 1 October 2025; Sciences: 16 October 2025",
+    "deadline": "Arts & Humanities: 3 December 2025, 12:00 midday Paris time; Sciences: 15 December 2025, 12:00 midday Paris time",
+    "resultsBy": "Admission results from 4 March 2026 (Arts & Humanities) / from 26 March 2026 (Sciences)",
+    "notes": "Dates are the 2026-entry cycle (applications Oct–Dec 2025), as published on the official page (last updated 18/02/2026). As of the 2026-06 anchor the next cycle had not opened; the program runs on a fixed annual calendar (apply in autumn, tests Feb–Mar, entry in autumn). Shortlist/tests: A&H written tests 2–6 Feb 2026 and oral tests 9–13 Feb 2026; Sciences tests 3–20 March 2026 — all conducted remotely by videoconference."
+  },
+  "benefits": [
+    "Monthly grant of €1,000 paid for 36 months (3 years)",
+    "Right to request a furnished room on an ENS campus (rue d'Ulm, boulevard Jourdan, or Montrouge); rent ~€315/month",
+    "Tuition in French public universities paid by the French State (student pays only modest annual registration/inscription fees + CVEC)",
+    "Free French language courses throughout the year, plus an intensive course at the start of September",
+    "Graduate with both a Master's degree (M1+M2) in the chosen specialty and the diploma of the École normale supérieure (DENS)"
+  ],
+  "acceptanceRate": {
+    "value": "5–10%",
+    "isOfficial": true,
+    "source": "ENS-PSL official FAQ: 'How hard is the selection? The selection rates varies from year to year, between 5 and 10%.' https://www.ens.psl.eu/en/une-formation-d-exception/admissions/international/international-selection/faq-about-international (accessed 2026-06-18)"
+  },
+  "mustKnow": [
+    "Strict age limit: you must apply before turning 26 (Arts & Humanities: not past your 26th birthday on 1 December; Sciences: under 26 on the application opening day).",
+    "Two-step competitive examination: first a selection on dossier, then remote (videoconference) written and oral tests for shortlisted candidates — this is a concours, not a simple admissions review.",
+    "You can apply to the International Selection ONLY ONCE in your life — former candidates' files are not transmitted to the jury.",
+    "Requires at least one year of undergraduate study at a FOREIGN (non-French) university now, and two years by the September after admission — a Bangladeshi who studied in Bangladesh qualifies; there is no nationality restriction.",
+    "Residence rule: must not have lived in France more than 10 months (Arts & Humanities) / 6 months (Sciences) during the selection year and the year before.",
+    "Fully funded with a living stipend (€1,000/month for 36 months) PLUS state-paid tuition — but the grant is not paid during any gap year, and ENS can only pay it into a French bank account you must open on arrival.",
+    "No ten-year State-service commitment: International Selection students receive a grant (not a salary) and do not become civil servants, so unlike regular normaliens they are NOT bound by the ten-year engagement — effectively no return-home/service bond.",
+    "Arts & Humanities is taught and tested mainly in French (B1 reading/writing recommended, no official certificate required); Sciences departments teach in French or English and no language level is officially required — so no IELTS/TOEFL is demanded.",
+    "Enrollment in both a Master's and the ENS graduate degree (DENS, 72 extra ECTS over 3 years) is compulsory."
+  ],
+  "sources": [
+    {
+      "label": "ENS-PSL — International selection (official program page: key dates, eligibility, documents, benefits, schedule)",
+      "url": "https://www.ens.psl.eu/en/une-formation-d-exception/admissions/international/international-selection",
+      "accessed": "2026-06-18"
+    },
+    {
+      "label": "ENS-PSL — FAQ about International selection (eligibility, grant amount €1000/36 months, acceptance rate 5–10%, no ten-year commitment, languages, accommodation)",
+      "url": "https://www.ens.psl.eu/en/une-formation-d-exception/admissions/international/international-selection/faq-about-international",
+      "accessed": "2026-06-18"
+    },
+    {
+      "label": "ENS-PSL — Initial application form portal (Dematec entry point)",
+      "url": "https://formulaires.ens.psl.eu/",
+      "accessed": "2026-06-18"
+    }
+  ],
+  "lastVerified": "2026-06-18",
+  "host": {
+    "country": "France",
+    "city": "Paris",
+    "universities": [
+      "École Normale Supérieure - PSL (Université PSL)"
+    ]
+  },
+  "degreeType": "both",
+  "duration": "3 years (M1+M2 Master plus 72 ECTS for the ENS graduate degree / DENS)",
+  "intake": [
+    "Autumn 2026"
+  ],
+  "eligibleNationalities": "Open to all nationalities worldwide (no country restriction); requires at least one year (ultimately two years) of undergraduate study at a foreign/non-French university and a France-residence cap. Bangladeshi nationals are eligible.",
+  "languageRequirements": "No official language certificate required. Arts & Humanities: courses and most tests in French — candidates should read/write French at roughly B1 level. Sciences: courses in French or English depending on department; no language level officially required. No IELTS/TOEFL demanded.",
+  "standardizedTests": "Not required (selection is via ENS's own written and oral competitive tests, not GRE/GMAT)",
+  "ageLimit": "Under 26 — must apply before turning 26 (Arts & Humanities: not past 26th birthday on 1 December; Sciences: under 26 on opening day of applications)",
+  "applicationFee": "Free (no application fee stated on the official page)",
+  "fundingCovers": [
+    "Monthly living grant (€1,000 × 36 months)",
+    "On-campus accommodation (room available, rent ~€315/month paid from grant)",
+    "Tuition (state-paid; only modest annual registration/inscription fees + CVEC remain)",
+    "Free French language courses"
+  ],
+  "monthlyStipend": "€1,000 per month for 36 months",
+  "supervisorRequired": false,
+  "twoStepProcess": true,
+  "bondObligation": "None — International Selection students receive a grant (not a salary), do not become civil servants, and are not subject to the ten-year State-service commitment.",
+  "coversDependents": false,
+  "interviewStage": true,
+  "renewalConditions": "Grant paid over 3 years; must remain enrolled in a Master's and the ENS graduate degree (DENS, 72 ECTS over 3 years). Grant is suspended during any gap year/semester (up to 2 gap years permitted).",
+  "postStudyWork": "Graduates hold a French Master's degree plus the ENS diploma; standard French post-study work/residence options apply (admitted students enter on a 'visa long séjour pour études' arranged via Campus France). No program-specific stay-back scheme stated.",
+  "tags": [
+    "#FullyFunded",
+    "#NoIELTS",
+    "#NoGRE",
+    "#NoApplicationFee"
+  ]
+}

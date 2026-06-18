@@ -1,0 +1,97 @@
+{
+  "name": "Maastricht University NL-High Potential Scholarship",
+  "officialLink": "https://www.maastrichtuniversity.nl/studeren/toelating-inschrijving/financing-your-studies/scholarships/maastricht-university-nl-high",
+  "host": {
+    "country": "Netherlands",
+    "city": "Maastricht",
+    "universities": [
+      "Maastricht University"
+    ]
+  },
+  "degreeType": "both",
+  "duration": "13 months for a one-year master's; 25 months for a two-year master's",
+  "intake": [
+    "September 2026 (2026-2027 academic year)"
+  ],
+  "eligibleNationalities": "Open to nationals of countries outside the EU/EEA, Switzerland and Surinam who do not also hold an EU/EEA or Swiss nationality, and who meet the requirements for a Dutch entry visa and residence permit. Bangladeshi nationals qualify.",
+  "ageLimit": "Not older than 35 years of age on 1 September 2026",
+  "minGPA": "GPA of 7.5 out of 10 or higher (equivalent to at least 75% of the maximum grade, or 3 out of 4)",
+  "applicationFee": "Free for the scholarship application; however the master's programme itself may require a handling fee (not covered by UM) payable by 8 December 2025",
+  "fundingCovers": [
+    "Tuition fees (paid at cost by UM International Services Desk)",
+    "Monthly living stipend",
+    "Health & liability insurance",
+    "Visa application costs",
+    "Pre-Academic Training costs",
+    "International Student Ambassador Programme (first block)"
+  ],
+  "monthlyStipend": "EUR 1,550 per month (EUR 20,150 over 13 months, or EUR 38,750 over 25 months)",
+  "supervisorRequired": false,
+  "twoStepProcess": true,
+  "bondObligation": "No financial bond; awardees must agree to become an active UM NL High Potential and UM ambassador during and after their studies, committing to at least one information session.",
+  "coversDependents": false,
+  "interviewStage": true,
+  "benefits": [
+    "Tuition fees paid at cost by the UM International Services Desk",
+    "Monthly living stipend of EUR 1,550 (EUR 20,150 over 13 months for a 1-year master's, or EUR 38,750 over 25 months for a 2-year master's)",
+    "Health & liability insurance (EUR 700), arranged and paid by UM",
+    "Visa application costs paid at cost by UM",
+    "Mandatory two-week UM Pre-Academic Training costs covered",
+    "International Student Ambassador Programme (ISAP) for the first block"
+  ],
+  "requiredDocuments": [
+    "Curriculum vitae (up-to-date, max two A4 pages, listing awards/prizes)",
+    "Letter of motivation (using the official UM scholarship motivation-letter template)",
+    "Proof of academic excellence: university transcript / official document showing most recent GPA of 7.5/10 or higher, plus a document explaining your grade system",
+    "Personal statement of financial needs (explaining personal circumstances such as financial difficulty, caretaking responsibilities, medical condition, disability, refugee status, etc.)",
+    "A reference letter (from a former/current professor, lecturer or employer — not a family member; dated no earlier than February 2025; following the UM reference-letter guidelines)",
+    "Contact details of one referee (relationship to applicant, work phone with country code, and a work/institutional email address)"
+  ],
+  "timeline": {
+    "cycle": "2026-2027",
+    "opens": "Master's programme application via Studielink must be submitted before 8 December 2025; scholarship application form opens after admission",
+    "deadline": "1 February 2026 (scholarship); master's-programme admission application deadline 8 December 2025",
+    "resultsBy": "April-May 2026 (status of selected / waitlisted / rejected communicated by beginning of May 2026 at the latest)",
+    "notes": "Dates are for the 2026-2027 cycle (the most recent documented cycle as of 2026-06). As of the verification date the official page states 'Applications are closed and will reopen in October 2026' for the 2027-2028 cycle; participating-programme applications for 2027-2028 can be submitted from 1 October 2026. Scholarship amounts are subject to change for 2027-2028."
+  },
+  "acceptanceRate": {
+    "value": "2%",
+    "isOfficial": true,
+    "source": "Maastricht University official scholarship page: 'Please note, this is a very competitive scholarship, only 2% of the applicants get awarded the scholarship.' — https://www.maastrichtuniversity.nl/studeren/toelating-inschrijving/financing-your-studies/scholarships/maastricht-university-nl-high (accessed 2026-06-18)"
+  },
+  "mustKnow": [
+    "Two-step process: you must first apply and be admitted to a participating UM master's programme via Studielink before 8 December 2025, then submit the separate scholarship application form (with your UM student ID) by 1 February 2026.",
+    "Only specific 'participating programmes' are eligible — check the UM participating-programmes PDF for your target academic year before applying.",
+    "Age limit: you must not be older than 35 on 1 September 2026.",
+    "Minimum GPA of 7.5/10 (>=75% of the maximum, or 3/4) is a hard cutoff — applications below this are not considered.",
+    "Highly competitive: UM officially states only 2% of applicants are awarded the scholarship (21 scholarships per academic year).",
+    "An allocated room is a mandatory part of the award — refusing the room cancels the scholarship, and the accommodation is not suitable for partners/spouses or children (does not cover dependents). Housing (~EUR 960/month) is paid out of the living stipend, not a separate free benefit.",
+    "Air tickets/travel to the Netherlands are NOT covered and must be paid by the candidate.",
+    "You can submit only one application, for one scholarship only; documents cannot be added or replaced after submission.",
+    "Awardees must complete the mandatory two-week UM Pre-Academic Training (starts first week of August 2026) and agree to act as a UM ambassador.",
+    "Selected candidates are invited to an online interview before final decisions.",
+    "You must never have participated in a degree-seeking higher-education programme in the Netherlands (completed exchange programmes are fine); preference goes to candidates who have not yet obtained a master's degree.",
+    "Any programme-level handling fee is the applicant's responsibility and is not covered by UM."
+  ],
+  "renewalConditions": "Awarded for the nominal duration of the master's (13 or 25 months); continued enrolment in the admitted UM master's programme is required.",
+  "languageRequirements": "Set by the specific UM master's programme's admission requirements (typically IELTS/TOEFL for English-taught programmes); the scholarship itself adds no separate language test. Verify on the chosen programme's webpage.",
+  "standardizedTests": "Not required by the scholarship; any test requirement is set by the individual master's programme.",
+  "sources": [
+    {
+      "label": "Maastricht University — NL-High Potential Scholarship (official page: eligibility, benefits, amounts, deadline, application & selection procedure, 2% acceptance rate)",
+      "url": "https://www.maastrichtuniversity.nl/studeren/toelating-inschrijving/financing-your-studies/scholarships/maastricht-university-nl-high",
+      "accessed": "2026-06-18"
+    },
+    {
+      "label": "Maastricht University — UM scholarships for students abroad (key page; redirects to the main NL-High Potential page)",
+      "url": "https://www.maastrichtuniversity.nl/support/your-studies-begin/coming-maastricht-university-abroad/um-scholarships-students-abroad",
+      "accessed": "2026-06-18"
+    }
+  ],
+  "lastVerified": "2026-06-18",
+  "tags": [
+    "#FullyFunded",
+    "#NoApplicationFee",
+    "#NoGRE"
+  ]
+}

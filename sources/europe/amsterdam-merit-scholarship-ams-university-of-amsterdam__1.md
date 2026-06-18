@@ -1,0 +1,10 @@
+# Amsterdam Merit Scholarships
+The University of Amsterdam (UvA) aims to attract the world’s brightest students to its international classrooms. Outstanding students from outside the EU/EEA can apply for an Amsterdam Merit Scholarship (AMS).
+## Who is eligible?
+Students who hold a non-EU/EEA passport and have applied for a degree programme at the University of Amsterdam may submit an application for an Amsterdam Merit Scholarship.
+## How to apply?
+Applications should be submitted to the Admissions Offices of the Graduate Schools. Deadlines for the AMS differ per Faculty or Graduate School. You can find the specific eligibility requirements, selection criteria and application instructions on the Faculty or Graduate School websites.
+[ Child Development and Education ](https://www.uva.nl/en/programmes/research-masters/child-development-and-education-research/tuition-fee/amsterdam-merit-scholarships.html) [ Communication Science ](https://www.uva.nl/en/programmes/masters/communication-science-corporate-communication/tuition-fee/amsterdam-merit-scholarship.html) [ Economics and Business ](https://www.uva.nl/en/education/fees-and-funding/masters-scholarships-and-loans/faculty-scholarships-economics-and-busines/scholarships.html) [ Humanities ](https://gsh.uva.nl/fees-funding/scholarships/amsterdam-merit-scholarship/ams-scholarships-for-students-humanities.html) [ Medicine ](http://www.amc.nl/web/leren/leren-in-het-amc/amsterdam-merit-scholarships.htm) [ Psychology ](https://www.uva.nl/en/about-the-uva/organisation/faculties/faculty-of-social-and-behavioural-sciences/education/psychology/amsterdam-merit-scholarship-ams.html) [ Science ](https://www.uva.nl/en/education/fees-and-funding/masters-scholarships-and-loans/faculty-scholarships-science/science.html) [ Social Sciences ](https://www.uva.nl/en/about-the-uva/organisation/faculties/faculty-of-social-and-behavioural-sciences/education/social-sciences/scholarships.html)
+
+Source URL: https://www.uva.nl/en/education/fees-and-funding/masters-scholarships-and-loans/amsterdam-merit-scholarship/amsterdam-merit-scholarship.html
+Accessed: 2026-06-18

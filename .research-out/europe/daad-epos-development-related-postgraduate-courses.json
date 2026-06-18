@@ -1,0 +1,104 @@
+{
+  "name": "DAAD EPOS - Development-Related Postgraduate Courses",
+  "officialLink": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=50076777",
+  "requiredDocuments": [
+    "Completed and signed DAAD application form(s) (you may apply for up to three EPOS-listed courses; list them in order of priority)",
+    "Curriculum vitae in reverse chronological order without unexplained gaps (Europass template), with exact information about studies and practical experience",
+    "One Letter of Motivation with detailed academic, professional and personal reasons for applying (if applying to more than one course, justify the choice and prioritisation of courses in a single uniform letter)",
+    "Letter of recommendation from your current employer (official letterhead, signature, official stamp, current date, not in a sealed envelope)",
+    "Certificate(s) of Employment proving at least two years of relevant work experience after the Bachelor's degree up to the time of application (ideally including a guarantee of re-employment on return home)",
+    "Recent proof of language skills: English (IELTS or TOEFL — institutional TOEFL not accepted) or German (required for German-taught courses)",
+    "Copies of higher-education degree certificates (certified translation if not in German or English)",
+    "Copy of full set of transcript of records (with an explanation of the grading system if not included)",
+    "APS Certificate (required only for applicants from the People's Republic of China)"
+  ],
+  "timeline": {
+    "cycle": "2026-2027",
+    "deadline": "Varies by chosen EPOS-listed course (no single global deadline). Example: MIDE at HTW Berlin closes 31 August 2025 for a 1 April 2026 start.",
+    "notes": "EPOS has no single DAAD deadline — you apply directly to the master's course and each course sets its own deadline (see the official 'List of all Postgraduate courses with application deadlines 2027/28' PDF). The DAAD selection process for all listed courses runs from end of October to March. As of 2026-06 the documented cycle is the 2026/2027 academic year from the official EPOS programme brochure; the deadlines list referenced on the page covers 2027/28 courses. Always check the individual course website/brochure for the exact, current deadline."
+  },
+  "benefits": [
+    "Monthly stipend of 992 EUR for graduate (master's) scholarship holders (1,300 EUR, rising to 1,400 EUR from February 2026, for doctoral candidates)",
+    "Payments towards health, accident and personal-liability insurance cover",
+    "Travel allowance, unless covered by the home country or another funding source",
+    "Possible monthly rent subsidy (under certain circumstances)",
+    "Possible monthly allowance for accompanying family members (under certain circumstances)",
+    "Tuition exemption/waiver at EPOS-listed courses for DAAD scholarship holders (handled per course)",
+    "For German-taught courses, an included preparatory German language course (2-6 months) in Germany before the study course begins"
+  ],
+  "acceptanceRate": {
+    "value": "Not officially published",
+    "isOfficial": false
+  },
+  "mustKnow": [
+    "You apply DIRECTLY to a specific EPOS-listed master's course, NOT to the DAAD. Applications sent to the DAAD are not forwarded. You may apply to up to three courses, ranked by priority.",
+    "Two-step process: (1) apply to the course; (2) a selection committee proposes candidates; (3) DAAD then invites the proposed candidates to upload their complete documents to the DAAD Portal; (4) final selection. Keep PDF copies of every document ready for the portal upload.",
+    "Work-experience gate: you need a Bachelor's degree (usually a four-year course) PLUS at least two years of relevant professional experience after the Bachelor's, up to the application deadline.",
+    "Recency rule: academic degrees should normally be no more than six years old at the time of application.",
+    "Residency exclusion: applicants who have lived in Germany for longer than 15 months at the application deadline cannot be considered.",
+    "Nationality gate: open only to nationals on the OECD-DAC developing-country list supported by EPOS (Bangladesh is included — confirmed under 'South and Central Asia' in the official DAC list, validity 2024-2025); a few DAC countries are explicitly excluded (Bosnia-Herzegovina, Croatia, Macedonia, Montenegro, Serbia incl. Kosovo, Turkey).",
+    "Development-related motivation is assessed: typical holders work in a public authority or a state/private company in a developing country on development-policy planning/projects.",
+    "Funded by Germany's Federal Ministry for Economic Cooperation and Development (BMZ); scholarship announcement depends on BMZ funds being provided.",
+    "Fully funded with a living stipend (not tuition-only): stipend + insurance + travel, with tuition exempted/waived per EPOS course for DAAD scholars."
+  ],
+  "host": {
+    "country": "Germany",
+    "universities": [
+      "Selected German state or state-recognised universities and universities of applied sciences offering EPOS-listed postgraduate courses (e.g. Universität Leipzig, Universität Stuttgart, Heidelberg, HTW Berlin, MIPLC Munich)"
+    ]
+  },
+  "degreeType": "both",
+  "duration": "12 to 42 months depending on the study programme (12-24 months for a master's degree; 40-42 months for a PhD)",
+  "intake": [
+    "Academic year 2026/2027 (intake date set by each EPOS-listed course; e.g. MIDE/HTW Berlin begins 1 April 2026)"
+  ],
+  "eligibleNationalities": "Open to graduates from countries on the OECD-DAC developing/newly-industrialised country list supported in the EPOS programme. Bangladesh is included (listed under 'South and Central Asia' in the official DAC list, validity 2024-2025). Excluded DAC countries: Bosnia-Herzegovina, Croatia, Macedonia, Montenegro, Serbia (including Kosovo) and Turkey. Applicants resident in Germany longer than 15 months at the deadline are not eligible.",
+  "languageRequirements": "For English-taught courses: proof of adequate English per the course's regulations (IELTS or TOEFL; institutional TOEFL not accepted). For German-taught courses: DSH 2 or TestDaF 4 before the course starts, with at least German B1 at application (proven by certificate); a 6-month intensive German course in Germany is included but cannot replace prior B1 knowledge.",
+  "ageLimit": "No fixed age limit, but academic degrees should normally be no more than six years old at the time of application.",
+  "applicationFee": "No DAAD application fee mentioned; apply directly to the course (course/admission or language-test fees, if any, are separate and not specified by DAAD).",
+  "fundingCovers": [
+    "Monthly living stipend",
+    "Health/accident/personal-liability insurance contributions",
+    "Travel allowance",
+    "Tuition exemption/waiver (per EPOS course)",
+    "Possible rent subsidy",
+    "Possible family allowance",
+    "Preparatory German language course (German-taught courses)"
+  ],
+  "monthlyStipend": "992 EUR per month for graduate (master's) scholarship holders",
+  "supervisorRequired": false,
+  "twoStepProcess": true,
+  "coversDependents": true,
+  "renewalConditions": "Funding runs for the duration of the study programme (12-42 months) contingent on satisfactory academic progress; for German-taught courses, passing DSH 2 / TestDaF 4 is a formal prerequisite for university matriculation.",
+  "postStudyWork": "Programme expects graduates to return to and apply their skills in their home country/region (development-related objective); a guarantee of re-employment from the current employer is requested where possible.",
+  "sources": [
+    {
+      "label": "DAAD Scholarship Database — Development-Related Postgraduate Courses (EPOS), official call (eligibility, value, documents, procedure)",
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=50076777",
+      "accessed": "2026-06-18"
+    },
+    {
+      "label": "DAAD — EPOS programme overview (information for higher-education institutions): objectives, background, results",
+      "url": "https://www.daad.de/en/information-services-for-higher-education-institutions/further-information-on-daad-programmes/epos/",
+      "accessed": "2026-06-18"
+    },
+    {
+      "label": "DAAD EPOS — list of eligible developing countries (OECD-DAC list supported in EPOS); Bangladesh listed under South and Central Asia",
+      "url": "https://static.daad.de/media/daad_de/pdfs_nicht_barrierefrei/in-deutschland-studieren-forschen-lehren/dac_laenderliste_epos.pdf",
+      "accessed": "2026-06-18"
+    },
+    {
+      "label": "DAAD EPOS Programme Brochure 2026/2027 (duration, BMZ funding, selection window end-Oct to March, DAC exclusions, tuition handling per course, preparatory German course)",
+      "url": "https://static.daad.de/media/daad_de/pdfs_nicht_barrierefrei/in-deutschland-studieren-forschen-lehren/daad_programmbroschuere_epos_2026-27.pdf",
+      "accessed": "2026-06-18"
+    }
+  ],
+  "lastVerified": "2026-06-18",
+  "tags": [
+    "#FullyFunded",
+    "#NoApplicationFee",
+    "#NoGRE",
+    "#CoversFamily",
+    "#TwoStepProcess"
+  ]
+}

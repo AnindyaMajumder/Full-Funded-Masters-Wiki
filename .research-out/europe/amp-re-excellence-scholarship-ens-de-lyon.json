@@ -1,0 +1,99 @@
+{
+  "name": "Ampère Excellence Scholarship (ENS de Lyon)",
+  "officialLink": "https://www.ens-lyon.fr/en/studies/admissions/application-masters-degrees-and-scholarships",
+  "requiredDocuments": [
+    "Official identity document",
+    "Motivation letter",
+    "Curriculum Vitae (CV)",
+    "Certificate of diplomas and degrees already obtained (e.g. Bachelor degree) — in French or English only; otherwise an officially certified French/English translation",
+    "University academic transcript of records — in French or English only; otherwise an officially certified French/English translation",
+    "Proof of enrollment for the current year (in French or English)",
+    "Program-specific additional documents where required (e.g. research project, language certificates, letters of recommendation); if a document is unavailable, a PDF explanation is expected"
+  ],
+  "timeline": {
+    "cycle": "2026-2027",
+    "opens": "2025-11-14",
+    "deadline": "2026-01-23",
+    "resultsBy": "Mid-March 2026",
+    "notes": "Dates are the official 2026-2027 calendar from the ENS de Lyon application page; as of 2026-06 this cycle is already CLOSED ('Call for application 2026-2027 is now closed'). The 2027-2028 calendar is stated to be updated in November 2026. The 2025-2026 call previously ran 12 Nov 2024 – 31 Jan 2025. Deadline time is 11:59pm CET."
+  },
+  "benefits": [
+    "Ampère Scholarship of Excellence: €1,000 per month for 12 months (one academic year), renewable under conditions",
+    "Eligible for all ENS de Lyon Master's programs (Exact Sciences, Arts, Human & Social Sciences), except FEADéP and a few excluded master's programs",
+    "Paid in three installments: end of October (4 months), end of February (4 months), end of May (4 months)",
+    "Related GRADUATE+ Scholarship (separate award, SFRI-funded): €1,000/month for 10 months for selected Graduate initiatives (CORE, DynLifeSys, MathInfi, PACE) in M1 or M2"
+  ],
+  "acceptanceRate": {
+    "value": "Not officially published",
+    "isOfficial": false
+  },
+  "mustKnow": [
+    "Living stipend only — €1,000/month is a merit grant; the official sources do NOT state that tuition, travel, insurance, or accommodation are covered. It is not a comprehensive tuition+stipend package.",
+    "One application form covers BOTH the Master's admission and the scholarship — there is no separate scholarship application; awards are decided by the ENS de Lyon admission committee.",
+    "Route by status: a Bangladeshi applies as a 'non-European student with a higher education degree in a foreign country'. Applying on the wrong form means the application is not considered.",
+    "Awarded for one predetermined Master's program for an initial 12 months; renewable under conditions (e.g. into the second master's year) but renewal is not automatic.",
+    "Strict obligations while funded: must complete full registration and submit proof before 20 September, sign attendance sheets (1st Tuesday of October, December, February and May), attend all classes/exams, sit resit sessions; failure or unjustified absence stops the stipend AND can trigger repayment of sums already received.",
+    "Mobility restrictions: scholarship holders must NOT do a study/research period abroad and must NOT do an internship in a lab not affiliated to ENS de Lyon; internships in the student's own country of origin are never authorized.",
+    "Language: certificates of English and/or French level are required depending on the discipline/level; waived if you studied entirely in a French- or English-speaking country (attach a self-written explanation).",
+    "As of 2026-06 the 2026-2027 cycle is CLOSED (deadline was 23 Jan 2026); the 2027-2028 calendar is due to be published in November 2026.",
+    "No age limit is stated anywhere in the official ENS de Lyon Ampère rules or application pages (any '≤26 / born after 1 January' figure could not be verified and is omitted)."
+  ],
+  "host": {
+    "country": "France",
+    "city": "Lyon",
+    "universities": [
+      "École Normale Supérieure de Lyon (ENS de Lyon)"
+    ]
+  },
+  "degreeType": "both",
+  "duration": "1 academic year initially (12 months), renewable under conditions for the second master's year",
+  "intake": [
+    "Fall 2026"
+  ],
+  "eligibleNationalities": "Open to international students with no country exclusions. Bangladeshi nationals are eligible and apply via the 'non-European student with a higher education degree in a foreign country' route. (European = EEA/EU + Norway/Iceland/Liechtenstein/Switzerland/Monaco/Andorra nationals; everyone else, including Bangladesh, is non-European.)",
+  "languageRequirements": "Certificate of English and/or French level required depending on discipline and study level (per ENS de Lyon reference grids). Exception/waiver if you studied in a French- or English-speaking country or your studies were made entirely in French or English — attach a self-written explanation.",
+  "standardizedTests": "Not required",
+  "applicationFee": "Free (no application fee mentioned)",
+  "fundingCovers": [
+    "Monthly living stipend"
+  ],
+  "monthlyStipend": "€1,000 per month (12 months for Ampère)",
+  "supervisorRequired": false,
+  "twoStepProcess": false,
+  "bondObligation": "None (no return-home service bond); however, while funded the holder must not study/research abroad or intern outside ENS de Lyon-affiliated labs, and never in their country of origin",
+  "coversDependents": false,
+  "interviewStage": false,
+  "renewalConditions": "Initial 12 months; renewable under conditions. Continued payment requires full registration, attendance (signed attendance sheets in Oct/Dec/Feb/May), sitting all exams (including resits), and compliance with the Ampère rules and ENS de Lyon internal regulations; breaches stop the stipend and may require repayment.",
+  "sources": [
+    {
+      "label": "ENS de Lyon — Application for Master's degrees and scholarships (eligibility, calendar, documents, application routes)",
+      "url": "https://www.ens-lyon.fr/en/studies/admissions/application-masters-degrees-and-scholarships",
+      "accessed": "2026-06-18"
+    },
+    {
+      "label": "ENS de Lyon — Grants and scholarships (Ampère amount/duration: €1,000/month for one academic year, renewable; all master's programs)",
+      "url": "https://www.ens-lyon.fr/en/studies/student-information/grants-and-scholarships",
+      "accessed": "2026-06-18"
+    },
+    {
+      "label": "ENS de Lyon — International students: Application for Scholarship of excellence 2025-2026 (call announcement, €1,000/month for 12 months)",
+      "url": "https://www.ens-lyon.fr/en/article/studies/international-students-application-scholarship-excellence-2025-2026",
+      "accessed": "2026-06-18"
+    },
+    {
+      "label": "ENS de Lyon — Rules pertaining to the Ampère Scholarship (PDF: 12-month duration, payment schedule, obligations, mobility/internship restrictions, repayment)",
+      "url": "https://www.ens-lyon.fr/en/sites/default/files/2020-11/Re%CC%80glement%20bourse%20Ampe%CC%80re%20ENS%20de%20Lyon%20FR%20ENG.pdf",
+      "accessed": "2026-06-18"
+    },
+    {
+      "label": "ENS de Lyon — Applicants: What are the language requirements? (English/French certificate rules and waiver exceptions)",
+      "url": "https://www.ens-lyon.fr/en/studies/student-information/applicants-what-are-language-requirements",
+      "accessed": "2026-06-18"
+    }
+  ],
+  "lastVerified": "2026-06-18",
+  "tags": [
+    "#NoGRE",
+    "#NoApplicationFee"
+  ]
+}
