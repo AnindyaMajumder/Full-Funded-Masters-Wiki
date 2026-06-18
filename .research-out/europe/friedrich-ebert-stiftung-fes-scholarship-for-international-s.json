@@ -1,0 +1,90 @@
+{
+  "name": "Friedrich-Ebert-Stiftung (FES) Scholarship for International Students",
+  "officialLink": "https://www.fes.de/studienfoerderung/information-in-english",
+  "host": {
+    "country": "Germany",
+    "city": "Bonn",
+    "universities": [
+      "Any state or state-recognised German university / university of applied sciences"
+    ]
+  },
+  "degreeType": "both",
+  "duration": "Up to the maximum funding period under BAföG regulations (i.e. roughly the standard period of study); a degree programme of fewer than 3 semesters is not funded",
+  "eligibleNationalities": "Students from the Global South (Asia, Africa, Latin America), post-Soviet states, and eastern/south-eastern European (EU) countries. Students/doctoral candidates from OECD countries are NOT eligible. Bangladesh (non-OECD, Asia) is eligible — but the applicant must already be enrolled at a German university at the time of application.",
+  "languageRequirements": "Proof of sufficient German is mandatory even if the degree is taught in English: DSH level 2, TestDaF level 4, Goethe Zertifikat C1, DSD level II, or Telc C1 Hochschule. Applications must be submitted in German.",
+  "standardizedTests": "Not required",
+  "supervisorRequired": false,
+  "twoStepProcess": true,
+  "interviewStage": true,
+  "coversDependents": true,
+  "bondObligation": "None (no formal return-home bond), but the foundation expects identification with and active commitment to the fundamental values of social democracy and ongoing volunteering / socio-political engagement",
+  "renewalConditions": "Continued good academic performance and ongoing socio-political engagement; any income exceeding 400 EUR/month is credited against (deducted from) the scholarship",
+  "fundingCovers": [
+    "Monthly living stipend",
+    "Health insurance costs",
+    "Family/child allowance (if applicable)"
+  ],
+  "monthlyStipend": "934 EUR/month students; 1,200 EUR/month postgraduates (FES English page) — DAAD lists 992 EUR/month base for international students",
+  "benefits": [
+    "Monthly maintenance stipend — FES English page: 934 EUR/month for students, 1,200 EUR/month for postgraduates (DAAD database lists a 992 EUR/month base amount for international students)",
+    "Family allowance of 276 EUR/month if applicable (DAAD lists a 160 EUR/month child allowance)",
+    "Refund of health-care / health-insurance costs",
+    "Non-material support (FES network, seminars, mentoring) so scholars have more time for their volunteering",
+    "Scholarship does not have to be repaid"
+  ],
+  "requiredDocuments": [
+    "Online application form (general personal details, professional and family background, your motivation to become an FES scholarship holder, details of your socio-political engagement) — submitted in German",
+    "Detailed CV with information on prior education and socio-political engagement (ausführlicher Lebenslauf)",
+    "Certificates / school-leaving (higher-education entrance) qualification, certificate of enrolment (Immatrikulationsbescheinigung) and other proofs (Zeugnisse, Hochschulzugangsberechtigung, sonstige Nachweise)",
+    "Detailed letter of motivation (ausführliches Motivationsschreiben)",
+    "Two expert references / Gutachten from university lecturers (for students and doctoral candidates)",
+    "Bachelor's / early-stage students: first graded performance records / first graded certificates of academic achievement",
+    "Proof of sufficient German language skills (DSH level 2, TestDaF level 4, Goethe Zertifikat C1, DSD level II, or Telc C1 Hochschule)"
+  ],
+  "timeline": {
+    "cycle": "2025-2026",
+    "opens": "Rolling — applications may be submitted at any time",
+    "deadline": "No fixed annual deadline. Application cut-offs are tied to your stage of study: postgraduate/Master's programmes must apply by the end of the 1st semester; Bachelor's at least 3 semesters before the end of the standard period of study; diploma/magister/state-examination by the end of the 6th semester.",
+    "resultsBy": "3 to 7 months from application to decision (the selection committee meets 8-10 times a year; decision communicated within about a week of the committee sitting)",
+    "notes": "Anchored at 2026-06: FES runs a rolling (no single annual deadline) intake, so there is no discrete open/close cycle; cycle is recorded as 2025-2026 to reflect the most recent known intake. The binding constraint is the per-stage application window above, not a calendar date. CRITICAL for Master's: FES does NOT fund 'short' courses of fewer than 3 semesters (e.g. typical 2-semester Master's), so apply only to a 3+ semester Master's and within the 1st semester."
+  },
+  "acceptanceRate": {
+    "value": "Not officially published",
+    "isOfficial": false,
+    "estimateNote": "FES does not publish a selection/acceptance rate. The DAAD database states the foundation awards 'up to 40 scholarships per year' for international students, but gives no applicant-pool figure, so no rate can be derived."
+  },
+  "mustKnow": [
+    "NOT an entry route from abroad: you must ALREADY be enrolled and studying at a German state/state-recognised university at the time you apply (FES: 'You are already studying in Germany at the time of your application'). There is no pathway to come to Germany on this scholarship.",
+    "German language is mandatory EVEN for English-taught programmes: you must prove DSH level 2 / TestDaF level 4 / Goethe Zertifikat C1 / DSD level II / Telc C1 Hochschule, and the entire application is submitted in German.",
+    "Short Master's degrees are excluded: FES does not fund a course of study shorter than 3 semesters (explicitly 'for example 2-semester Master's degree programmes'), and Master's applicants must apply by the end of their 1st semester.",
+    "Two-stage, multi-interview selection: online form first, then (if invited) full documents + two academic references, then a subject interview with a Vertrauensdozent/in and a second interview with a member of the selection committee before the committee decides; whole process takes 3-7 months.",
+    "Values requirement: applicants must demonstrate socio-political engagement and identify with the fundamental values of social democracy — this is a genuine selection criterion, not a formality.",
+    "OECD nationals are not eligible; this award is specifically for the Global South / post-Soviet / eastern-European students. Bangladesh qualifies.",
+    "Living stipend only — German public universities charge no tuition, so this funds your maintenance (and health insurance/family allowance), not a tuition fee; income over 400 EUR/month reduces the grant."
+  ],
+  "sources": [
+    {
+      "label": "FES Studienförderung — Information in English (eligibility, benefits, what FES does not fund, time of application)",
+      "url": "https://www.fes.de/studienfoerderung/information-in-english",
+      "accessed": "2026-06-18"
+    },
+    {
+      "label": "FES Studienförderung — Bewerbung / application process (required documents, two-interview procedure, online forms)",
+      "url": "https://www.fes.de/studienfoerderung/bewerbung",
+      "accessed": "2026-06-18"
+    },
+    {
+      "label": "DAAD Scholarship Database — Friedrich Ebert Foundation: Scholarship for International Students (target group, OECD exclusion, German-language requirement, 992 EUR stipend, up to 40/year)",
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000153",
+      "accessed": "2026-06-18"
+    }
+  ],
+  "lastVerified": "2026-06-18",
+  "tags": [
+    "#FullyFunded",
+    "#NoIELTS",
+    "#NoApplicationFee",
+    "#NoGRE",
+    "#CoversFamily"
+  ]
+}

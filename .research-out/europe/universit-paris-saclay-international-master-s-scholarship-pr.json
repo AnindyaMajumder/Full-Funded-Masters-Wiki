@@ -1,0 +1,99 @@
+{
+  "name": "Université Paris-Saclay International Master's Scholarship Program (IDEX)",
+  "officialLink": "https://www.universite-paris-saclay.fr/en/admission/bourses-et-aides-financieres/international-masters-scholarships-program",
+  "host": {
+    "country": "France",
+    "city": "Paris-Saclay area (Essonne, Île-de-France)",
+    "universities": [
+      "Université Paris-Saclay",
+      "AgroParisTech",
+      "CentraleSupélec",
+      "ENS Paris-Saclay",
+      "INSTN-CEA",
+      "IOGS (Institut d'Optique Graduate School)",
+      "Université Évry Paris-Saclay",
+      "UVSQ (Université de Versailles Saint-Quentin-en-Yvelines)"
+    ]
+  },
+  "degreeType": "taught",
+  "duration": "1 year for laureates admitted in M2; up to 2 years for laureates admitted in M1 (auto-renews on obtaining all required credits and being admitted to an M2 at Université Paris-Saclay)",
+  "intake": [
+    "September 2026 (academic year 2026-2027)"
+  ],
+  "eligibleNationalities": "Open to students of any foreign nationality (no country list and no EU/EEA restriction). Bangladeshi nationals are eligible. Must meet all cumulative criteria: admission to an eligible Paris-Saclay master's, first-time enrolment in France, and under 30 during the application year.",
+  "ageLimit": "Under 30 years of age during the year of application",
+  "applicationFee": "No scholarship application fee; the scholarship form is sent only to candidates pre-selected by course coordinators (the underlying master's admission may have its own application costs)",
+  "fundingCovers": [
+    "Living grant 10,000 euros/year (10 monthly instalments, September-June)",
+    "One-off yearly travel and visa flat fee up to 900 euros (amount varies by country of origin)",
+    "Support with administrative procedures, visa/residence permits, and accommodation search (accommodation not guaranteed)"
+  ],
+  "monthlyStipend": "Approx. 1,000 euros/month (10,000 euros/year over 10 instalments, Sep-Jun); reduced during months spent abroad or on internships outside Paris-Saclay-affiliated labs",
+  "supervisorRequired": false,
+  "twoStepProcess": true,
+  "bondObligation": "None (no return-home service requirement; program merely encourages pursuing a PhD at Paris-Saclay)",
+  "coversDependents": false,
+  "interviewStage": false,
+  "renewalConditions": "For M1 laureates: automatically renews for a 2nd year only if all required credits are obtained and the student is admitted to an M2 at Université Paris-Saclay. The scholarship stops if the laureate repeats a year. No deferment allowed.",
+  "benefits": [
+    "Living grant of 10,000 euros/year paid in 10 monthly instalments from September to June",
+    "One-off yearly travel and visa flat fee up to 900 euros (amount depends on country of origin)",
+    "Auto-renewal for a 2nd year for M1 laureates who complete required credits and progress to M2",
+    "Support with administrative procedures, visa/residence permit, and accommodation search",
+    "Information sessions supporting progression toward PhD study"
+  ],
+  "acceptanceRate": {
+    "value": "Not officially published",
+    "isOfficial": false
+  },
+  "mustKnow": [
+    "TUITION IS NOT COVERED: regulations sec. 5.4 states 'Registration and tuition fees are not covered by the international master's scholarship... It is of laureates' responsibility to pay for these fees.' This is a living-stipend award only — not fully funded; a fee discount can only be requested from the enrolling institution at its sole discretion.",
+    "Strict age limit: applicant must be under 30 during the year of application.",
+    "First-time enrolment in France only: students who have been or are enrolled in a French higher-education institution are ineligible (exceptions: exchange/Erasmus Mundus without a French degree, internships, language programs, or students enrolled in a French institution abroad).",
+    "Cannot be combined with any other funding above 600 euros/month, nor with France Excellence Eiffel, France Excellence Europa, or Erasmus Mundus scholarships.",
+    "Two-step process: you must first apply to and be admitted to an eligible Paris-Saclay master's BEFORE the scholarship coordinator-selection deadline; only students pre-selected by course coordinators receive the scholarship application-form link — you cannot apply for the scholarship directly.",
+    "Merit/PhD-oriented: aimed particularly (not exclusively) at students intending to pursue a PhD; M2 candidates are assessed on motivation for a PhD at Paris-Saclay.",
+    "No advance payment: the stipend and travel fee are paid only after arrival in France and registration; no deferment of the scholarship is permitted.",
+    "Stipend is reduced or suspended during periods abroad, non-compulsory mobility, or internships outside Paris-Saclay-affiliated labs (incl. internships with stipends over 1,000 euros/month, or any internship abroad)."
+  ],
+  "tags": [
+    "#NoApplicationFee",
+    "#SupervisorNotRequired",
+    "#TuitionNotCovered",
+    "#AgeLimit",
+    "#TwoStepProcess"
+  ],
+  "sources": [
+    {
+      "label": "Université Paris-Saclay — International Master's Scholarships Program (official program page)",
+      "url": "https://www.universite-paris-saclay.fr/en/admission/bourses-et-aides-financieres/international-masters-scholarships-program",
+      "accessed": "2026-06-18"
+    },
+    {
+      "label": "Regulations of the International Master's Scholarship Program, academic year 2026-2027 (official PDF, DRIE Jan 2026)",
+      "url": "https://www.universite-paris-saclay.fr/sites/default/files/2026-01/regulations_of_the_international_masters_scholarship_program_universite_paris-saclay.pdf",
+      "accessed": "2026-06-18"
+    },
+    {
+      "label": "Université Paris-Saclay — Master's applications and enrolment (application procedure / INCEPTION platform)",
+      "url": "https://www.universite-paris-saclay.fr/en/admission/masters-applications-and-enrolment",
+      "accessed": "2026-06-18"
+    }
+  ],
+  "lastVerified": "2026-06-18",
+  "languageRequirements": "Depends on the chosen master's track (both English-taught and French-taught programs exist at Paris-Saclay); the scholarship itself sets no separate language test requirement.",
+  "standardizedTests": "Not required by the scholarship (no GRE/GMAT requirement)",
+  "requiredDocuments": [
+    "Admission to an eligible Université Paris-Saclay master's (M2 applications via the INCEPTION platform; M1 applications via the relevant national/course platform — apply before the scholarship coordinator-selection deadline)",
+    "Statement of purpose / personal project (motivation for the master's and, for M2 candidates, for pursuing a PhD at Paris-Saclay)",
+    "Two references (names + contact details of recommenders such as course coordinator, professor, or internship supervisor; references complete their recommendation online when requested)",
+    "Completion of the online scholarship application form sent only to candidates pre-selected by course coordinators"
+  ],
+  "timeline": {
+    "cycle": "2026-2027",
+    "opens": "Tied to each master's program's own application opening dates (varies by course; on the INCEPTION platform / relevant master's application platform)",
+    "deadline": "Coordinator candidate-selection deadline 25 March 2026, 23:59 (Paris); scholarship application + references deadline 31 March 2026, 23:59 (Paris)",
+    "resultsBy": "Mid-May 2026",
+    "notes": "Dates are from the official program page's 'Important dates - 2026' section for academic year 2026-2027 (regulations PDF dated DRIE January 2026), the current open cycle as of the 2026-06 anchor. Applicants must first secure admission to an eligible Paris-Saclay master's; only coordinator-selected candidates then receive the scholarship application-form link."
+  }
+}

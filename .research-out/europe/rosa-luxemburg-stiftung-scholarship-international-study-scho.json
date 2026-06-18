@@ -1,0 +1,111 @@
+{
+  "name": "Rosa-Luxemburg-Stiftung Scholarship — International Study Scholarship (Studienwerk)",
+  "officialLink": "https://www.rosalux.de/en/foundation/studienwerk/scholarships/study-scholarship",
+  "requiredDocuments": [
+    "Certificate of enrolment (Immatrikulationsbescheinigung) for the relevant winter semester, stating subjects and number of semesters completed — or, if not yet enrolled, a current admission letter for the chosen programme",
+    "Tabular CV (in German or English, with full education history)",
+    "Proof of social/political engagement (e.g. confirmation letters / event programmes from political groups, parties, unions, associations, university bodies, NGOs)",
+    "One academic reference/assessment (Gutachten) from a lecturer/professor on your performance and study ability (German or English; no template provided)",
+    "Proof of highest educational qualification (e.g. bachelor's degree certificate) with final grade; non-German/English documents need an (uncertified) translation. If the bachelor's certificate is not yet available, submit a current transcript of records plus a university confirmation of successful completion (incl. thesis grade); the certificate may be submitted later",
+    "Current transcript of all academic records from the German university (if available)",
+    "Extract from the study regulations (Studienordnung) showing the standard period of study (Regelstudienzeit)",
+    "Identity card or passport (Personalausweis oder Pass)",
+    "Residence permit or visa for Germany (for non-EU nationals); a Fiktionsbescheinigung is not sufficient — may be submitted later by a stated deadline if delayed",
+    "Proof of German language skills at minimum B2 level (required even if your degree is taught in English); a current B1 certificate plus proof of enrolment in an ongoing/upcoming B2 course is also accepted at the deadline"
+  ],
+  "timeline": {
+    "cycle": "2026-2027",
+    "opens": "2026-08-20",
+    "deadline": "2026-10-01 (23:59)",
+    "resultsBy": "Selection interviews with trusted lecturers (Vertrauensdozent*innen) run mid-December to February; funding begins 1 April",
+    "notes": "Anchor date 2026-06: funding begins in the summer semester (1 April) of the following year, with a recurring 1 October deadline. The English application page documented the previous round (opened 20 Aug 2025, deadline 1 Oct 2025); the German required-documents page (Stand: Februar 2026, referencing Wintersemester 2026/2027) confirms the upcoming round, so the 20 Aug 2026 opening / 1 Oct 2026 deadline shown here is the projected next round based on the annually recurring 1 October deadline."
+  },
+  "benefits": [
+    "Monthly living-cost stipend (Lebenshaltungsstipendium) for international master's students, funded by the German Federal Foreign Office (Auswärtiges Amt); amount calculated according to BAföG rules",
+    "Income-independent study-cost lump sum (Studienkostenpauschale) of currently 300 EUR per month",
+    "Subsidies toward German statutory health- and long-term-care insurance (Kranken- und Pflegeversicherung), analogous to BAföG, for international scholarship holders",
+    "Child-care supplement (Kinderbetreuungszuschlag, analogous to BAföG) for scholarship holders with children, plus up to two semesters' leave",
+    "Extensive non-material support programme (ideelle Förderung): political-education events, summer schools, workshops, symposia, study trips and skills training",
+    "Grant does not have to be repaid (unlike BAföG)"
+  ],
+  "acceptanceRate": {
+    "value": "Not officially published",
+    "isOfficial": false
+  },
+  "mustKnow": [
+    "NOT for applicants abroad — you must ALREADY be in Germany: enrolled (or at least admitted) at a state/state-recognised German university and residing in Germany for the purpose of study. You cannot apply from Bangladesh; this funds students who have arrived in Germany.",
+    "Master's only on the international-student track (no bachelor's; PhD is a separate programme). A COMPLETED bachelor's degree is required before the 1 October deadline.",
+    "GERMAN B2 IS MANDATORY — proof of German at B2 level is required even if your master's programme is taught entirely in English. A B1 certificate plus an ongoing/upcoming B2 course is accepted at the deadline.",
+    "Demonstrated social/political engagement aligned with the Rosa-Luxemburg-Stiftung's (left/socialist) aims is a core, evidenced selection criterion — not just academic merit.",
+    "You must plan to RETURN to your home country after completing your studies (return-home expectation; not a formal service bond).",
+    "You must NOT have been in Germany longer than 15 months at the time of application (exception: if you already studied in Germany, e.g. a bachelor's, or did targeted study preparation).",
+    "You must NOT be eligible for BAföG Section 8 (that group applies under the separate domestic-student track) and must be in Germany solely to study.",
+    "Living-cost stipend only: tuition fees are explicitly NOT reimbursed. German public universities generally charge no tuition, but private/fee-charging programmes would not have fees covered.",
+    "Direct application via an online portal only (no post/email); applications cannot be submitted on paper. The portal and full instructions are on the German-language pages.",
+    "Multi-stage selection with a mandatory interview with a trusted lecturer (Vertrauensdozent*in) between mid-December and February; no legal entitlement to funding.",
+    "You may work alongside the scholarship max 20 hours/week; international students funded via the Federal Foreign Office may earn up to the minijob limit within that rule without it being deducted."
+  ],
+  "host": {
+    "country": "Germany",
+    "universities": [
+      "Any state or state-recognised German university (Universität or Fachhochschule)"
+    ]
+  },
+  "degreeType": "taught",
+  "duration": "Up to the standard period of study (Regelstudienzeit) of the master's programme; funding begins from the 2nd master's semester",
+  "intake": [
+    "Summer semester (funding starts 1 April)"
+  ],
+  "eligibleNationalities": "Open to all foreign nationals worldwide (including EU nationals) who are not eligible under BAföG Section 8 — no country exclusion list. Bangladeshi nationals are eligible. Applicant must already be residing/enrolled in Germany.",
+  "languageRequirements": "German at minimum B2 level is mandatory (proof required even for English-taught programmes). At the deadline, a B1 certificate plus proof of an ongoing/upcoming B2 course is accepted.",
+  "minGPA": "Not specified as a numeric cutoff — 'excellent academic performance' / above-average achievement required",
+  "applicationFee": "Free (no application fee stated; application is via the online portal)",
+  "fundingCovers": [
+    "Living costs (BAföG-based monthly stipend)",
+    "300 EUR/month study-cost lump sum",
+    "Health- and long-term-care insurance subsidies",
+    "Child-care supplement (for parents)"
+  ],
+  "supervisorRequired": false,
+  "twoStepProcess": true,
+  "bondObligation": "No formal service bond, but applicants must plan to return to their home country after completing their studies",
+  "coversDependents": true,
+  "interviewStage": true,
+  "renewalConditions": "Active participation in the foundation's non-material support programme and goal-oriented progress toward completing the degree are expected; funding lasts up to the standard study period (Förderungshöchstdauer = Regelstudienzeit)",
+  "tags": [
+    "#NoIELTS",
+    "#NoGRE",
+    "#NoApplicationFee",
+    "#FullyFunded",
+    "#CoversFamily",
+    "#ReturnHomeBond"
+  ],
+  "sources": [
+    {
+      "label": "Rosa-Luxemburg-Stiftung — Scholarship Department (Studienwerk) overview (English)",
+      "url": "https://www.rosalux.de/en/foundation/studienwerk",
+      "accessed": "2026-06-18"
+    },
+    {
+      "label": "Rosa-Luxemburg-Stiftung — Study scholarship: eligibility for international students (English)",
+      "url": "https://www.rosalux.de/en/foundation/studienwerk/scholarships/study-scholarship",
+      "accessed": "2026-06-18"
+    },
+    {
+      "label": "Rosa-Luxemburg-Stiftung — Scholarship application: round dates & deadline (English)",
+      "url": "https://www.rosalux.de/en/foundation/studienwerk/scholarship-application",
+      "accessed": "2026-06-18"
+    },
+    {
+      "label": "Rosa-Luxemburg-Stiftung — Bewerbungsunterlagen für internationale Studierende (required documents, German; Stand Feb 2026)",
+      "url": "https://www.rosalux.de/stipendienbewerbung/bewerbungsunterlagen-fuer-internationale-studierende",
+      "accessed": "2026-06-18"
+    },
+    {
+      "label": "Rosa-Luxemburg-Stiftung — FAQ Studierende (300 EUR lump sum, insurance, child-care, living-cost stipend, selection process; German)",
+      "url": "https://www.rosalux.de/stipendienbewerbung/faq-studierende",
+      "accessed": "2026-06-18"
+    }
+  ],
+  "lastVerified": "2026-06-18"
+}

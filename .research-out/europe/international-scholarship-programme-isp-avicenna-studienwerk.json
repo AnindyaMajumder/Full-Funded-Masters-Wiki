@@ -1,0 +1,102 @@
+{
+  "name": "International Scholarship Programme (ISP) — Avicenna-Studienwerk",
+  "officialLink": "https://www.avicenna-studienwerk.de/scholarship/#ISP-en",
+  "requiredDocuments": [
+    "Informal letter of motivation (max. 2 pages)",
+    "CV in table form (max. 2 pages)",
+    "Certificate of higher education entrance qualification (Abitur, A-Levels, etc.)",
+    "University certificate(s) and, if applicable, job references",
+    "Current certificate of enrolment (if available; otherwise submit immediately upon receipt)",
+    "Proof of social involvement",
+    "Two academic letters of recommendation",
+    "A copy of your passport",
+    "Current transcript of records",
+    "For doctoral candidates only: a short synopsis of the dissertation project (max. 3 pages) covering topic, supervisor, research question, current status, expected results"
+  ],
+  "timeline": {
+    "cycle": "2026-2027",
+    "opens": "2026-03-01",
+    "deadline": "2026-04-15",
+    "notes": "Most recent published cycle. Application window 01.03.–15.04.2026 for funding starting 1 October 2026; as of the 2026-06 anchor this window has closed and no later cycle has been published yet. Awarded annually — recheck the official ISP page for the next window."
+  },
+  "benefits": [
+    "Monthly basic scholarship of 844 EUR for Master's students (paid for the entire standard period of study; extension possible)",
+    "Monthly health-insurance supplement of 100 EUR",
+    "Monthly travel/mobility allowance of 100 EUR",
+    "Optional monthly family allowance of 276 EUR (subject to conditions and fund availability)",
+    "One-time initial/book allowance of 100 EUR / 50 EUR (subject to conditions)",
+    "Internships and language courses may also be funded subject to fund availability",
+    "Non-material support: individual mentoring by an Avicenna adviser plus participation in seminars, study trips and regional group meetings",
+    "Scholarship does not have to be repaid"
+  ],
+  "acceptanceRate": {
+    "value": "Not officially published",
+    "isOfficial": false
+  },
+  "mustKnow": [
+    "Muslim-focused programme: it supports international Muslim students; persons of other denominations may apply only in special cases (e.g. strong commitment to interfaith dialogue or a clear reference to Islam in their studies)",
+    "German proficiency at B2 level or above is required (exceptions possible) — per the DAAD database entry",
+    "You must already be enrolled in, or at least accepted for, a Master's at a state-recognised German university before/at application — admission is a prerequisite, not arranged by the scholarship",
+    "Bildungsinländer:innen (resident/'domestic' educational students who gained their university-entrance qualification in Germany) cannot be funded",
+    "Not eligible: Bachelor's programmes, part-time studies, and State examination (Staatsexamen) degrees",
+    "No double funding: you cannot hold another gifted-student/Begabtenförderung scholarship simultaneously, and a second Master's or second doctorate is excluded",
+    "Application open regardless of age, gender, or field of study",
+    "Funded by the German Federal Foreign Office (Auswärtiges Amt) via Avicenna-Studienwerk in cooperation with Islamkolleg Deutschland; DAAD lists 16 scholarships for the programme",
+    "Delivered as a living stipend (German public universities are largely tuition-free) — for a Master's student the rate is 844 EUR/month, not the higher doctoral rate",
+    "Family allowance (276 EUR/month) is a discretionary supplement granted only under certain conditions and subject to fund availability — not a guaranteed dependent benefit",
+    "Application documents may be submitted in German OR English; no IELTS/TOEFL or GRE is required by the programme"
+  ],
+  "host": {
+    "country": "Germany",
+    "universities": [
+      "Any state-recognised higher education institution in Germany"
+    ]
+  },
+  "degreeType": "both",
+  "duration": "Entire standard period of the Master's programme (Regelstudienzeit); extension possible. Doctorates funded for up to 3 years (36 months).",
+  "intake": [
+    "October 2026"
+  ],
+  "eligibleNationalities": "International (non-domestic) Muslim students; Bangladesh is explicitly listed among the eligible countries of origin in the DAAD database eligibility filter. Bildungsinländer:innen (those with a German university-entrance qualification) are excluded.",
+  "languageRequirements": "German language proficiency at B2 level or above; exceptions possible (per DAAD database). No IELTS/TOEFL requirement stated.",
+  "standardizedTests": "Not required",
+  "ageLimit": "None — application is independent of age",
+  "applicationFee": "Not stated by the programme; application is made via the Avicenna online portal",
+  "fundingCovers": [
+    "Monthly living stipend",
+    "Health-insurance contribution",
+    "Travel/mobility allowance",
+    "Optional family allowance",
+    "Possible internship and language-course funding"
+  ],
+  "monthlyStipend": "844 EUR/month (Master's students) plus 100 EUR health-insurance + 100 EUR travel allowance",
+  "supervisorRequired": false,
+  "twoStepProcess": true,
+  "bondObligation": "None stated",
+  "coversDependents": true,
+  "renewalConditions": "Awarded for the standard study period; continued funding is subject to programme conditions and fund availability (extension possible).",
+  "tags": [
+    "#FullyFunded",
+    "#NoIELTS",
+    "#NoGRE",
+    "#CoversFamily"
+  ],
+  "sources": [
+    {
+      "label": "Avicenna-Studienwerk — ISP (English scholarship page, #ISP-en)",
+      "url": "https://www.avicenna-studienwerk.de/scholarship/#ISP-en",
+      "accessed": "2026-06-18"
+    },
+    {
+      "label": "Avicenna-Studienwerk — Internationales Stipendienprogramm (German page, benefits, documents, application window)",
+      "url": "https://www.avicenna-studienwerk.de/internationales-stipendienprogramm/",
+      "accessed": "2026-06-18"
+    },
+    {
+      "label": "DAAD Scholarship Database — International Scholarship Programme of the Avicenna Studienwerk (target group, B2 German requirement, 16 scholarships, Bangladesh in eligible-country filter)",
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000633",
+      "accessed": "2026-06-18"
+    }
+  ],
+  "lastVerified": "2026-06-18"
+}

@@ -1,0 +1,84 @@
+{
+  "name": "Justus & Louise van Effen Excellence Scholarship",
+  "officialLink": "https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships/justus-louise-van-effen-excellence-scholarships",
+  "host": {
+    "country": "Netherlands",
+    "city": "Delft",
+    "universities": [
+      "Delft University of Technology (TU Delft)"
+    ]
+  },
+  "degreeType": "taught",
+  "duration": "2 years (regular 2-year TU Delft MSc programme)",
+  "eligibleNationalities": "Open to excellent international applicants; no nationality restriction and no excluded-country list, so Bangladeshi nationals are eligible. NOT eligible: current TU Delft bachelor's students, applicants who obtained their bachelor's degree at a Dutch university, and students who have already started an MSc at TU Delft.",
+  "languageRequirements": "English-language proof required with the application (cannot be deferred for scholarship applicants). TU Delft accepts TOEFL iBT, IELTS academic, or Cambridge C1 Advanced / C2 Proficiency; the IELTS Indicator and IELTS Online (Academic) tests are not accepted, and certificates older than two years are not accepted. Minimum scores are set per MSc programme (e.g. strict minimums for Aerospace Engineering) — check the specific programme.",
+  "standardizedTests": "GRE General Test required only for certain MSc programmes; not a general scholarship requirement.",
+  "minGPA": "Excellent academic results; as an indication, among the top 10% of graduates in the previous programme (proof of ranking not required).",
+  "applicationFee": "Not stated on the official scholarship page (omitted to avoid guessing).",
+  "fundingCovers": [
+    "Full tuition fee per year (statutory or institutional rate per registered nationality)",
+    "Contribution towards living expenses"
+  ],
+  "supervisorRequired": false,
+  "twoStepProcess": true,
+  "bondObligation": "None stated",
+  "requiredDocuments": [
+    "Complete TU Delft MSc application (meeting the programme's admission requirements), submitted before the scholarship deadline",
+    "Scholarship Application Form (TU Delft PDF, uploaded with the MSc application)",
+    "Two reference letters (in English or Dutch) from a previous professor/assistant professor — one may be from an employer if you have work experience",
+    "English language certificate (TOEFL iBT / IELTS academic / Cambridge C1 or C2), included with the application before the scholarship deadline",
+    "Standard MSc-admission documents required as part of the application: bachelor's degree (or certified statement of expected degree), official academic transcript with CGPA, motivation letter (1,000-1,500 words), curriculum vitae, passport/ID — plus a portfolio or GRE if the chosen programme requires it"
+  ],
+  "timeline": {
+    "cycle": "2026-2028",
+    "opens": "Tied to the TU Delft MSc application cycle (autumn)",
+    "deadline": "1 December 2025 (23:59 CET)",
+    "resultsBy": "By the end of March 2026 (notified by email)",
+    "notes": "As of 2026-06 the official page states the 2026-2028 scholarships have already been awarded and accepted; these are the most recent completed-cycle dates (intake September 2026, deadline 1 December 2025). The next cycle (2027 intake) had not opened at the time of verification; check the official page for updated dates."
+  },
+  "intake": [
+    "September 2026"
+  ],
+  "benefits": [
+    "Full tuition fee per year for a TU Delft MSc programme, based on the statutory fee or institutional rate according to the registered nationality",
+    "Contribution towards living expenses",
+    "2 scholarships awarded per faculty"
+  ],
+  "monthlyStipend": "Not specified — the page states a 'contribution for the living expenses' without an amount.",
+  "acceptanceRate": {
+    "value": "Not officially published",
+    "isOfficial": false
+  },
+  "mustKnow": [
+    "Two-step / admission-first: you must first be (conditionally) admitted to a regular 2-year TU Delft MSc programme; the scholarship is selected from admitted applicants — there is no separate standalone application route.",
+    "ALL scholarship documents (Scholarship Application Form, two reference letters, English certificate) must be submitted together with the MSc application, BEFORE the scholarship deadline; after submission NO additional documents can be uploaded. There is no grace period for scholarship applicants to add the English certificate later.",
+    "Only for the regular MSc programmes — International Joint Education Programmes are NOT eligible.",
+    "Not eligible if you are a current TU Delft bachelor's student, obtained your bachelor's at a Dutch university, or have already started an MSc at TU Delft (only new incoming students).",
+    "Fully funded: covers full tuition AND a contribution to living expenses (the living-expenses amount is not published).",
+    "Highly competitive merit award — only 2 scholarships per faculty; selection indicates top-10% academic standing in the previous programme.",
+    "Reference letters are required only because you are applying for a scholarship; they will not be accepted after the scholarship deadline."
+  ],
+  "interviewStage": false,
+  "sources": [
+    {
+      "label": "TU Delft — Justus & Louise van Effen Excellence Scholarships (official scholarship page)",
+      "url": "https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships/justus-louise-van-effen-excellence-scholarships",
+      "accessed": "2026-06-18"
+    },
+    {
+      "label": "TU Delft — MSc International Diploma: Required Documents (English certificate, reference letters, transcript/CGPA, motivation letter, CV)",
+      "url": "https://www.tudelft.nl/en/education/admission-and-application/msc-international-diploma/required-documents",
+      "accessed": "2026-06-18"
+    },
+    {
+      "label": "TU Delft — Scholarship Application Form (PDF, linked from the scholarship page)",
+      "url": "https://filelist.tudelft.nl/TUDelft/Onderwijs/Praktische_zaken/Scholarships/Scholarship%20Application%20Form%2020262027.pdf",
+      "accessed": "2026-06-18"
+    }
+  ],
+  "lastVerified": "2026-06-18",
+  "tags": [
+    "#FullyFunded",
+    "#TwoStep"
+  ]
+}
