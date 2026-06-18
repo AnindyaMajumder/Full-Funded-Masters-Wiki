@@ -1,0 +1,84 @@
+{
+  "name": "SMARTS-UP Graduate Schools Mobility Scholarship (Université Paris Cité)",
+  "officialLink": "https://mobility.smarts-up.fr/",
+  "requiredDocuments": [
+    "CV (1 page)",
+    "Cover/motivation letter (1 page): motivations for the chosen Master, career ambitions, interests, and reasons for choosing Université Paris Cité",
+    "Two letters of recommendation (written by a professor, teacher, or internship supervisor)",
+    "Academic transcripts from the 1st year of the Bachelor's/Licence onward",
+    "Research project (3-4 pages, references included): research theme and/or an identified lab/department for the internship",
+    "Where applicable, summaries of previous work (theses, books, internship reports, scientific articles)"
+  ],
+  "timeline": {
+    "cycle": "2026-2027",
+    "opens": "2025-12-01",
+    "deadline": "2026-01-16 (12:00 noon CET)",
+    "resultsBy": "Early April 2026 (waiting-list final decision in May 2026)",
+    "notes": "Dates are the 2026-2027 cycle from the official 2026-2027 guidelines PDF. As of 2026-06, this cycle's application window (1 Dec 2025 - 16 Jan 2026) has already closed and results are out; it is the most recent published cycle. Laureates join Université Paris Cité in September 2026. A new 2027-2028 call typically opens around December 2026 - check mobility.smarts-up.fr."
+  },
+  "benefits": [
+    "Flat mobility grant of EUR 10,000 for one academic year (2026-2027)",
+    "Paid in three installments: one in semester 1 and two in semester 2",
+    "Open to Master 1 (M1) and Master 2 (M2) entry across the 28 Graduate Schools / preselected Master programs at Université Paris Cité (up to 200 grants offered)"
+  ],
+  "acceptanceRate": {
+    "value": "Not officially published",
+    "isOfficial": false
+  },
+  "mustKnow": [
+    "NOT fully funded: a EUR 10,000 lump-sum grant only. The guidelines state explicitly it is 'une bourse et non un salaire' and 'ne sera pas suffisante pour votre séjour à Paris' - you must arrange additional income; there is no tuition waiver or living-stipend top-up beyond this lump sum.",
+    "Cannot be combined with any other scholarship; awarded for 2026-2027 only and cannot be deferred ('n'est pas cumulable avec une autre bourse ... ne peut être reportée').",
+    "Eligibility is restricted to first-time arrivals in a French university: you must be a foreign national, NOT already hold a French higher-education diploma, and not already be enrolled in a French university (double-degree students with UPCité are an exception). French nationals are excluded. No closed eligible-country list applies - a Bangladeshi national is eligible.",
+    "Only Master programs on the official eligible list (28 Graduate Schools) at https://mobility.smarts-up.fr/ qualify - you apply for a specific listed Master.",
+    "Bangladeshi (non-Europe) applicants must ALSO register in parallel on the Études en France / Campus France platform to obtain a student visa - a separate but mandatory procedure independent of the SMARTS-UP application.",
+    "M1 applicants need a foreign Bachelor's/Licence-equivalent (degree in hand by September 2026); M2 applicants need at least one full year of a related Master completed by September 2026.",
+    "Selection may include follow-up interviews ('prestation ... lors d'éventuels entretiens de suivi'); decision by email early April 2026, with a 15-day window to confirm acceptance or the grant passes to the next waiting-list candidate.",
+    "Grant is paid only after enrollment, into a French bank account in the student's name."
+  ],
+  "host": {
+    "country": "France",
+    "city": "Paris",
+    "universities": [
+      "Université Paris Cité"
+    ]
+  },
+  "duration": "1 year (Master 1 or Master 2; non-renewable)",
+  "intake": [
+    "September 2026"
+  ],
+  "eligibleNationalities": "Open to all foreign (non-French) nationals who are first-time arrivals in a French university and do not already hold a French higher-education diploma. No closed eligible-country list - Bangladesh is not excluded. French nationals are ineligible.",
+  "languageRequirements": "Not specified in the scholarship guidelines; language requirements (French or English) are set by each individual Master program at Université Paris Cité.",
+  "ageLimit": "None stated",
+  "applicationFee": "No application fee mentioned in the guidelines (the complete application procedure lists six documents and no fee).",
+  "fundingCovers": [
+    "Partial study grant (lump sum EUR 10,000) - explicitly not full living costs; no tuition waiver or insurance stated"
+  ],
+  "supervisorRequired": false,
+  "twoStepProcess": true,
+  "bondObligation": "None (no return-home or service bond; obligations are academic only - enrolment, attendance, follow-up questionnaire, alumni group)",
+  "coversDependents": false,
+  "interviewStage": true,
+  "renewalConditions": "Non-renewable; awarded for one year (2026-2027) only and cannot be deferred.",
+  "sources": [
+    {
+      "label": "SMARTS-UP Graduate Schools - official application portal (Université Paris Cité), 2026-2027 call",
+      "url": "https://mobility.smarts-up.fr/",
+      "accessed": "2026-06-18"
+    },
+    {
+      "label": "SMARTS-UP Graduate Schools - official guidelines / Appel à candidatures 2026-2027 (PDF)",
+      "url": "https://mobility.smarts-up.fr/ressources/223842-2026-27GuidelinesSUM_FRpdf.pdf",
+      "accessed": "2026-06-18"
+    },
+    {
+      "label": "Université Paris Cité - call-for-applications announcement page (program overview)",
+      "url": "https://u-paris.fr/language/en/call-for-applications-smarts-up-a-mobility-scholarship-program-for-international-students/",
+      "accessed": "2026-06-18"
+    }
+  ],
+  "tags": [
+    "#NoApplicationFee",
+    "#TuitionOnly"
+  ],
+  "lastVerified": "2026-06-18"
+}

@@ -1,0 +1,79 @@
+{
+  "name": "University of Geneva (UNIGE) Excellence Master Fellowships — Faculty of Science",
+  "officialLink": "https://www.unige.ch/sciences/en/enseignements/formations/masters/excellencemasterfellowships",
+  "requiredDocuments": [
+    "All documents combined into a SINGLE PDF file (application in English or French)",
+    "A scan of your national identity card or passport",
+    "A Curriculum Vitae (2 pages maximum)",
+    "The transcript of exams passed during the bachelor education, with all grades",
+    "A motivation letter describing your specific scientific interests and your motivation to pursue a Master of Science program at UNIGE",
+    "Letters of reference from two professors attesting your aptitude to this program",
+    "Any other pertinent information such as GRE / TOEFL or other language-test results (optional supporting material)",
+    "Proof of master enrollment: if not yet a UNIGE student, the 'UNIGE-Candidature: Dépôt de votre dossier' email received after registering for the master's program; if already a UNIGE student, a scan of your UNIGE card"
+  ],
+  "timeline": {
+    "cycle": "2026-2027",
+    "opens": "Beginning of January 2026 (online application opens)",
+    "deadline": "28 February 2026",
+    "notes": "As of the 2026-06 anchor, this is the most recently published cycle on the official page: deadline 28 February 2026 for Masters starting 14 September 2026 (verified 2026-06-18). The application opens online at the beginning of January each year; a personal application-form link is sent by email after registering. The 28 Feb 2026 deadline has therefore already passed relative to 2026-06; expect the next (2027 intake) cycle to open at the beginning of January 2027 with a late-February 2027 deadline."
+  },
+  "benefits": [
+    "Excellence Fellowship grant of CHF 10,000 to CHF 15,000 per year (no teaching duties attached)",
+    "Awarded for one year, then extended for the regular duration of the chosen Master's program (three or four semesters) provided the student is academically successful at the end of the first semester",
+    "Tenable alongside UNIGE's low public tuition of CHF 500 per semester (tuition paid separately by the student)"
+  ],
+  "acceptanceRate": {
+    "value": "Not officially published",
+    "isOfficial": false
+  },
+  "mustKnow": [
+    "PARTIAL FUNDING, not full funding: the award is a CHF 10,000-15,000/year cash grant only. It does NOT separately pay tuition (UNIGE tuition is CHF 500/semester, paid by the student) and the grant is well below the cost of living in Geneva, so a successful applicant will need additional funds to cover living costs.",
+    "Faculty of Science only — eligible disciplines: astronomy, biology, chemistry & biochemistry, computer science, mathematics, physics, pharmaceutical sciences, earth sciences.",
+    "Renewal is conditional: extended beyond year 1 only if you are academically successful at the end of your first semester.",
+    "Two-step process: you must separately complete the master enrollment / admissions procedure (via the Admissions office) AND submit the Excellence Fellowship application. Proof of master registration is mandatory for the fellowship file to be considered.",
+    "Students who have ALREADY started a Master programme at the Faculty of Science can no longer apply for the Excellence Master Fellowship.",
+    "No nationality restriction is stated ('regardless of your home university'), so a Bangladeshi applicant who meets the master admission criteria and ranks among the best of their year can apply.",
+    "The entire application must be a SINGLE PDF; incomplete files are not considered.",
+    "Two professor reference letters are required.",
+    "Master admission requirements (e.g. language proficiency) are set per program by the Admissions office and may differ from the fellowship document list — verify the specific Master's own admission/language requirements."
+  ],
+  "host": {
+    "country": "Switzerland",
+    "city": "Geneva",
+    "universities": [
+      "University of Geneva (UNIGE) — Faculty of Science"
+    ]
+  },
+  "degreeType": "taught",
+  "duration": "Regular duration of the chosen Master (three or four semesters, i.e. ~1.5-2 years)",
+  "intake": [
+    "September 2026 (Masters starting 14 September 2026)"
+  ],
+  "eligibleNationalities": "Open to all nationalities — 'regardless of your home university'; no nationality restriction stated on the official page. Bangladeshi nationals eligible.",
+  "standardizedTests": "Not required for the fellowship; GRE/TOEFL results may be submitted as optional supporting material. Specific Master programs may set their own admission requirements.",
+  "twoStepProcess": true,
+  "supervisorRequired": false,
+  "interviewStage": false,
+  "renewalConditions": "Initial award is for one year; extended for the regular duration of the Master (3-4 semesters) only if the student is academically successful at the end of the first semester of studies.",
+  "fundingCovers": [
+    "Living/study grant CHF 10,000-15,000 per year (no teaching duties)"
+  ],
+  "monthlyStipend": "Approximately CHF 833-1,250/month equivalent (derived from the CHF 10,000-15,000 per year grant)",
+  "tags": [
+    "#NoGRE",
+    "#PartialFunding"
+  ],
+  "sources": [
+    {
+      "label": "UNIGE Faculty of Science — Excellence Master Fellowships (official program page)",
+      "url": "https://www.unige.ch/sciences/en/enseignements/formations/masters/excellencemasterfellowships",
+      "accessed": "2026-06-18"
+    },
+    {
+      "label": "UNIGE — Tuition fees (Admissions office: CHF 500 per semester)",
+      "url": "https://www.unige.ch/immatriculations/en/informations/fees",
+      "accessed": "2026-06-18"
+    }
+  ],
+  "lastVerified": "2026-06-18"
+}

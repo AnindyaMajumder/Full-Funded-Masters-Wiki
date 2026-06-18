@@ -1,0 +1,96 @@
+{
+  "name": "Hanns-Seidel-Stiftung (HSS) Scholarship for International Students",
+  "officialLink": "https://www.hss.de/stipendium/",
+  "host": {
+    "country": "Germany",
+    "city": "Munich",
+    "universities": [
+      "Any state or state-recognized university in Germany"
+    ]
+  },
+  "degreeType": "both",
+  "eligibleNationalities": "Open to international (non-German) students; no nationality restriction on the 'Förderung internationaler Studierender' / 'Scholarship for Studies' track. Applicants from countries with an HSS overseas office apply via that office; others apply directly through the online portal. Bangladesh is not excluded.",
+  "languageRequirements": "Proof of German language skills of at least B2 or comparable level is mandatory for international students; applications without proof of German are not considered.",
+  "ageLimit": "Under 45 years old",
+  "applicationFee": "Free (application submitted via HSS online portal; no fee stated)",
+  "fundingCovers": [
+    "Monthly stipend (living costs)",
+    "Study-cost allowance (Studienkostenpauschale)",
+    "Non-material support: seminars, individual mentoring, scholar/alumni network"
+  ],
+  "monthlyStipend": "Study scholarships: up to EUR 855/month plus a EUR 300/month study-cost allowance (Studienkostenpauschale). PhD scholarships: up to EUR 1,650/month plus EUR 100/month research-cost allowance.",
+  "supervisorRequired": false,
+  "twoStepProcess": true,
+  "interviewStage": true,
+  "bondObligation": "None stated",
+  "postStudyWork": "Not specified by HSS (general German post-study job-seeker residence rules apply, not part of this scholarship)",
+  "requiredDocuments": [
+    "Tabular CV (Tabellarischer Lebenslauf, PDF)",
+    "Detailed/narrative CV (Ausführlicher Lebenslauf, 2-4 pages, PDF)",
+    "One-page exposé on study and career goals (PDF)",
+    "University entrance qualification (Hochschulzugangsberechtigung, PDF)",
+    "If available: Bachelor's/intermediate certificate and current transcript of records (PDF)",
+    "Proof(s) of voluntary/civic engagement (Ehrenamtsnachweis, combined into one PDF)",
+    "Expert opinion / academic reference (Fachgutachten) from a professor or qualified academic",
+    "If available: current enrollment or admission certificate (Immatrikulations-/Zulassungsbescheinigung; first-year students may submit later)",
+    "International students: proof of German language skills of at least B2 (mandatory)"
+  ],
+  "timeline": {
+    "cycle": "2026-2027",
+    "opens": "15 June 2026 (summer round); 15 December 2026 (winter round)",
+    "deadline": "15 July 2026 (summer round) and 15 January 2027 (winter round) for 'Internationale Studierende und Promovierende (Ausländer)'",
+    "resultsBy": "Applicants are informed of the outcome by e-mail approximately four weeks after the application deadline",
+    "notes": "As of 2026-06, the official portal lists two open rounds: 15 June-15 July 2026 and 15 December 2026-15 January 2027, both explicitly open to 'Internationale Studierende und Promovierende (Ausländer)'. Suitable candidates are then invited to a selection meeting (Auswahltagung). Dates taken verbatim from the official application page (hss.de/stipendium/bewerbung/)."
+  },
+  "benefits": [
+    "Study scholarship: up to EUR 855/month monthly stipend",
+    "Plus EUR 300/month study-cost allowance (Studienkostenpauschale)",
+    "Stipend is non-repayable (muss nicht zurückgezahlt werden)",
+    "Non-material support: seminars on politics/society/technology and personal development, individual mentoring by Vertrauensdozenten at the university",
+    "Lifelong access to the HSS scholar and alumni network",
+    "PhD track (if applicable): up to EUR 1,650/month plus EUR 100/month research-cost allowance"
+  ],
+  "acceptanceRate": {
+    "value": "Not officially published",
+    "isOfficial": false
+  },
+  "mustKnow": [
+    "German language proficiency of at least B2 (or comparable) is MANDATORY for international applicants; applications without proof of German are rejected outright.",
+    "Age limit: applicants must be under 45 years old.",
+    "You must be enrolled in (or, for the study track, undertaking) a full-time programme at a state/state-recognized German university; in practice you secure a German university place first, then the scholarship (two-step).",
+    "HSS is the political foundation affiliated with Bavaria's CSU: applicants must show civic/political engagement, voluntary work, and support for democracy, rule of law and human rights, and affirm the foundation's goals.",
+    "Application route: if HSS has an office in your home country, apply via that office; otherwise apply directly through the online portal (https://stipendienbewerbung.hss.de/). Applications are accepted ONLY through the portal.",
+    "Two fixed application rounds per year (summer: 15 June-15 July; winter: 15 December-15 January). Applications for other programmes / outside these windows are deleted without notice.",
+    "Shortlisted candidates are invited to a selection meeting (Auswahltagung) judged by an independent committee — an interview/selection-event stage.",
+    "Funds living/study costs, not tuition (German state universities are generally tuition-free for master's). Confirm there is no tuition gap for your specific programme."
+  ],
+  "sources": [
+    {
+      "label": "HSS Stipendium — main scholarship page (programmes, portal dates, contacts)",
+      "url": "https://www.hss.de/stipendium/",
+      "accessed": "2026-06-18"
+    },
+    {
+      "label": "HSS — Wen wir suchen / 'Scholarship for Studies' eligibility (international students track, no nationality bar, B2 German, under 45)",
+      "url": "https://www.hss.de/stipendium/wen-suchen-wir/",
+      "accessed": "2026-06-18"
+    },
+    {
+      "label": "HSS — Was wir bieten / Finanzielle Förderung (stipend amounts, non-repayable, non-material support)",
+      "url": "https://www.hss.de/stipendium/foerderung/",
+      "accessed": "2026-06-18"
+    },
+    {
+      "label": "HSS — Bewerbung (application deadlines, required documents, B2 requirement for internationals, selection process)",
+      "url": "https://www.hss.de/stipendium/bewerbung/",
+      "accessed": "2026-06-18"
+    }
+  ],
+  "lastVerified": "2026-06-18",
+  "tags": [
+    "#FullyFunded",
+    "#NoIELTS",
+    "#NoApplicationFee",
+    "#NoGRE"
+  ]
+}

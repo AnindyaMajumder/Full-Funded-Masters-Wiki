@@ -1,0 +1,98 @@
+{
+  "name": "Friedrich-Naumann-Stiftung (FNF) Scholarship for Foreign Students from Non-EU Countries",
+  "officialLink": "https://www.freiheit.org/scholarships-foreign-students-non-eu-countries-1",
+  "requiredDocuments": [
+    "Online application via the FNF application portal (all uploads as PDF, max 5 MB per document category; documents in German or English, translations done by the applicant)",
+    "Curriculum vitae (max. 2 pages)",
+    "Identification document (identity card or passport) — non-EU applicants must submit the pages with personal data and visa/residence status",
+    "University admission / certificate of enrollment (matriculation certificate must be available at the latest at admission to the scholarship programme; can be shown at the selection interview)",
+    "Diploma/degree qualifying for the relevant university studies (Bachelor/Master)",
+    "(Academic) transcripts (e.g. Table of Records, and Bachelor's/Diploma certificate if applicable)",
+    "If applicable, certificates of vocational training or professional activity",
+    "Two (2) letters of reference from university professors / scientific assistants (for a 1st-semester Master programme, references from the bachelor programme are accepted) — submitted directly by reviewers via a generated link, not by email/mail",
+    "Passport/ID page showing residence permit (to evidence the under-15-months-in-Germany condition)"
+  ],
+  "timeline": {
+    "cycle": "2026",
+    "opens": "2026-04-01",
+    "deadline": "2026-10-31",
+    "notes": "Two fixed application windows every year, recurring: 1-30 April and 1-31 October (deadlines 30 April and 31 October at 11:59 pm). Applications are only possible through the online portal during these windows. Interview-invitation notification by 8 February (April round) or 8 August (October round) at the latest. As of 2026-06 the April 2026 window has closed and the next window is 1-31 October 2026; these are standing annual dates taken verbatim from the official FAQ, not a one-off cycle. Non-European applicants still abroad may be invited to a video-call interview; everyone already in Germany must appear in person."
+  },
+  "benefits": [
+    "Monthly scholarship (living stipend) of up to 861 euros for student funding — non-repayable",
+    "Lump sum for study costs of 300 euros per month (paid to all fellows)",
+    "Monthly contributions to health insurance and long-term-care insurance",
+    "Non-material support: seminars, networking and the FNF fellow community (ideational support)",
+    "Funding initially granted for one year, extendable for a further year until completion of the master's (minimum funding period two semesters)",
+    "Stays abroad of up to 12 months related to the studies may be supported (travel, health insurance, study/research fees, living expenses) on a case-by-case basis"
+  ],
+  "acceptanceRate": {
+    "value": "Not officially published",
+    "isOfficial": false
+  },
+  "mustKnow": [
+    "German required: B2-level German is essential. All application documents must be submitted in German, and the selection interview is conducted in German — even if your master's programme is taught entirely in English. (No formal language test is required to apply, but the interview is in German.)",
+    "Residence cap: you can only apply if you have NOT been in Germany for more than 15 months prior to the start of the scholarship (exceptions for prior research/study stays, which you must evidence with passport residence entries).",
+    "Living stipend, not tuition reimbursement: the award is a monthly stipend (up to 861 euros) + 300 euros/month study-cost lump sum + insurance. It does not separately pay tuition fees (German public universities are largely tuition-free). Gross income over 450 euros is offset against the scholarship.",
+    "Master's (or doctorate) full-time in Germany only — non-EU applicants cannot be funded for a bachelor's. LL.M, MBA, second degrees, part-time/distance courses, and projects/internships are not funded.",
+    "You must have at least two remaining semesters (the minimum funding period is two semesters); apply no later than the third-to-last semester before completing your studies.",
+    "Binational master's programmes must be taught more than 50% of the time in Germany to be eligible.",
+    "Two university-professor letters of reference are mandatory and must be submitted by the reviewers themselves via a generated link (not by email/mail).",
+    "Mandatory in-person/video selection interview before an independent committee; travel and accommodation for the selection conference are NOT reimbursed and there are no alternative interview dates.",
+    "No age limit and no application/processing fee stated. Double funding for the same purpose from another public institution is not allowed; FDP membership is not required.",
+    "Acceptance rate is not officially published by FNF — capacity-limited, so academically suitable applicants are sometimes rejected for lack of funding."
+  ],
+  "host": {
+    "country": "Germany",
+    "universities": [
+      "Any German, EU-European or Swiss state or state-recognized university, university of applied sciences, art/educational/theological college (master's must be full-time in Germany for non-EU applicants)"
+    ]
+  },
+  "degreeType": "both",
+  "duration": "Initially 1 year, extendable for a further year until completion of the master's (minimum funding period 2 semesters)",
+  "eligibleNationalities": "Foreign students from non-EU countries doing a full-time master's in Germany. Bangladeshi nationals are eligible (Bangladesh is a non-EU country). There is no closed bilateral country list; eligibility is by status, not a partner-country list.",
+  "languageRequirements": "B2-level German is essential. Application documents must be in German and the selection interview is in German, even for English-taught programmes. No language test certificate is required at the application stage; no IELTS/TOEFL is requested either.",
+  "standardizedTests": "Not required (no GRE/GMAT mentioned)",
+  "ageLimit": "No age limit (official FAQ: 'Is there an age limit for the application? No.')",
+  "applicationFee": "None stated (free online application)",
+  "fundingCovers": [
+    "Monthly living stipend (up to 861 euros)",
+    "300 euros/month study-cost lump sum",
+    "Health and long-term-care insurance contributions",
+    "Possible study-abroad support up to 12 months"
+  ],
+  "monthlyStipend": "Up to 861 euros/month student stipend + 300 euros/month study-cost lump sum (EUR)",
+  "supervisorRequired": false,
+  "twoStepProcess": false,
+  "bondObligation": "None (the scholarship does not have to be repaid; no return-home bond stated)",
+  "interviewStage": true,
+  "renewalConditions": "Funding initially for one year; an extension for a further year may be applied for until completion of studies, subject to continued eligibility and academic progress.",
+  "sources": [
+    {
+      "label": "FNF — Scholarships for foreign students from non-EU countries (official program page)",
+      "url": "https://www.freiheit.org/scholarships-foreign-students-non-eu-countries-1",
+      "accessed": "2026-06-18"
+    },
+    {
+      "label": "FNF — Scholarships overview & FAQ (application windows, B2 German, 15-month residence rule, financial benefits, no age limit, references)",
+      "url": "https://www.freiheit.org/scholarships-friedrich-naumann-foundation-freedom",
+      "accessed": "2026-06-18"
+    },
+    {
+      "label": "FNF — Student scholarships (what cannot be funded; minimum funding period)",
+      "url": "https://www.freiheit.org/student-scholarships",
+      "accessed": "2026-06-18"
+    },
+    {
+      "label": "FNF — Required application documents for high school graduates and students (official PDF, EN)",
+      "url": "https://www.freiheit.org/sites/default/files/2025-11/erforderliche-bewerbungsunterlagen-studierende_en_4.pdf",
+      "accessed": "2026-06-18"
+    }
+  ],
+  "lastVerified": "2026-06-18",
+  "tags": [
+    "#NoApplicationFee",
+    "#NoGRE",
+    "#FullyFunded"
+  ]
+}

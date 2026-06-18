@@ -1,0 +1,87 @@
+{
+  "name": "Erasmus Trustfonds Scholarship (Erasmus School of Economics)",
+  "officialLink": "https://www.eur.nl/en/ese/education/master/fees-and-scholarships/scholarships-and-grants/erasmus-trustfonds-scholarship",
+  "requiredDocuments": [
+    "Motivation letter (max. two A4, Arial 11): stating motivation to study at Erasmus School of Economics, evidence of being an excellent student, and why the scholarship would expand the opportunity to study there",
+    "Financial statement (max. one A4, Arial 11): describing your financial situation and the reason/need to receive the scholarship",
+    "Budget plan: overview of how you plan to finance your studies if awarded, using the EUR Budget plan template",
+    "Certified copy of your most recent academic transcript (must carry a wet stamp and signature of a school official; screenshots of online portals are NOT accepted)",
+    "Certified statement from your educational institution confirming your obtained GPA (EUR GPA template may be used)"
+  ],
+  "timeline": {
+    "cycle": "2026-2027",
+    "opens": "1 December 2025",
+    "deadline": "31 January 2026, 23:59 (application portal listed as open 1 December 2025 – 1 February 2026)",
+    "resultsBy": "13 March 2026 (all applicants informed by e-mail)",
+    "notes": "Dates are for the 2026-2027 cycle as published on the official ESE page. As of 2026-06-18 this cycle is CLOSED (the page is headed 'Application closed'); the 2027-2028 cycle had not opened at verification time. The 2027-2028 window is expected to follow the same ~Dec–Jan pattern but was not yet published. Separately, the EUR-wide Trustfonds/TSH Changemaker page noted info for 2027–2028 'will be available in the autumn'."
+  },
+  "benefits": [
+    "Full tuition fee waiver — for non-EEA/EU students the full €21,000 institutional fee is covered (€2,695 waived via the scholarship + €18,305 paid by the school); for EEA/EU students the €2,695 statutory fee is waived",
+    "Living allowance of €1,200 per month = €14,400 for one academic year (paid to the student)",
+    "One-time personal allowance of €249 (paid to the student)",
+    "Immigration/IND fee of €228 waived (if applicable)",
+    "Maximum total value €17,500 per awardee"
+  ],
+  "acceptanceRate": {
+    "value": "Not officially published",
+    "isOfficial": false
+  },
+  "mustKnow": [
+    "ONE YEAR ONLY: the scholarship applies to a single academic year and can be received only once — a 2-year master's is NOT fully covered for the second year",
+    "ELIGIBILITY VARIES BY FACULTY: the ESE (economics) track is explicitly open to non-EEA applicants, but other EUR faculty versions differ — e.g. the ESHPM 'Erasmus Trust Fund' track is restricted to EEA/EU nationals only. A Bangladeshi must apply through a track that admits non-EEA students (ESE does).",
+    "Demonstrated FINANCIAL NEED is mandatory: a detailed financial statement and budget plan describing how you would finance your studies are required, not just merit",
+    "Minimum bachelor average of 7.50 on a 1–10 scale ('excellent' study results) is required",
+    "Must NEVER have been enrolled before as a full-degree master student at a Dutch institution (a prior ESE pre-master is allowed)",
+    "Must be admitted to one of three ESE master's: Accounting, Auditing & Control; Econometrics & Management Science; or Economics & Business. An admission offer is not required at application but only admitted students are considered.",
+    "Two-step: you must first register/apply to the master programme in Studielink + EUR Application Portal, then submit the scholarship application via Osiris before the deadline",
+    "Immigration procedure must be completed (submit immigration docs + transfer tuition + living-cost deposit + IND fee); scholarship applicants are told to send the immigration application by May, hard deadline 10 July",
+    "Only one type of EUR scholarship is awarded per applicant — you may apply for several but cannot combine awards"
+  ],
+  "host": {
+    "country": "Netherlands",
+    "city": "Rotterdam",
+    "universities": [
+      "Erasmus University Rotterdam — Erasmus School of Economics"
+    ]
+  },
+  "degreeType": "taught",
+  "duration": "Scholarship covers 1 academic year (programmes are typically 1-year MSc; some 2-year)",
+  "eligibleNationalities": "Open to both EEA and non-EEA nationals on the Erasmus School of Economics track (no closed country list); non-EEA nationals such as Bangladeshis are explicitly addressed in the funding terms. Note: some other EUR faculty tracks of the Trustfonds scholarship are EEA/EU-only.",
+  "minGPA": "Bachelor average of at least 7.50 on a 1–10 scale",
+  "fundingCovers": [
+    "tuition",
+    "monthly living allowance",
+    "one-time personal allowance",
+    "immigration/IND fee waiver"
+  ],
+  "monthlyStipend": "€1,200 per month (€14,400 per academic year)",
+  "twoStepProcess": true,
+  "supervisorRequired": false,
+  "interviewStage": false,
+  "coversDependents": false,
+  "intake": [
+    "September 2026 (2026-2027 academic year)"
+  ],
+  "sources": [
+    {
+      "label": "Erasmus University Rotterdam — Erasmus School of Economics: Erasmus Trustfonds Scholarship 2026-2027 (requirements, amount/payment, application procedure, deadline)",
+      "url": "https://www.eur.nl/en/ese/education/master/fees-and-scholarships/scholarships-and-grants/erasmus-trustfonds-scholarship",
+      "accessed": "2026-06-18"
+    },
+    {
+      "label": "Erasmus University Rotterdam — Erasmus Trustfonds and TSH Changemaker Scholarship (EUR-wide overview; participating faculties, combined-award variant)",
+      "url": "https://www.eur.nl/en/scholarship/erasmus-trustfonds-and-tsh-changemaker-scholarship",
+      "accessed": "2026-06-18"
+    },
+    {
+      "label": "Erasmus University Rotterdam — ESHPM Erasmus Trust Fund Scholarship (shows EEA/EU-only restriction on that faculty's track; evidence eligibility varies per faculty)",
+      "url": "https://www.eur.nl/en/eshpm/education/grants/erasmus-trust-fund-scholarship",
+      "accessed": "2026-06-18"
+    }
+  ],
+  "lastVerified": "2026-06-18",
+  "tags": [
+    "#FullyFunded",
+    "#NoApplicationFee"
+  ]
+}

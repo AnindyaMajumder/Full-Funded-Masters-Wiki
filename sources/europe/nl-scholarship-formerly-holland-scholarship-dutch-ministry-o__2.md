@@ -1,0 +1,24 @@
+# NL Scholarship — nuffic.nl/en/nl-scholarship
+# Crawled 2026-06-18 via crawl4ai (markdown)
+# Source URL: https://www.nuffic.nl/en/nl-scholarship
+
+#  NL scholarship
+The NL scholarship (previously Holland Scholarship) is the national scholarship programme for Dutch and international students.
+
+The NL scholarship is the national scholarship programme for Dutch and international students. NL scholarship was previously know as Holland Scholarship. The name Holland Scholarship changed to NL scholarship in June 2023.
+
+The scholarship programme is first and foremost a means of profiling Dutch higher education. It is aimed at stimulating talented international students from outside the European Economic Area (EEA) to study in the Netherlands.
+
+In addition, the programme aims to increase the international mobility of Dutch students, by stimulating them to study outside the EEA on a scholarship.
+
+We have an advisory role in the implementation of the programme. We are responsible for providing information about the programme and promoting it, as well as organising events.
+
+### Vision on internationalisation
+The Holland Scholarship was set up as a result of the Vision on internationalisation set out by the VSNU (the Association of Universities in the Netherlands) and the Netherlands Association of Universities of Applied Sciences, as well as the letter of the Ministry of Education Culture and Science in June 2014 outlining the government’s vision on internationalisation. One of the essential points in both documents was the strong demand for a new Dutch scholarship programme aimed at student mobility.
+This programme is jointly financed by the ministry and Dutch higher education institutions.
+
+### More information
+Information on the scholarship for international students is published on: https://www.studyinnl.org/finances/nl-scholarship
+For information on the scholarship for Dutch students check the wilweg.nl page.
+
+The NL scholarship is made available by the Dutch Ministry of Education, Culture and Science together with 47 Dutch higher education institutions. They will grant scholarships to 2,112 students per academic year.

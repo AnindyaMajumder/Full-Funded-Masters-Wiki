@@ -1,0 +1,93 @@
+{
+  "name": "NL Scholarship (formerly Holland Scholarship)",
+  "officialLink": "https://www.studyinnl.org/finances/nl-scholarship",
+  "requiredDocuments": [
+    "No separate scholarship application form: you apply by indicating, during your master's admission application at the participating institution, that you also wish to apply for the NL Scholarship (e.g. via the institution's online application system such as Radboud's OSIRIS Application).",
+    "A complete master's admission application to a participating Dutch institution (the scholarship and the master's admission are two SEPARATE selection processes).",
+    "Proof of non-EEA nationality (passport).",
+    "Proof you meet the master's programme's English language proficiency requirement (IELTS/TOEFL band set by the institution/programme).",
+    "Academic records / transcripts and prior degree(s) (used by the selection committee to judge academic excellence — grades, test scores, university ranking).",
+    "Motivation letter for the master's programme.",
+    "Any further documents required by the specific participating institution and programme (the institution's own requirements and document list apply; check the institution's page)."
+  ],
+  "timeline": {
+    "cycle": "2026-2027",
+    "deadline": "Set per participating institution — no single national deadline. Example (Radboud University 2026-2027): application submitted by 31 January 2026 23:59 CET, application complete by 14 February 2026 23:59 CET.",
+    "opens": "1 November 2025 (national programme opening for the 2026-2027 academic year)",
+    "resultsBy": "Per institution; e.g. Radboud informs applicants around mid-April 2026 (date subject to change).",
+    "notes": "Anchor 2026-06: dates verified 2026-06-18 against studyinnl.org (national page) and ru.nl (Radboud example). The national 2026-2027 cycle opened 1 November 2025; the official page directs applicants to each institution's own page for the specific deadline. As of 2026-06 the Radboud 2026-2027 round is CLOSED ('The deadline for 2026-2027 has passed'). Deadlines vary widely by institution, so always confirm on the chosen institution's NL Scholarship page; the 2027-2028 cycle was not yet open at verification time."
+  },
+  "benefits": [
+    "One-time grant of €5,000, paid in the first year of study only (can be received once).",
+    "Co-financed by the Dutch Ministry of Education, Culture and Science together with participating Dutch research universities and universities of applied sciences.",
+    "Available across many participating institutions for English-taught bachelor's and master's programmes (the wiki entry concerns the master's track)."
+  ],
+  "acceptanceRate": {
+    "value": "Not officially published",
+    "isOfficial": false,
+    "estimateNote": "No per-applicant acceptance/selection rate is published. For scale only, Nuffic states the programme grants 2,112 scholarships per academic year across 47 institutions (https://www.nuffic.nl/en/nl-scholarship, accessed 2026-06-18); per-institution caps are tiny (e.g. Radboud: a maximum of 12 scholarships for 2026-2027). These are quotas, not an acceptance rate."
+  },
+  "mustKnow": [
+    "NOT full funding: it is a flat one-time €5,000 grant in the first year only. Official text: 'this is not a full-tuition scholarship' (studyinnl.org) and 'this is not a full scholarship. The costs of living and studying in the Netherlands are not covered' (Radboud). Living costs, travel, insurance and most tuition are NOT covered — you must arrange additional funding.",
+    "No central application and no single deadline: you apply through the participating institution of your choice, and each institution sets its own deadline, document requirements, number of awards and eligible programmes. Always read the chosen institution's own NL Scholarship page.",
+    "Two separate processes: scholarship selection is separate from master's admission — being admitted does NOT mean you get the scholarship.",
+    "May require pairing with the institution's own scholarship: e.g. at Radboud the NL Scholarship must be applied for together with the Radboud Scholarship Programme, and the NLS cannot be awarded on its own.",
+    "Eligibility is non-EEA nationality with no country list, so Bangladeshi nationals qualify; but you must also (a) not be eligible for the lower EU/EEA tuition fee, and (b) have no prior degree from a Netherlands education institution.",
+    "Erasmus Mundus and joint-degree master's programmes are typically excluded (stated by Radboud); confirm programme eligibility with the institution.",
+    "Some institutions charge a handling/application fee for the master's admission itself (e.g. Radboud requires payment of a handling fee during processing), even though there is no separate fee for the NL Scholarship — budget for the institution's admission fee.",
+    "Small quotas: only 2,112 awards nationally per year across 47 institutions, with very small per-institution caps (e.g. max 12 at Radboud for 2026-2027) split across faculties — it is highly competitive.",
+    "Name change: 'Holland Scholarship' was renamed 'NL Scholarship' in June 2023; older pages/aggregators may still use the old name."
+  ],
+  "host": {
+    "country": "Netherlands",
+    "universities": [
+      "Eindhoven University of Technology",
+      "Maastricht University",
+      "Radboud University",
+      "University of Groningen",
+      "University of Twente",
+      "Utrecht University",
+      "VU Amsterdam",
+      "Wageningen University & Research",
+      "Protestant Theological University",
+      "Plus participating universities of applied sciences (e.g. Hanze, Saxion, Fontys, HAN, The Hague UAS, Rotterdam UAS, Amsterdam UAS, Breda UAS) — full list per academic year on studyinnl.org"
+    ]
+  },
+  "degreeType": "both",
+  "duration": "1 year (paid in the first year of study only; awarded once)",
+  "intake": [
+    "Fall 2026"
+  ],
+  "eligibleNationalities": "Open to students with a non-EEA (non-EU/EEA) nationality; Swiss and (per the discoverer note) Surinamese applicants are treated like EEA for tuition purposes. There is NO closed country list — Bangladeshi nationals (non-EEA) are eligible, subject to each participating institution's own admission requirements and deadline.",
+  "languageRequirements": "Set by the chosen master's programme/institution (e.g. you must meet that programme's English language proficiency requirement, typically IELTS/TOEFL). The national programme does not impose its own separate language test.",
+  "applicationFee": "No fee for the NL Scholarship itself (you apply within your master's admission), but some institutions charge an application/handling fee for the master's admission (e.g. Radboud requires payment of a handling fee during processing). Confirm with the institution.",
+  "fundingCovers": [
+    "A one-time €5,000 cash grant toward first-year costs (partial; does not fully cover tuition or living)"
+  ],
+  "supervisorRequired": false,
+  "twoStepProcess": true,
+  "bondObligation": "None stated",
+  "coversDependents": false,
+  "interviewStage": false,
+  "sources": [
+    {
+      "label": "Study in NL (Nuffic) — official NL Scholarship page (amount, eligibility criteria, participating institutions, opening date)",
+      "url": "https://www.studyinnl.org/finances/nl-scholarship",
+      "accessed": "2026-06-18"
+    },
+    {
+      "label": "Nuffic — NL scholarship programme overview (funder, name change June 2023, 2,112 awards/year across 47 institutions)",
+      "url": "https://www.nuffic.nl/en/nl-scholarship",
+      "accessed": "2026-06-18"
+    },
+    {
+      "label": "Radboud University — NL Scholarship (for prospective students): master's-track scope, partial-coverage statement, eligibility, two-step process, RSP pairing, 2026-2027 deadlines, handling fee",
+      "url": "https://www.ru.nl/en/education/scholarships/nl-scholarship",
+      "accessed": "2026-06-18"
+    }
+  ],
+  "lastVerified": "2026-06-18",
+  "tags": [
+    "#NoGRE"
+  ]
+}

@@ -1,0 +1,272 @@
+[ Skip to main content ](https://www.freiheit.org/scholarships-friedrich-naumann-foundation-freedom#main-content)
+#  Scholarships of the Friedrich-Naumann-Foundation for Freedom 
+  * ##  Towards an open society 
+  * ##  The scholarship programme of the Friedrich-Naumann-Foundation for Freedom 
+  * ##  For freedom in your studies 
+  * ##  For promoting new ideas 
+  * ##  Towards an open society 
+  * ##  The scholarship programme of the Friedrich-Naumann-Foundation for Freedom 
+  * ##  For freedom in your studies 
+  * ##  For promoting new ideas 
+  * ##  Towards an open society 
+
+
+##  For freedom. Talent. Passion. Courage. 
+We support personalities with academic talent in all disciplines – during their studies and while pursuing their doctorate. The people we sponsor actively advocate for liberal values and an open society. They assume responsibility for themselves and others. Based on the idea of liberalism, the Friedrich Naumann Foundation for Freedom provides political education in Germany and around the world. Through our events and publications, we help people to be actively involved in the political arena. We support talented young people through scholarships.
+## Information
+  * ### [ Student scholarships  Do you have good to very good grades or academic achievements, are you interested in politics, are you committed and have a liberal, cosmopolitan attitude?  ](https://www.freiheit.org/student-scholarships)
+  * ### [ Scholarships for doctoral students  Are you looking for funding to realise your doctoral project? Do your previous study and examination achievements demonstrate a special ability with regard to academic work?  ](https://www.freiheit.org/scholarships-for-doctoral-students)
+  * ### [ Selection Process  Four steps to becoming a scholarship holder of the Friedrich Naumann Foundation for Freedom!  ](https://www.freiheit.org/selection-process-0)
+  * ### [ What sets us apart  A wide range and the self-organization of our scholarship holders are central to our scholarships.  ](https://www.freiheit.org/what-sets-us-apart-0)
+  * ### [ Networking  We are there for each other during and after the scholarship.  ](https://www.freiheit.org/networking-0)
+  * ### [ Special programmes  The Friedrich Naumann Foundation's scholarship department offers special programme lines in addition to the regular funding programme.  ](https://www.freiheit.org/special-programmes-1)
+  * ###  About us 
+We support personalities with academic talent in all disciplines - in their studies and during their PhD. Our scholars actively support liberal values and an open society. 
+  * ###  Questions and answers 
+Here you can find all questions and answers about our scholarships at a single click. 
+[Frequently asked questions](https://www.freiheit.org/scholarships-friedrich-naumann-foundation-freedom#questions_and_answers)
+
+
+  * At each event you can learn from the others, exchange experiences and develop. And I think this interdisciplinary exchange is very important, especially in doctoral studies.
+Vanessa  Fellow (doctoral candidate Ruprecht-Karls-University Heidelberg) 
+  * I went to one or two events and got to know and love the Foundation, met many interesting people and then simply decided to apply.
+Alexander  Fellow (Bachelor TU-Munich) 
+  * If you are convinced of an idea and if you dare, then you can really achieve what you want. And that is why I can only recommend: just try your best and apply!
+Ekaterina  Fellow (Master Hamburg University) 
+  * Every FNF event always has very, very good content, speakers and topics. But what I find even more important is that you find friends and a great community in the Foundation.
+Florian  Fellow (Master Goethe-University Frankfurt a. M.) 
+  * What I like best is the freedom to develop my own ideas and get support from the Foundation.
+Fabian  Fellow (State Examination Ruhr University Bochum) 
+  * At each event you can learn from the others, exchange experiences and develop. And I think this interdisciplinary exchange is very important, especially in doctoral studies.
+Vanessa  Fellow (doctoral candidate Ruprecht-Karls-University Heidelberg) 
+  * I went to one or two events and got to know and love the Foundation, met many interesting people and then simply decided to apply.
+Alexander  Fellow (Bachelor TU-Munich) 
+  * If you are convinced of an idea and if you dare, then you can really achieve what you want. And that is why I can only recommend: just try your best and apply!
+Ekaterina  Fellow (Master Hamburg University) 
+  * Every FNF event always has very, very good content, speakers and topics. But what I find even more important is that you find friends and a great community in the Foundation.
+Florian  Fellow (Master Goethe-University Frankfurt a. M.) 
+  * What I like best is the freedom to develop my own ideas and get support from the Foundation.
+Fabian  Fellow (State Examination Ruhr University Bochum) 
+  * At each event you can learn from the others, exchange experiences and develop. And I think this interdisciplinary exchange is very important, especially in doctoral studies.
+Vanessa  Fellow (doctoral candidate Ruprecht-Karls-University Heidelberg) 
+
+
+##  Gathering experience worldwide  Academy of studies abroad 
+Accompany the scholarship holders of the Friedrich Naumann Foundation on their international journeys.
+[To the scholarship blog](https://www.freiheit.org/de/focus/auslandsakademie)
+##  Questions and Answers 
+  * [General questions](https://www.freiheit.org/scholarships-friedrich-naumann-foundation-freedom)
+  * [Who and what is funded?](https://www.freiheit.org/scholarships-friedrich-naumann-foundation-freedom)
+  * [Applications and selection](https://www.freiheit.org/scholarships-friedrich-naumann-foundation-freedom)
+  * [High school graduates and beginning university students](https://www.freiheit.org/scholarships-friedrich-naumann-foundation-freedom)
+  * [Students from the 2nd subject semester (bachelor/master)](https://www.freiheit.org/scholarships-friedrich-naumann-foundation-freedom)
+  * [Doctoral students](https://www.freiheit.org/scholarships-friedrich-naumann-foundation-freedom)
+  * [Applicants from EU member states](https://www.freiheit.org/scholarships-friedrich-naumann-foundation-freedom)
+  * [Foreign applicants (non EU)](https://www.freiheit.org/scholarships-friedrich-naumann-foundation-freedom)
+  * [Financial benefits in German funding](https://www.freiheit.org/scholarships-friedrich-naumann-foundation-freedom)
+  * [Financial benefits in the funding of international applicants (non-EU)](https://www.freiheit.org/scholarships-friedrich-naumann-foundation-freedom)
+
+
+* How can I apply? 
+Applications can only be made via our online application portal from **1- 30 April** and from**1 - 31 October**.
+The application deadlines are **30 April and 31 October at 11:59 pm respectively**.
+* How will I be notified after submitting my online application? 
+During the application process we correspond exclusively by email. Please make sure that you regularly check your email inbox and that you have provided a working email contact. You will receive information regarding an invitation to the oral part of the selection process by 8 February or 8 August of the current year at the latest.
+* Who pre-selects the applications and who decides on the fellowship? 
+In cooperation with the selection committee members, the staff of the scholarship department make a pre-selection based on the submitted documents. What matters is the overall picture of your liberal and social commitment, your personality, and your academic performance. A personal interview with the members of the independent selection committee concludes the selection process and decides on the awarding of the scholarship.
+* Can I receive an individual reason for my rejection? 
+No. Unfortunately, this is not possible. There are only limited resources available each year to fund scholarships for talented people. For this reason, applicants who would be personally and academically suitable must sometimes be rejected for capacity reasons.
+* Is it possible to receive funding from another public institution for the same purpose? 
+No, so-called double funding for the same purpose by another public institution is not possible.
+* Do I have to be a member of the FDP to apply? 
+No, you do not have to be a member of the FDP.
+* What happens to my data? 
+Of course, the Friedrich Naumann Foundation for Freedom observes all German and European data protection regulations. The data will not be disclosed to unauthorised third parties. The data will only be used for the purpose of selecting and supporting scholarship holders. Any other uses require an additional agreement.
+* Is it possible to apply exclusively for non-material funding? 
+No. Unfortunately, purely ideational support is not possible.
+* Can letters of references written in English be submitted? 
+In principle, the letters of references should be written in German. If your appraisers are not proficient in German, the reviews may be submitted in English.
+* Can I use references from abroad for my application? 
+If you have references or evidence of voluntary work from abroad, they may also be written in English and uploaded to the corresponding section.
+* When will I be informed of the outcome of the selection process? 
+At the latest three weeks after the selection conference, we will inform you by email if you have been selected or not.
+* Where can I find information on the general funding guidelines? 
+You will find the [additional ancillary provisions of the Federal Ministry of Education and Research for the promotion of talented students and talented young scientists](https://www.bmbf.de/bmbf/shareddocs/downloads/files/riliws21_22.pdf?__blob=publicationFile&v=1) here (link in German).
+* Are there any alternative dates for the interviews that one is invited to? 
+No.
+* Do I have to appear in person for an interview when I have been invited? 
+Everyone who is already in Germany has to appear in person. Non-European applicants who are still abroad may be invited to a video-call.
+* What can be funded? 
+Funding is provided for first degree programmes (bachelor's and master's degrees combined are first degree programmes) at German, EU-European and Swiss state or state-recognized universities. This includes universities as well as universities of applied sciences, art colleges, and educational or theological colleges. Furthermore we support doctorates.
+* What cannot be funded? 
+The following are not funded: second degrees, LL.M, MBA, part-time degree, bachelor's degree for non-European applicants, doctorates in dentistry and human medicine, postdoc programmes, projects, and separate stays abroad.
+* Can I apply if I am pursuing a dual degree? 
+Yes, provided that it is a full-time course that is recognized by the state. Through the acquired bachelor's degree at the vocational academy, the authorization to continue a master’s degree at a university of applied sciences must be guaranteed. Please attach the appropriate supporting documents to your application package. Please note that, as in any other case, any income earned is offset against the scholarship.
+* Can I apply if I exceed my standard period of study? 
+No.
+* At which point can I apply? 
+German and EU-students can apply as a high school graduate, but also as a first-year university student, or a student in a higher semester. It should only be noted that the minimum funding period is two semesters. This means that you can apply for the last time in the penultimate semester before completing your studies.
+Non-EU-applicants can apply for support of their MA or PhD programme.
+* What does the minimum funding period mean? 
+Minimum funding period is two semesters or three trimesters. Please note that you must apply no later than the third-to-last semester before completing your studies. If you are already planning a master’s degree, you can apply in the last or penultimate bachelor’s semester.
+* Contents of a letter of reference 
+When you register in the application portal, you will receive a link. Please forward this to your appraiser. Your appraiser chooses the type of reference (student/doctoral candidate) and they can then enter the information in the form which will then be automatically attached to your application. For each reference we received, you will receive a separate confirmation email.
+You can find a sample/preview of the appraisal form [here](https://cloud.freiheit.org/index.php/s/ZFPjGYQwEikJjP6).
+**We only accept appraisals that have been submitted via the individual appraisal link. We do not accept appraisals via e-mail/mail.**
+* Do the subject semesters or the university semesters count in the application? 
+The subject semesters count for the application. The university semesters can differ if, for example, you took one or more semesters of leave.
+* Is there an age limit for the application? 
+No.
+* Can the submission deadline for submitting an application be extended? 
+No.
+* Are there alternative dates for the interviews? 
+No, there are no alternative dates for selection interviews. Participation in the selection interview is mandatory.
+* Are travel and accommodation expenses reimbursed for the selection conference? 
+No, unfortunately these costs cannot be reimbursed.
+* How can I submit my letter of reference? 
+When you register in the application portal, you will receive a link. Please forward this to your appraiser. They can enter the information in the form which then will be attached to your application. Once we have received both references for you, you will receive a confirmation email from us. You can generate the link no earlier than 2 months before the next application phase begins.
+* Does the scholarship department provide me with an appraiser? 
+No, unfortunately we cannot do that for you.
+* Does my appraiser have to be a liaison lecturer or member of the selection committee of the Friedrich Naumann Foundation for Freedom? 
+No, neither.
+* How does the application process continue once I have submitted my application in the online portal? 
+After submitting the online application, you will receive an automatic confirmation of receipt. Once we have received your letter of references via the link, you will receive an automatic email. We will then review the application documents. If we have any further questions, we will contact you.
+* How should I submit the application documents? 
+Please note that applications must be submitted online exclusively. Required uploads are made as PDF documents (max. capacity per document 5 MB). If a document comprises more than one page, please bundle it into one PDF document and only then upload it.
+* Do my certificates have to be certified when I apply? 
+No, the certificates (e.g. high school diploma or university certificate) do not have to be certified when submitting the application. If we have any questions about individual documents, we will contact you.
+* Can I apply to other political foundations at the same time? 
+You are applying to the liberal foundation with your documents. With regard to the application, you should think about whether the Friedrich Naumann Foundation for Freedom is a good fit for you in advance.
+* Can applicants for a master’s degree submit letter of references from the bachelor’s degree? 
+Yes, you can have letter of references from the bachelor's degree submitted.
+* Is a recommendation from an employer or an internship reference a letter of reference? 
+No, as a rule these are not accepted as letters of references when applying for a student scholarship. You can upload these letters of recommendation under the upload option "References".
+* Can I apply if I have obtained my Abitur or higher education entrance qualification via second-chance education? 
+Yes, we look forward to your application.
+* What do you understand by social commitment? 
+This includes activities in student self-government, in university committees, in a liberal organization or in societal and social associations and institutions, as well as homework assistance, caring for and helping relatives, assuming responsibility in various areas of societal life.
+* When do I apply as a new student? 
+As a German or EU passport holder you can apply as a high school graduate before you start your studies, even if you do not have a high school diploma at the time of application.
+* I don’t yet have my high school diploma (Abitur). May I apply? 
+German and EU: Yes, you can apply. If your high school diploma is not yet available when you apply, please upload the certificate prior to your high school diploma with the online application. Please bring a copy of your high school diploma certificate to the selection conference. Please note that we cannot award high-school-student scholarships. The earliest possible time for an application is your last half-year at school.
+* Which letter of references do I have to submit? 
+Two letter of references are required. The letter of references can be prepared by your high school teachers or subject teachers, or by school tutors or vocational schoolteachers. When you register for the application, a link is generated that you should send to your appraisers.
+* Can I apply for a scholarship for new students as a foreigner? 
+You can apply if you are an EU citizen or are eligible for funding according to [Section 8 BAföG](https://www.baf%C3%B6g.de/de/-8-staatsangehoerigkeit-224.php) (link in German). Otherwise, unfortunately not.
+* Can I apply if I am going to study in an EU member state or Switzerland? 
+Yes. The prerequisite is that you are able to actively participate in scholarship life from your place of study.
+* Can I submit additional certificates, references, and statements? 
+Please do not submit any documents without being asked.
+* I have not yet been admitted to study. May I apply? 
+Yes, you can already apply without admission. In this case, please enter the university of your choice and upload the application for admission with the online application. You should then present the matriculation certificate at the latest during the selection interview.
+* When can I apply for a scholarship as a high school student? 
+You can apply in the last half-year before the Abitur/Fachhochschulreife at the earliest. We do not award high-school-student scholarships.
+* Is a master's degree a second degree after a bachelor's degree? 
+No. Bachelor and master studies count as one course.
+* Does the minimum funding period relate to the bachelor's degree? 
+No, if you want to complete your master’s degree afterwards, you can still apply in the last semester of your bachelor’s.
+* Which letter of references do I have to submit? 
+Please submit two university professor letter of references (**not** high school teachers). When you register for the application, you generate a link that you should send to your appraisers. They will then send the letter of references directly to us and you will receive a confirmation email after they have arrived.
+* Is there a minimum funding period for doctoral funding? 
+Yes, the minimum funding period for doctoral students is 12 months.
+* Is there a maximum funding period for doctoral funding? 
+Yes, the maximum funding period is three years.
+* Can I apply if I am pursuing a doctorate in dentistry or human medicine? 
+No. While writing your doctorate in dentistry or human medicine, you can receive funding as part of the study scholarship.
+* What does unconditional acceptance mean? 
+Admission is a formal confirmation from your university (dean's office, examination office) about the unconditional acceptance for a doctorate. You can also provide formal confirmation that you are enrolled in a doctoral programme. Unconditional means that you no longer have to fulfil any conditions, for example in the form of exams to be taken or courses to be attended, and that you can fully devote yourself to your doctorate.
+* Can I submit an English exposé? 
+Yes.
+* Which letter of references do I have to submit? 
+Two letter of references must be submitted. The first letter of reference must be written by your doctoral supervisor. The second letter of reference must come from a university lecturer in the subject of the doctorate or a related subject.
+The letter of reference link, which you should pass on to your appraisers, is generated when you register for the online application process.
+* Who can write my letter of references? 
+One of the letter of references must be written by your doctoral supervisor. The second letter of reference must come from a university lecturer in the subject of the doctorate or a related subject.
+* Will it count towards my funding period if I have already received funding for the same purpose? 
+Previous funding from public funds and for the same purpose will be taken into account.
+* As a German doctoral candidate, can I pursue a job in addition to funding? 
+Funding is excluded if paid work in research and teaching at the university or a non-university research institution that serves scientific work exceeding more than a **quarter of the regular weekly working time** or if gainful employment of more than**one eighth of the regular weekly working****time** is carried out.
+* How can I apply as a citizen of an EU member country? 
+You apply for basic funding like German students, or for doctoral funding like German doctoral students.
+* Do I have to have knowledge of German? 
+Yes, the application documents should be submitted in German. The selection interview will also take place in German; even if you are applying for the funding of an English-language course or an English-language doctoral programme. Knowledge of German on the minimum level of [B2](https://www.goethe.de/de/spr/kup/prf/prf/gb2.html) is essential for participating in the ideational support.
+* Do I have to provide a language test? 
+No, you do not have to show a language test to apply.
+* Can letter of references written in English be submitted? 
+If your appraisers are not proficient in German, the references may be submitted in English. When you register for the application, you generate a link that you should send to your appraisers so that they can send the letter of references to us directly. You will receive a confirmation email after the letter of references have arrived.
+* What is funded? 
+Foreign applicants can apply for funding if they complete a master's or doctorate full-time in Germany. If you have already successfully completed the preliminary examination in medical studies (Physikum) or the main study period in the subjects with a state examination, you can also apply.
+* Can I apply for a bachelor's degree? 
+No, unfortunately not.
+* I have been resident in Germany for several years. May I still apply? 
+You can apply if you have not been in Germany for more than 15 months prior to the start of the scholarship. Exceptions are made for research and study purposes. Please demonstrate this to us through the corresponding residence entries in your passport in the application. Please always upload the page of your passport or your ID with your residence permit.
+* Do I have to have knowledge of German? 
+Yes, the application documents must be submitted in German. The selection interview will also take place in German; even if you are applying for the funding of an English-language course or an English-language doctoral programme. Knowledge of German on the minimum level of B2 is essential for participating in the ideational support.
+* Do I have to provide a language test? 
+No, you do not have to show a language test to apply.
+* Are binational master's programmes eligible? 
+Binational Master’s courses must be taught more than 50 % of the time in Germany to be eligible.
+* Which letter of references do I have to submit as a foreign student? 
+Please submit two university professor letter of references. When you register for the application online, a link is generated that you should send to your appraisers so that they can send the letter of references to us directly. Once they have done this, you will receive a confirmation email from us.
+* Which letter of references do I have to submit as a foreign doctoral student? 
+Two letter of references must be submitted. The first letter of reference must be written by your doctoral supervisor. The second letter of reference must come from a university lecturer in the subject of the doctorate or a related subject.
+When you register for the application online, a link is generated that you should send to your appraisers so that they can send the letter of references to us directly. Once they have done this, you will receive a confirmation email from us.
+* Can letters of references written in English be submitted? 
+If your appraisers are not proficient in German, the reviews may be submitted in English.
+* Can I apply if I came to Germany as a refugee? 
+As a recognized refugee, you are considered a so-called educational resident and are entitled to BAföG. You will find the necessary documents [here](https://cloud.freiheit.org/index.php/s/zpHG9ks68o7RgEe).
+* Do I have to pay back my scholarship? 
+No, you do not have to pay back your scholarship.
+* According to which criteria are the financial benefits in the German basic funding calculated? 
+The financial benefits are calculated based on BaföG. Find out more information [here](https://www.baf%C3%B6g.de/ "\[Link öffnet in neuem Fenster\] hier").
+* How high is my scholarship for German basic funding? 
+Based on BaföG, the maximum basic funding is 744 euros.
+* Will I receive a lump sum for study costs in any case? 
+Yes, all our fellows will receive a lump sum for study costs (300 euros per month).
+* How high is my scholarship in the German doctoral funding? 
+The scholarship is up to 1.350 euros per month plus a 100-euro lump sum for research costs.
+* Are stays abroad funded? 
+Along with the scholarship we support stays abroad for a maximum of 12 months if they are related to the studies or doctorate. Grants for travel expenses, health insurance, study or research fees, and living expenses can be provided to support study or academic work abroad. Each application is evaluated on a case-by-case basis. The amount of study-abroad funding depends on the available financial resources.
+* How high is the scholarship for student funding? 
+The scholarship for student funding is a maximum of 861 euros.
+* How high is the funding for a doctorate? 
+The scholarship for the doctorate is a maximum of 1.200 euros.
+* As a foreign doctoral candidate or student, can I pursue a job in addition to funding? 
+In the case of foreign doctoral students or students, gross income of over 450 euros is offset against the scholarship.
+* Do I receive a health insurance grant? 
+Yes, you will receive monthly contributions to health insurance and long-term care insurance.
+##  For me, freedom is...  Our scholarship holders in a video interview 
+Freedom has many faces. We asked our scholarship holders what they understand when they say freedom. Discover their answers here.
+## 
+Contact
+Telefon: [+49 30 2099-3702](tel:+49%2030%202099-3702)
+E-mail: stipendien-bewerbung@freiheit.org
+## 
+further information
+[info material](https://www.freiheit.org/node/23492)
+  * [The offices of the Foundation](https://www.freiheit.org/standorte)
+  * [The Foundation's activities worldwide](https://fnst.org/)
+  * [About the Foundation](https://www.freiheit.org/stiftung)
+
+
+### We process your data and use cookies.
+We use technically necessary cookies to offer you the essential functions of our website. We then only process your data on our own systems. You can find more information in our privacy policy in section 3. You can thus use our website only to the extent technically necessary.
+Technically necessary
+In order to design our website optimally for you and to be able to continuously improve our offer for you, we use functional and marketing cookies. More information about the providers and how they work can be found in our privacy policy in section 3. Click 'Accept' to consent. You can revoke this consent at any time.
+Show list of providers
+List of providers: Cloudinary, D.Vinci Embed, Facebook Embed, Flickr Embed, Google Maps Embed, Instagram Embed, Matomo, Newsletter2go Embed, Podigee Embed, Twitter Embed, Typeform Embed, Youtube Embed 
+Matomo
+Facebook Embed
+Twitter Embed
+Instagram Embed
+Youtube Embed
+Google Maps Embed
+Cloudinary
+Flickr Embed
+Newsletter2go Embed
+Podigee Embed
+D.Vinci Embed
+Typeform Embed
+Accept Accept
+[Privacy Policy](https://www.freiheit.org/privacy-policy) [Imprint](https://www.freiheit.org/imprint)
+
