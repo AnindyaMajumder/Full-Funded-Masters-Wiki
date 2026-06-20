@@ -2,8 +2,7 @@
 
 # 🎓 Full‑Funded Masters Wiki
 
-**A trustworthy, verifiable directory of fully funded master's scholarships** —
-Europe · UK · China · Japan · South Korea · Taiwan · Singapore · Malaysia.
+**A trustworthy, verifiable directory of fully funded master's scholarships**
 
 Every fact is extracted from the program's **official page** and dated. No aggregator blogs, no invented stats.
 
@@ -175,11 +174,6 @@ git push origin data/add-<country>-<scholarship>
 One scholarship (or one fix) per PR keeps reviews fast. Small, well-sourced PRs get merged quickest.
 
 ---
-
-## 🧰 Tech stack
-
-**SvelteKit 5** (runes) · **TypeScript** (strict) · prerendered static output · zero scholarship data in components.
-Micro-animations are pure CSS / Svelte transitions and respect `prefers-reduced-motion`.
 
 ## 📄 License
 
