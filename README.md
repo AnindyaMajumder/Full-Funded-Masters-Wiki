@@ -19,7 +19,7 @@ Every fact is extracted from the program's **official page** and dated. No aggre
 ## ✨ What it is
 
 A static, prerendered site that turns scattered scholarship pages into one **searchable, filterable ledger**.
-Cards render to plain HTML (readable with JS off); search, filter, sort, and `.ics` deadline export run client‑side.
+Every row renders to plain HTML (readable with JS off); search, filter, sort, and `.ics` deadline export run client‑side.
 
 | Country | Count | | Country | Count |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ src/
    ├─ +page.svelte             # landing hero + cross-country directory
    └─ [country]/+page.svelte   # one prerendered page per country
 
-sources/<country>/<program>.html   # saved official pages used as research
+sources/<country>/<program>.md     # saved official pages used as research
 scripts/build-data.mjs             # compile verified JSON → typed data file
 ```
 
