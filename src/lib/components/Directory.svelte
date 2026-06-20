@@ -399,10 +399,18 @@
   }
 
   @media (max-width: 560px) {
-    .toolbar { padding: 0.85rem; border-radius: var(--r); }
-    .selects { width: 100%; }
-    .select { flex: 1 1 8rem; }
-    .select select { width: 100%; }
+    .toolbar { padding: 0.85rem; border-radius: var(--r); gap: 0.6rem; }
+    /* Selects row: single line, scroll horizontally */
+    .selects {
+      width: 100%;
+      flex-wrap: nowrap;
+      overflow-x: auto;
+      scrollbar-width: none;
+      -ms-overflow-style: none;
+      mask-image: linear-gradient(to right, black calc(100% - 2rem), transparent 100%);
+    }
+    .selects::-webkit-scrollbar { display: none; }
+    .select { flex-shrink: 0; }
     .toolbar-meta { flex-direction: column; align-items: flex-start; gap: 0.4rem; }
     /* Increase tap targets on touch screens */
     .chip { padding: 0.55rem 0.85rem; font-size: 0.8rem; }
