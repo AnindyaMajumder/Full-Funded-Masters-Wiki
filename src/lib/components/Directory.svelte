@@ -123,10 +123,38 @@
   });
   const dur = $derived(reduced ? 0 : 170);
   const stagger = $derived(reduced ? 0 : 16);
+
+  // Hide toolbar on scroll-down, reveal on scroll-up (mobile only).
+  let toolbarHidden = $state(false);
+  $effect(() => {
+    if (!browser) return;
+    let lastY = window.scrollY;
+    let ticking = false;
+    const onScroll = () => {
+      if (ticking) return;
+      ticking = true;
+      requestAnimationFrame(() => {
+        const isMobile = window.matchMedia('(max-width: 560px)').matches;
+        const currentY = window.scrollY;
+        const delta = currentY - lastY;
+        if (!isMobile || currentY < 120) {
+          toolbarHidden = false;
+        } else if (delta > 4) {
+          toolbarHidden = true;
+        } else if (delta < -4) {
+          toolbarHidden = false;
+        }
+        lastY = currentY;
+        ticking = false;
+      });
+    };
+    window.addEventListener('scroll', onScroll, { passive: true });
+    return () => window.removeEventListener('scroll', onScroll);
+  });
 </script>
 
 <section class="directory">
-  <div class="toolbar">
+  <div class="toolbar" class:toolbar--hidden={toolbarHidden}>
     <div class="toolbar-row">
       <div class="search">
         <svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path fill="currentColor" d="M21 20.3 16.7 16a8 8 0 1 0-1.4 1.4l4.3 4.3 1.4-1.4ZM4 10.5a6.5 6.5 0 1 1 13 0 6.5 6.5 0 0 1-13 0Z"/></svg>
@@ -399,7 +427,16 @@
   }
 
   @media (max-width: 560px) {
-    .toolbar { padding: 0.85rem; border-radius: var(--r); gap: 0.6rem; }
+    .toolbar {
+      padding: 0.85rem;
+      border-radius: var(--r);
+      gap: 0.6rem;
+      transition: transform 0.28s var(--ease);
+    }
+    .toolbar--hidden {
+      transform: translateY(-200%);
+      pointer-events: none;
+    }
     /* Selects row: single line, scroll horizontally */
     .selects {
       width: 100%;
