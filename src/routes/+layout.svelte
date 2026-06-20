@@ -3,6 +3,7 @@
   import { page } from '$app/state';
   import { DATA } from '$data/all';
   import { COUNTRY_ORDER, COUNTRY_LABELS } from '$lib/scholarship';
+  import { organizationLd, webSiteLd, ldJson } from '$lib/seo';
 
   let { children } = $props();
 
@@ -18,6 +19,12 @@
   const isActive = (href: string) =>
     href === '/' ? path === '/' : path.startsWith(href);
 </script>
+
+<svelte:head>
+  <!-- Site-wide identity for Google rich results (publisher logo + sitelinks search box). -->
+  {@html `<script type="application/ld+json">${ldJson(organizationLd())}<\/script>`}
+  {@html `<script type="application/ld+json">${ldJson(webSiteLd())}<\/script>`}
+</svelte:head>
 
 <a class="skip" href="#main">Skip to content</a>
 

@@ -2,6 +2,7 @@
   import { flip } from 'svelte/animate';
   import { fade, fly } from 'svelte/transition';
   import { browser } from '$app/environment';
+  import { page } from '$app/state';
   import ScholarshipRow from './ScholarshipRow.svelte';
   import type { ScholarshipWithCountry, CountryKey } from '$lib/scholarship';
   import {
@@ -59,7 +60,9 @@
   });
 
   // — Filter state —
-  let q = $state('');
+  // Seed the query from `?q=` so shared links (and Google's sitelinks search box,
+  // which targets /?q={term}) land on a pre-filtered view. Prerender stays empty.
+  let q = $state(browser ? (page.url.searchParams.get('q') ?? '') : '');
   let country = $state('all');
   let month = $state('all');
   let statusF = $state('all');

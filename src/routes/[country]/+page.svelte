@@ -1,12 +1,34 @@
 <script lang="ts">
   import Directory from '$lib/components/Directory.svelte';
+  import Seo from '$lib/components/Seo.svelte';
   import { countryData } from '$data/all';
   import type { CountryKey } from '$lib/scholarship';
+  import { SITE_NAME, breadcrumbLd, collectionPageLd } from '$lib/seo';
   import type { PageData } from './$types';
 
   let { data }: { data: PageData } = $props();
 
   const items = $derived(countryData(data.key as CountryKey));
+
+  const title = $derived(`Fully funded master’s in ${data.label} — ${SITE_NAME}`);
+  const description = $derived(
+    items.length
+      ? `${items.length} fully funded master's scholarships in ${data.label}, each verified against its ` +
+        'official source — deadlines, benefits and requirements at a glance.'
+      : `Fully funded master's scholarships in ${data.label}, verified against their official sources.`
+  );
+  const jsonLd = $derived([
+    breadcrumbLd([
+      { name: SITE_NAME, path: '/' },
+      { name: data.label, path: `/${data.key}/` }
+    ]),
+    collectionPageLd({
+      path: `/${data.key}/`,
+      name: `Fully funded master's scholarships in ${data.label}`,
+      description,
+      numberOfItems: items.length
+    })
+  ]);
 
   const BLURBS: Record<CountryKey, string> = {
     uk: 'One-year taught master’s and Oxbridge research awards. The flagships — Chevening, Commonwealth, Gates Cambridge, Clarendon, Rhodes — cover full tuition plus a living stipend. Watch for return-home expectations and tight autumn deadlines.',
@@ -22,13 +44,7 @@
   };
 </script>
 
-<svelte:head>
-  <title>{data.label} — Fully Funded Masters</title>
-  <meta
-    name="description"
-    content={`Fully funded master's scholarships in ${data.label}, each verified against its official source.`}
-  />
-</svelte:head>
+<Seo {title} {description} image={`/og-${data.key}.png`} imageAlt={`Fully funded master’s scholarships in ${data.label}`} {jsonLd} />
 
 <section class="hero">
   <div class="container hero-inner">

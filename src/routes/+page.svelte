@@ -1,21 +1,35 @@
 <script lang="ts">
   import Directory from '$lib/components/Directory.svelte';
+  import Seo from '$lib/components/Seo.svelte';
   import { allWithCountry, DATA } from '$data/all';
   import { COUNTRY_ORDER } from '$lib/scholarship';
+  import { SITE_NAME, SITE_TAGLINE, collectionPageLd, destinationListLd } from '$lib/seo';
 
   const all = allWithCountry();
   const total = all.length;
-  const destinations = COUNTRY_ORDER.filter((k) => DATA[k].length > 0).length;
+  const liveCountries = COUNTRY_ORDER.filter((k) => DATA[k].length > 0);
+  const destinations = liveCountries.length;
   const withStipend = all.filter((s) => !(s.tags ?? []).includes('#TuitionOnly')).length;
+
+  const description =
+    `Browse ${total} fully funded master's scholarships across ${destinations} destinations — ` +
+    'tuition plus a living stipend, with every deadline, benefit and requirement traced to its official source.';
 </script>
 
-<svelte:head>
-  <title>Fully Funded Masters — verified scholarship wiki</title>
-  <meta
-    name="description"
-    content="A hand-verified directory of fully funded master's scholarships across the UK, Europe, China and Japan — every deadline, benefit and acceptance rate traced to its official source."
-  />
-</svelte:head>
+<Seo
+  title={`${SITE_NAME} — ${SITE_TAGLINE}`}
+  {description}
+  ogTitle="Find a master’s the world will pay for"
+  jsonLd={[
+    collectionPageLd({
+      path: '/',
+      name: `${SITE_NAME} — fully funded master's scholarships`,
+      description,
+      numberOfItems: total
+    }),
+    destinationListLd(liveCountries.map((k) => ({ key: k, count: DATA[k].length })))
+  ]}
+/>
 
 <section class="hero">
   <div class="container hero-inner">
