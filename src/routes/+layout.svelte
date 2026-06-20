@@ -13,8 +13,6 @@
     count: DATA[k].length
   }));
 
-  const total = COUNTRY_ORDER.reduce((n, k) => n + DATA[k].length, 0);
-
   const path = $derived(page.url.pathname);
   const isActive = (href: string) =>
     href === '/' ? path === '/' : path.startsWith(href);
@@ -55,13 +53,6 @@
 
 <footer class="site-footer">
   <div class="container footer-inner">
-    <div class="footer-brand">
-      <strong>Fully Funded Masters</strong>
-      <p class="faint">
-        {total} fully funded master’s scholarships, each traced to its official source.
-        Always confirm dates and eligibility on the official page before you apply.
-      </p>
-    </div>
     <div class="footer-meta faint">
       <span>Facts last verified June 2026</span>
       <span>·</span>
@@ -159,9 +150,6 @@
     gap: 1rem;
     padding-block: 2.2rem;
   }
-  .footer-brand { max-width: 46ch; }
-  .footer-brand strong { font-family: var(--font-serif); font-weight: 600; font-size: 1.05rem; }
-  .footer-brand p { margin-top: 0.3rem; font-size: 0.86rem; line-height: 1.55; }
   .footer-meta { display: flex; gap: 0.5rem; font-size: 0.8rem; flex-wrap: wrap; }
 
   @media (max-width: 720px) {
