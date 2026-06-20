@@ -76,3 +76,8 @@ Desktop.ini
 # Saved official scholarship pages used as scraping input can be large and are
 # reproducible. Uncomment to keep them out of git:
 # sources/
+
+# Research scratch — intermediate workflow output. The verified result is compiled
+# into src/data/<country>.ts and provenance is saved under sources/, so this is
+# disposable and must not be tracked.
+.research-out/
