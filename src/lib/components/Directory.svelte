@@ -245,7 +245,7 @@
 
   .toolbar {
     position: sticky;
-    top: 0;
+    top: var(--header-h, 90px);
     z-index: 20;
     display: flex;
     flex-direction: column;
@@ -309,16 +309,8 @@
     overflow-x: auto;
     scrollbar-width: none;
     -ms-overflow-style: none;
-    /* fade edges to hint more content */
-    mask-image: linear-gradient(
-      to right,
-      transparent 0,
-      black 0.8rem,
-      black calc(100% - 1.5rem),
-      transparent 100%
-    );
-    margin-inline: -0.5rem;
-    padding-inline: 0.5rem;
+    /* Right-edge only fade — left fade would dim the first visible chip */
+    mask-image: linear-gradient(to right, black calc(100% - 2rem), transparent 100%);
   }
   .chips-scroll::-webkit-scrollbar { display: none; }
   .chips {
@@ -412,5 +404,8 @@
     .select { flex: 1 1 8rem; }
     .select select { width: 100%; }
     .toolbar-meta { flex-direction: column; align-items: flex-start; gap: 0.4rem; }
+    /* Increase tap targets on touch screens */
+    .chip { padding: 0.55rem 0.85rem; font-size: 0.8rem; }
+    .link-btn { padding: 0.45rem 0.5rem; }
   }
 </style>

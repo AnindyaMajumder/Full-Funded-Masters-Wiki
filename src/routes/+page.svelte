@@ -122,4 +122,13 @@
   .trust li { white-space: nowrap; }
 
   .directory-wrap { margin-top: clamp(1.6rem, 4vw, 2.6rem); }
+
+  @media (max-width: 560px) {
+    .hero-inner {
+      padding-top: 1.6rem;
+      padding-bottom: 1rem;
+    }
+    .stats { margin-top: 1.1rem; }
+    .trust { margin-top: 0.9rem; }
+  }
 </style>

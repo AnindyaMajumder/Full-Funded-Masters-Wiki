@@ -80,6 +80,15 @@
 
   .directory-wrap { margin-top: clamp(1.4rem, 3.5vw, 2.2rem); }
 
+  @media (max-width: 560px) {
+    .hero-inner {
+      padding-top: 1.4rem;
+      padding-bottom: 0.8rem;
+    }
+    .hero-lede { margin-top: 0.7rem; }
+    .count-pill { margin-top: 0.9rem; }
+  }
+
   .soon {
     display: flex; flex-direction: column; align-items: center; gap: 1rem;
     text-align: center; padding: 4rem 1rem; color: var(--ink-soft);

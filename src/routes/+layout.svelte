@@ -106,7 +106,11 @@
   .brand-sub { font-size: 0.7rem; letter-spacing: 0.04em; color: var(--ink-mute); }
 
   /* ── Destinations strip ── */
-  .destinations-bar { overflow: hidden; }
+  .destinations-bar {
+    /* Right-edge fade hints that the list is scrollable */
+    mask-image: linear-gradient(to right, black calc(100% - 2.5rem), transparent 100%);
+    overflow: hidden;
+  }
   .destinations {
     display: flex;
     align-items: center;
@@ -131,6 +135,13 @@
     white-space: nowrap;
     transition: background var(--t-fast) var(--ease), color var(--t-fast) var(--ease);
     flex-shrink: 0;
+    /* Extend tap area without growing the bar height */
+    position: relative;
+  }
+  .dest-link::after {
+    content: '';
+    position: absolute;
+    inset: -8px 0;
   }
   .dest-link:hover { background: var(--surface-sunken); color: var(--ink); }
   .dest-link.active { background: var(--brand-tint); color: var(--brand-ink); }

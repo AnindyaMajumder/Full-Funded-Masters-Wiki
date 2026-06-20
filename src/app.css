@@ -56,6 +56,10 @@
 
   --maxw: 1240px;
 
+  /* Sticky header height — used to offset the toolbar's sticky position so it
+     doesn't slide behind the header. Keep in sync with site-header sizing. */
+  --header-h: 90px;
+
   /* Shared ledger grid — keeps the column header and every row in lock-step.
      4 tracks: Scholarship · Deadline · Key facts · actions/chevron. */
   --row-cols: minmax(0, 2.6fr) minmax(7rem, 1fr) minmax(9rem, 1.3fr) auto;
@@ -81,7 +85,7 @@ body {
     radial-gradient(1200px 600px at 80% -10%, var(--bg-grad-a), transparent 60%),
     radial-gradient(1000px 500px at 0% 0%, #eef3ef 0%, transparent 55%),
     var(--bg);
-  background-attachment: fixed;
+  /* background-attachment: fixed causes repaint jank on iOS Safari — omitted */
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
   font-feature-settings: 'cv05' 1, 'ss01' 1;
@@ -159,6 +163,11 @@ button { font-family: inherit; }
 .btn--ghost:hover { background: var(--brand-tint); border-color: transparent; box-shadow: none; }
 
 .btn--sm { font-size: 0.8rem; padding: 0.42rem 0.72rem; }
+
+/* Mobile: brand row is shorter → header shrinks */
+@media (max-width: 560px) {
+  :root { --header-h: 82px; }
+}
 
 /* — Reduced motion — */
 @media (prefers-reduced-motion: reduce) {

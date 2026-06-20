@@ -77,9 +77,12 @@
 
   const benefitsSummary = $derived(item.benefits.join(' · '));
   const stopToggle = (e: Event) => e.stopPropagation();
+
+  let detailsEl: HTMLDetailsElement | undefined = $state();
+  const collapseRow = () => { if (detailsEl) detailsEl.open = false; };
 </script>
 
-<details class="row" data-status={status.key}>
+<details class="row" data-status={status.key} bind:this={detailsEl}>
   <summary class="row-head">
     <!-- 1 — Scholarship -->
     <div class="r-main">
@@ -216,6 +219,10 @@
         Visit official page
         <svg viewBox="0 0 24 24" width="14" height="14" aria-hidden="true"><path fill="currentColor" d="M14 3v2h3.59l-9.3 9.29 1.42 1.42L19 6.41V10h2V3h-7ZM5 5a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-5h-2v5H5V7h5V5H5Z"/></svg>
       </a>
+      <button type="button" class="btn collapse-btn" onclick={collapseRow}>
+        <svg viewBox="0 0 24 24" width="14" height="14" aria-hidden="true"><path fill="currentColor" d="M12 8.6 17.4 14l-1.4 1.4-4-4-4 4L6.6 14z"/></svg>
+        Collapse
+      </button>
       <span class="verified" title="Date the facts were last checked against the official source">
         <svg viewBox="0 0 24 24" width="13" height="13" aria-hidden="true"><path fill="currentColor" d="m9.55 17.6-4.6-4.6 1.42-1.42 3.18 3.18 7.68-7.68 1.42 1.42-9.1 9.1Z"/></svg>
         Verified {item.lastVerified}
@@ -466,6 +473,9 @@
   }
   .verified { display: inline-flex; align-items: center; gap: 0.3rem; font-size: 0.76rem; color: var(--ink-mute); }
   .verified svg { color: var(--st-open); }
+  /* Collapse shortcut — only shown on mobile where scrolling back to the
+     summary row to close the panel is annoying */
+  .collapse-btn { display: none; }
 
   /* ── Mobile: the table collapses to a stacked, self-labelled block ── */
   @media (max-width: 860px) {
@@ -488,10 +498,28 @@
     }
     .r-chev { margin-left: 0.1rem; }
     .body-cols { grid-template-columns: 1fr; gap: 1.1rem; }
+
+    /* Push r-main content away from the absolutely-positioned end icons.
+       Max r-end width: 2 icon-btns (32px) + chevron (26px) + gaps (~9px) = 99px,
+       plus right:1rem (16px) offset → needs ~115px clearance from the row edge. */
+    .r-main { padding-right: 7rem; }
+
+    /* Extend icon-btn tap area without changing layout */
+    .icon-btn { position: relative; }
+    .icon-btn::after {
+      content: '';
+      position: absolute;
+      inset: -8px;
+    }
+
+    /* Show the collapse shortcut in the expanded body */
+    .collapse-btn { display: inline-flex; }
   }
 
   @media (max-width: 520px) {
-    .row-body { padding-inline: 1.1rem; }
-    .def-row { grid-template-columns: 1fr; gap: 0.1rem; }
+    .row-body { padding-inline: 1rem; }
+    /* Single-column def: increase gap so label and value don't blur together */
+    .def-row { grid-template-columns: 1fr; gap: 0.2rem; }
+    .def { gap: 0.75rem; }
   }
 </style>
