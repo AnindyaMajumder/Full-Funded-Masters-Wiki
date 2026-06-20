@@ -6,7 +6,7 @@ import type { Scholarship } from '../types/scholarship';
 export const southkorea: Scholarship[] = [
   {
     "name": "Global Korea Scholarship for Graduate Degrees (GKS-G) — formerly KGSP",
-    "officialLink": "https://www.studyinkorea.go.kr/en/sub/gks/allnew_invite.do",
+    "officialLink": "https://www.studyinkorea.go.kr/en/plan/scholarship.do",
     "requiredDocuments": [
       "Personal Information form (GKS application form, NIIED format)",
       "NIIED Pledge",

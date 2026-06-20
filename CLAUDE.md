@@ -198,6 +198,14 @@ Slovakia) plus Türkiye-university and Czech-university awards.
 > UI note: the acceptance-rate column was removed from the ledger by request. `acceptanceRate`
 > is still part of the data contract and is captured per record; it is just not displayed.
 
+> Sources-archive note: every one of the 201 records carries its in-data `sources[]` citations
+> (URL + access date). The separate `sources/<country>/` folder of saved page snapshots now covers
+> all 8 live countries — **South Korea (8), Taiwan (7), Singapore (4), Malaysia (3)** were
+> backfilled on 2026-06-21. Note: the GKS `officialLink` was updated from the stale
+> `/en/sub/gks/allnew_invite.do` (404) to `/en/plan/scholarship.do` (live as of 2026-06-21).
+> The studyinkorea.go.kr site serves Bengali-shell UI due to IP geolocation but the GKS
+> scholarship body text is in English.
+
 - [x] **UK — 19** Chevening · Commonwealth Master's · Commonwealth Shared · Gates Cambridge ·
   Clarendon · Rhodes · Felix · Oxford-Weidenfeld & Hoffmann · Cambridge Trust · GREAT
   (#TuitionOnly) · Marshall · Ertegun (only numeric AR: 1.5%, funder-published) ·
