@@ -132,10 +132,13 @@ export function effectiveTags(s: Scholarship, status: DeadlineStatus): string[] 
 export const TAG_META: Record<string, { label: string; hint: string }> = {
   '#FullyFunded': { label: 'Fully funded', hint: 'Tuition + living stipend' },
   '#TuitionOnly': { label: 'Tuition only', hint: 'No living stipend' },
+  '#PartialFunding': { label: 'Partial funding', hint: 'Covers only part of the costs' },
+  '#TuitionNotCovered': { label: 'Tuition not covered', hint: 'Living grant only — you still pay tuition' },
   '#NoIELTS': { label: 'No IELTS', hint: 'English test may be waived' },
   '#NoApplicationFee': { label: 'No application fee', hint: 'Free to apply' },
   '#NoGRE': { label: 'No GRE', hint: 'GRE not required' },
   '#SupervisorRequired': { label: 'Supervisor first', hint: 'Secure a professor before applying' },
+  '#TwoStepProcess': { label: 'Two-step process', hint: 'Win admission first, then the award' },
   '#ReturnHomeBond': { label: 'Return-home bond', hint: 'Must return after study' },
   '#CoversFamily': { label: 'Covers family', hint: 'Dependent support available' },
   '#OpenNow': { label: 'Open now', hint: 'Accepting applications' },
