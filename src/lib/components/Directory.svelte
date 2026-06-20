@@ -178,17 +178,19 @@
     </div>
 
     {#if facetTags.length}
-      <div class="chips" role="group" aria-label="Filter by tag">
-        {#each facetTags as t}
-          <button
-            type="button"
-            class="chip"
-            class:on={activeTags.includes(t)}
-            aria-pressed={activeTags.includes(t)}
-            title={TAG_META[t]?.hint}
-            onclick={() => toggleTag(t)}
-          >{tagLabel(t)}</button>
-        {/each}
+      <div class="chips-scroll" role="group" aria-label="Filter by tag">
+        <div class="chips">
+          {#each facetTags as t}
+            <button
+              type="button"
+              class="chip"
+              class:on={activeTags.includes(t)}
+              aria-pressed={activeTags.includes(t)}
+              title={TAG_META[t]?.hint}
+              onclick={() => toggleTag(t)}
+            >{tagLabel(t)}</button>
+          {/each}
+        </div>
       </div>
     {/if}
 
@@ -303,7 +305,29 @@
   .select select:hover { border-color: #d8d2c6; }
   .select select:focus-visible { outline: none; border-color: var(--brand-soft); box-shadow: 0 0 0 3px var(--brand-tint); }
 
-  .chips { display: flex; flex-wrap: wrap; gap: 0.4rem; }
+  .chips-scroll {
+    overflow-x: auto;
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+    /* fade edges to hint more content */
+    mask-image: linear-gradient(
+      to right,
+      transparent 0,
+      black 0.8rem,
+      black calc(100% - 1.5rem),
+      transparent 100%
+    );
+    margin-inline: -0.5rem;
+    padding-inline: 0.5rem;
+  }
+  .chips-scroll::-webkit-scrollbar { display: none; }
+  .chips {
+    display: flex;
+    flex-wrap: nowrap;
+    gap: 0.4rem;
+    width: max-content;
+    padding-bottom: 2px;
+  }
   .chip {
     font: inherit;
     font-size: 0.78rem;

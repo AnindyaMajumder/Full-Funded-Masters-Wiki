@@ -12,6 +12,7 @@
     label: COUNTRY_LABELS[k],
     count: DATA[k].length
   }));
+  const totalCount = navCountries.reduce((s, c) => s + c.count, 0);
 
   const path = $derived(page.url.pathname);
   const isActive = (href: string) =>
@@ -35,12 +36,16 @@
         <span class="brand-sub">verified scholarship wiki</span>
       </span>
     </a>
+  </div>
 
-    <nav class="nav" aria-label="Destinations">
-      <a class="nav-link" href="/" class:active={isActive('/')}>All</a>
+  <div class="destinations-bar">
+    <nav class="container destinations" aria-label="Browse by destination">
+      <a class="dest-link" href="/" class:active={isActive('/')}>
+        All<span class="dest-count">{totalCount}</span>
+      </a>
       {#each navCountries as c}
-        <a class="nav-link" href={`/${c.key}/`} class:active={isActive(`/${c.key}/`)}>
-          {c.label}<span class="nav-count">{c.count}</span>
+        <a class="dest-link" href={`/${c.key}/`} class:active={isActive(`/${c.key}/`)}>
+          {c.label}<span class="dest-count">{c.count}</span>
         </a>
       {/each}
     </nav>
@@ -83,13 +88,14 @@
     -webkit-backdrop-filter: saturate(1.4) blur(14px);
     border-bottom: 1px solid var(--line-soft);
   }
+
+  /* ── Brand row ── */
   .header-inner {
     display: flex;
     align-items: center;
-    justify-content: space-between;
-    gap: 1rem;
-    min-height: 68px;
-    padding-block: 0.55rem;
+    min-height: 56px;
+    padding-block: 0.45rem;
+    border-bottom: 1px solid var(--line-soft);
   }
 
   .brand { display: inline-flex; align-items: center; gap: 0.6rem; color: var(--ink); }
@@ -99,41 +105,45 @@
   .brand-name { font-family: var(--font-serif); font-weight: 600; font-size: 1.06rem; letter-spacing: -0.01em; }
   .brand-sub { font-size: 0.7rem; letter-spacing: 0.04em; color: var(--ink-mute); }
 
-  .nav {
+  /* ── Destinations strip ── */
+  .destinations-bar { overflow: hidden; }
+  .destinations {
     display: flex;
     align-items: center;
-    gap: 0.2rem;
+    gap: 0.15rem;
     overflow-x: auto;
     scrollbar-width: none;
     -ms-overflow-style: none;
-    margin-inline: -0.4rem;
-    padding-inline: 0.4rem;
+    padding-block: 0.3rem;
+    white-space: nowrap;
   }
-  .nav::-webkit-scrollbar { display: none; }
+  .destinations::-webkit-scrollbar { display: none; }
 
-  .nav-link {
+  .dest-link {
     display: inline-flex;
     align-items: center;
-    gap: 0.32rem;
-    font-size: 0.88rem;
+    gap: 0.28rem;
+    font-size: 0.82rem;
     font-weight: 500;
     color: var(--ink-soft);
-    padding: 0.42rem 0.72rem;
+    padding: 0.3rem 0.62rem;
     border-radius: var(--r-pill);
     white-space: nowrap;
     transition: background var(--t-fast) var(--ease), color var(--t-fast) var(--ease);
+    flex-shrink: 0;
   }
-  .nav-link:hover { background: var(--surface-sunken); color: var(--ink); }
-  .nav-link.active { background: var(--brand-tint); color: var(--brand-ink); }
-  .nav-count {
-    font-size: 0.68rem;
+  .dest-link:hover { background: var(--surface-sunken); color: var(--ink); }
+  .dest-link.active { background: var(--brand-tint); color: var(--brand-ink); }
+  .dest-count {
+    font-size: 0.65rem;
     font-weight: 600;
     color: var(--ink-mute);
     background: color-mix(in srgb, var(--surface-sunken) 70%, transparent);
-    padding: 0.05rem 0.36rem;
+    padding: 0.04rem 0.32rem;
     border-radius: var(--r-pill);
+    line-height: 1.4;
   }
-  .nav-link.active .nav-count { background: #fff; color: var(--brand-soft); }
+  .dest-link.active .dest-count { background: #fff; color: var(--brand-soft); }
 
   main { min-height: 60vh; }
 
@@ -152,10 +162,8 @@
   }
   .footer-meta { display: flex; gap: 0.5rem; font-size: 0.8rem; flex-wrap: wrap; }
 
-  @media (max-width: 720px) {
-    .header-inner { flex-direction: column; align-items: stretch; gap: 0.5rem; min-height: 0; }
-    .brand { align-self: flex-start; }
-    .nav { padding-bottom: 0.15rem; }
+  @media (max-width: 560px) {
     .brand-sub { display: none; }
+    .header-inner { min-height: 48px; }
   }
 </style>
